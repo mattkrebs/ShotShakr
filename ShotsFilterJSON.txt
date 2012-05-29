@@ -1,0 +1,947 @@
+[
+    {
+        "filter_id": 1,
+        "shot_id": 1294,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 2,
+        "shot_id": 1299,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 3,
+        "shot_id": 1302,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 4,
+        "shot_id": 1307,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 5,
+        "shot_id": 1311,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 6,
+        "shot_id": 1315,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 7,
+        "shot_id": 1316,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 8,
+        "shot_id": 1317,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 9,
+        "shot_id": 1318,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 10,
+        "shot_id": 1323,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 11,
+        "shot_id": 1324,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 12,
+        "shot_id": 1334,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 13,
+        "shot_id": 1340,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 14,
+        "shot_id": 1342,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 15,
+        "shot_id": 1346,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 16,
+        "shot_id": 1350,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 17,
+        "shot_id": 1351,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 18,
+        "shot_id": 1352,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 19,
+        "shot_id": 1353,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 20,
+        "shot_id": 1354,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 21,
+        "shot_id": 1359,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 22,
+        "shot_id": 1363,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 23,
+        "shot_id": 1366,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 24,
+        "shot_id": 1369,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 25,
+        "shot_id": 1373,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 26,
+        "shot_id": 1387,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 27,
+        "shot_id": 1402,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 28,
+        "shot_id": 1403,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 29,
+        "shot_id": 1406,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 30,
+        "shot_id": 1407,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 31,
+        "shot_id": 1415,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 32,
+        "shot_id": 1424,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 33,
+        "shot_id": 1427,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 34,
+        "shot_id": 1432,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 35,
+        "shot_id": 1441,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 36,
+        "shot_id": 1444,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 37,
+        "shot_id": 1446,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 38,
+        "shot_id": 1453,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 39,
+        "shot_id": 1463,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 40,
+        "shot_id": 1477,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 41,
+        "shot_id": 1479,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 42,
+        "shot_id": 1480,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 43,
+        "shot_id": 1487,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 44,
+        "shot_id": 1490,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 45,
+        "shot_id": 1501,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 46,
+        "shot_id": 1506,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 47,
+        "shot_id": 1518,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 48,
+        "shot_id": 1519,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 49,
+        "shot_id": 1534,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 50,
+        "shot_id": 1546,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 51,
+        "shot_id": 1547,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 52,
+        "shot_id": 1550,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 53,
+        "shot_id": 1553,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 54,
+        "shot_id": 1554,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 55,
+        "shot_id": 1555,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 56,
+        "shot_id": 1557,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 57,
+        "shot_id": 1561,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 58,
+        "shot_id": 1562,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 59,
+        "shot_id": 1568,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 60,
+        "shot_id": 1575,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 61,
+        "shot_id": 1584,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 62,
+        "shot_id": 1585,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 63,
+        "shot_id": 1589,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 64,
+        "shot_id": 1594,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 65,
+        "shot_id": 1595,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 66,
+        "shot_id": 1602,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 67,
+        "shot_id": 1605,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 68,
+        "shot_id": 1610,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 69,
+        "shot_id": 1612,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 70,
+        "shot_id": 1613,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 71,
+        "shot_id": 1622,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 72,
+        "shot_id": 1625,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 73,
+        "shot_id": 1626,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 74,
+        "shot_id": 1634,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 75,
+        "shot_id": 1639,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 76,
+        "shot_id": 1649,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 77,
+        "shot_id": 1651,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 78,
+        "shot_id": 1653,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 79,
+        "shot_id": 1655,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 80,
+        "shot_id": 1659,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 81,
+        "shot_id": 1664,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 82,
+        "shot_id": 1667,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 83,
+        "shot_id": 1668,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 84,
+        "shot_id": 1675,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 85,
+        "shot_id": 1682,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 86,
+        "shot_id": 1687,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 87,
+        "shot_id": 1699,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 88,
+        "shot_id": 1700,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 89,
+        "shot_id": 1708,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 90,
+        "shot_id": 1709,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 91,
+        "shot_id": 1710,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 92,
+        "shot_id": 1721,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 93,
+        "shot_id": 1723,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 94,
+        "shot_id": 1725,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 95,
+        "shot_id": 1727,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 96,
+        "shot_id": 1738,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 97,
+        "shot_id": 1741,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 98,
+        "shot_id": 1756,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 99,
+        "shot_id": 1757,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 100,
+        "shot_id": 1758,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 101,
+        "shot_id": 1759,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 102,
+        "shot_id": 1762,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 103,
+        "shot_id": 1766,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 104,
+        "shot_id": 1770,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 105,
+        "shot_id": 1774,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 106,
+        "shot_id": 1777,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 107,
+        "shot_id": 1780,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 108,
+        "shot_id": 1787,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 109,
+        "shot_id": 1790,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 110,
+        "shot_id": 1793,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 111,
+        "shot_id": 1794,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 112,
+        "shot_id": 1795,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 113,
+        "shot_id": 1799,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 114,
+        "shot_id": 1804,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 115,
+        "shot_id": 1811,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 116,
+        "shot_id": 1814,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 117,
+        "shot_id": 1817,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 118,
+        "shot_id": 1818,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 119,
+        "shot_id": 1822,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 120,
+        "shot_id": 1823,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 121,
+        "shot_id": 1834,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 122,
+        "shot_id": 1835,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 123,
+        "shot_id": 1836,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 124,
+        "shot_id": 1841,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 125,
+        "shot_id": 1844,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 126,
+        "shot_id": 1845,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 127,
+        "shot_id": 1846,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 128,
+        "shot_id": 1848,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 129,
+        "shot_id": 1858,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 130,
+        "shot_id": 1860,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 131,
+        "shot_id": 1861,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 132,
+        "shot_id": 1866,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 133,
+        "shot_id": 1867,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 134,
+        "shot_id": 1871,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 135,
+        "shot_id": 1874,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 136,
+        "shot_id": 1876,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 137,
+        "shot_id": 1883,
+        "filter_type": "vodka"
+    },
+    {
+        "filter_id": 138,
+        "shot_id": 1294,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 139,
+        "shot_id": 1298,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 140,
+        "shot_id": 1306,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 141,
+        "shot_id": 1309,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 142,
+        "shot_id": 1332,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 143,
+        "shot_id": 1339,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 144,
+        "shot_id": 1362,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 145,
+        "shot_id": 1383,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 146,
+        "shot_id": 1384,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 147,
+        "shot_id": 1389,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 148,
+        "shot_id": 1393,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 149,
+        "shot_id": 1399,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 150,
+        "shot_id": 1401,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 151,
+        "shot_id": 1431,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 152,
+        "shot_id": 1434,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 153,
+        "shot_id": 1435,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 154,
+        "shot_id": 1467,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 155,
+        "shot_id": 1481,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 156,
+        "shot_id": 1502,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 157,
+        "shot_id": 1517,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 158,
+        "shot_id": 1523,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 159,
+        "shot_id": 1525,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 160,
+        "shot_id": 1586,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 161,
+        "shot_id": 1595,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 162,
+        "shot_id": 1596,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 163,
+        "shot_id": 1598,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 164,
+        "shot_id": 1617,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 165,
+        "shot_id": 1637,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 166,
+        "shot_id": 1640,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 167,
+        "shot_id": 1641,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 168,
+        "shot_id": 1643,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 169,
+        "shot_id": 1647,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 170,
+        "shot_id": 1661,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 171,
+        "shot_id": 1663,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 172,
+        "shot_id": 1665,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 173,
+        "shot_id": 1666,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 174,
+        "shot_id": 1675,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 175,
+        "shot_id": 1689,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 176,
+        "shot_id": 1690,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 177,
+        "shot_id": 1713,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 178,
+        "shot_id": 1714,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 179,
+        "shot_id": 1716,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 180,
+        "shot_id": 1734,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 181,
+        "shot_id": 1740,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 182,
+        "shot_id": 1765,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 183,
+        "shot_id": 1786,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 184,
+        "shot_id": 1789,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 185,
+        "shot_id": 1837,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 186,
+        "shot_id": 1851,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 187,
+        "shot_id": 1862,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 188,
+        "shot_id": 1870,
+        "filter_type": "tequila"
+    },
+    {
+        "filter_id": 189,
+        "shot_id": 1880,
+        "filter_type": "tequila"
+    }
+]

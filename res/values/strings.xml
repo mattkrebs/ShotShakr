@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, shakr!</string>
+    <string name="app_name">ShotShakr</string>
+<string name="app_title">ShotShakr (the game)</string>
+<string name="button_txt_game1">Shakr (the game)</string>
+<string name="button_txt_game2">Shakr shot picker</string>
+<string name="shotpicker_title">Shot Shakr</string>
+    <string name="get_permission">Get Permission</string>
+    <string name="publish_to_feed">Tell everyone about ShotShakr.</string>
+<string name="fb_key">3d4bd9b285dc465e446d401380401147</string>
+<string name="fb_secret">16ee168a33f755d266c56a4dedbe0dc0</string>
+<string name="fb_app_name">ShotShakr</string>
+<string name="alert_dialog_update_social">Are you sure you want to update your status?</string>
+<string name="age_verify">Please Verify Your Age.</string>
+<string name="update_dialog">Updating Shots...</string>
+    <string name="request">Request!</string>
+    <string name="post">Wall Post!</string>
+    <string name="delete">Delete Post</string>
+    <string name="eula_title">ShotShakr</string>
+    <string name="eula_accept">accept</string>
+    <string name="eula_refuse">refuse</string>
+</resources>
