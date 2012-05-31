@@ -39,43 +39,7 @@ public class ShotUpdateHelper {
 		return _updateStatus;
 	}
 	
-	public void GetShotUpdate(Context context) {
-
-		SoapObject Request = new SoapObject(NAMESPACE, GETSHOTS_METHOD_NAME);
-
-		SoapSerializationEnvelope soapEnvelope = new SoapSerializationEnvelope(
-				SoapEnvelope.VER11);
-		soapEnvelope.dotNet = true;
-		soapEnvelope.setOutputSoapObject(Request);
-
-		AndroidHttpTransport aht = new AndroidHttpTransport(URL);
-
-		SoapPrimitive resultString;
-		try {
-			aht.call(GETSHOTS_SOAP_ACTION, soapEnvelope);
-			resultString = (SoapPrimitive) soapEnvelope.getResponse();
-
-			json = new JSONArray(resultString.toString());
-
-			this.repo = new ShotRepository(context); 
-			this.repo.deleteAllShots();
-			
-			//perform insert
-			for (int i = 0; i < json.length(); i++) {				 
-				JSONObject shot = new JSONObject();
-				shot = json.getJSONObject(i);
-				Log.w("UpdateShots","Updating Shot.... " + shot.getString("shot_name"));
-				this.repo.shotInsert(shot.getInt("shot_id"), shot.getString("shot_name"),shot.getString("ingredients"), shot.getString("instructions"),shot.getString("amount"));				
-				setUpdateStatus(i + 1);
-			}
-			
-			
-
-		} catch (Exception e) {
-			Log.w("ServiceCall", e.getMessage());
-		}
-		this.repo.close();
-	}
+	
 	
 	public Boolean hasNoShots(){
 		

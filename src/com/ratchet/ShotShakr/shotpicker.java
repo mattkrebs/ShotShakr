@@ -164,7 +164,7 @@ public class shotpicker extends Activity implements OnTouchListener,
 		vibe = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 		repo = new ShotRepository(this);
 	
-	
+		repo.open();
 		
 		shotName = (TextView) findViewById(R.id.shot);
 		shotName2 = (TextView) findViewById(R.id.shot_2);
@@ -673,7 +673,7 @@ public class shotpicker extends Activity implements OnTouchListener,
 
 	    	private Context aContext;
 	    	private ArrayList<String> aFilters;
-
+	    	ShotRepository repo = new ShotRepository(getApplicationContext());
 	    	public UpdateShots(Context context, ArrayList<String> filters){
 	    		aContext = context;
 	    		aFilters = filters;
@@ -684,12 +684,14 @@ public class shotpicker extends Activity implements OnTouchListener,
 	    	protected void onPostExecute(ArrayList<Shot> result) {
 	    		// TODO Auto-generated method stub
 	    		setShots(result);
+	    		repo.close();
 	    	}
 
 
 	    	@Override
 	    	protected ArrayList<Shot> doInBackground(String... params) {
-	    		ShotRepository repo = new ShotRepository(aContext);
+	    		
+	    		repo.open();
 	    		Log.w("Update Shots Thread", "Getting Shots and Applying filter");
 	    		if (aFilters != null && aFilters.size() > 0){
 	    			Log.w("ShotUpdater", "GetShots with Filter");
@@ -697,7 +699,9 @@ public class shotpicker extends Activity implements OnTouchListener,
 	    		}
 	    		else{
 	    			Log.w("ShotUpdater", "GetAllShots No Filter");
-	    			return repo.getAllShots();}
+	    			return repo.getAllShots();
+	    			}
+	    		
 	    	}
 	    	
 

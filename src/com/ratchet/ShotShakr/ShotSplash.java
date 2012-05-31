@@ -85,14 +85,15 @@ public class ShotSplash extends Activity implements OnTouchListener {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.splash);
 
-		//tracker = GoogleAnalyticsTracker.getInstance();
+		tracker = GoogleAnalyticsTracker.getInstance();
 		Log.w("SHOT SPLASH", "Created");
 
-		//tracker.start("UA-16603880-1", this);
-		//tracker.trackPageView("/shotsplash");
-	//	sPrefs = this.getSharedPreferences("shakr", MODE_PRIVATE);
-	//	dataSource = new ShotRepository(this);
-	//	dataSource.open();
+		tracker.start("UA-16603880-1", this);
+		tracker.trackPageView("/shotsplash");
+		sPrefs = this.getSharedPreferences("shakr", MODE_PRIVATE);
+		dataSource = new ShotRepository(this);
+		dataSource.open();
+		
 		//this.uH = new ShotUpdateHelper(this);
 		//this.fUH = new FilterUpdateHelper();
 		showSplash();
@@ -206,14 +207,15 @@ public class ShotSplash extends Activity implements OnTouchListener {
 	};
 
 	public void showSplash() {
-		//if (uH.hasNoShots())
+		if (dataSource.getAllShots().size() == 0)
 			new DownloadShots().execute();
-
+		else
+			SendToActivity(shotpicker.class);
 		//if (uH.hasUpdate()) {
 		//	showDialog(SHOW_UPDATE_DIALOG);
 		//} else {
 
-	//		SendToActivity(shotpicker.class);
+	//		
 		//}
 		// Moved To dialog
 		// new DownloadShots().execute();
@@ -239,6 +241,11 @@ public class ShotSplash extends Activity implements OnTouchListener {
 		protected Void doInBackground(Void... params) {
 			try{
 				Log.i("Shot Updater", "UpdatingShots");
+				
+				ShotRepository dataSource = new ShotRepository(getApplicationContext());
+				dataSource.open();
+				
+				
 				InputStream is = getResources().openRawResource(R.raw.shot_json);
 				Gson gson = new Gson();
 				Reader reader = new InputStreamReader(is);
@@ -249,11 +256,12 @@ public class ShotSplash extends Activity implements OnTouchListener {
 				
 				for(JsonElement obj : jArray){
 					Shot shot = gson.fromJson(obj, Shot.class);
+					dataSource.shotInsert(shot);
 					shots.add(shot);
 					Log.w("Shot Name:", shot.shotName);
 				}
 				
-				
+				dataSource.close();
 				
 			}catch (Exception ex){
 				ex.printStackTrace();
@@ -268,8 +276,8 @@ public class ShotSplash extends Activity implements OnTouchListener {
 		@Override
 		protected void onPostExecute(Void result) {
 			// removeDialog(SHOW_UPDATE_DIALOG);
-			//Log.w("SHOT SPLASH", "Sending to Shot Picker Activity");
-			//SendToActivity(shotpicker.class);
+			Log.w("SHOT SPLASH", "Sending to Shot Picker Activity");
+			SendToActivity(shotpicker.class);
 		}
 
 	}

@@ -23,7 +23,11 @@ public class Shot {
 		
 		
 	   public Shot(int shotid, String name, String i, String instruct, String amount) {
-			
+			this.shotId = shotid;
+			this.shotName = name.replace("&reg;", "®");;
+			this.ingredients = i.replace("&reg;", "®");;
+			this.instructions = instruct.replace("&reg;", "®");;
+			this.amount = amount.replace("&reg;", "®");;
 	   }
 		
 

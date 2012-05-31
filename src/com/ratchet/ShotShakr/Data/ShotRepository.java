@@ -33,27 +33,24 @@ public class ShotRepository {
 	public ShotRepository(Context context) {
 		
 		this.dbHelper = new ShotDataSQLHelper(context);
-
-	
-		this.shotinsertStmt = this.database.compileStatement(SHOT_INSERT);
-		this.filterinsertStmt = this.database.compileStatement(FILTER_INSERT);
 	}
 
 	public void open() throws SQLException{
 		database = dbHelper.getWritableDatabase();
+		this.shotinsertStmt = this.database.compileStatement(SHOT_INSERT);
+		this.filterinsertStmt = this.database.compileStatement(FILTER_INSERT);
 	}
 	
 	public void close(){
 		dbHelper.close();
 	}
 	
-	public long shotInsert(int id, String name, String ingredients,
-			String instructions, String amount) {
-		this.shotinsertStmt.bindLong(1, id);
-		this.shotinsertStmt.bindString(2, name);
-		this.shotinsertStmt.bindString(3, ingredients);
-		this.shotinsertStmt.bindString(4, instructions);
-		this.shotinsertStmt.bindString(5, amount);
+	public long shotInsert(Shot shot) {
+		this.shotinsertStmt.bindLong(1, shot.shotId);
+		this.shotinsertStmt.bindString(2, shot.shotName);
+		this.shotinsertStmt.bindString(3, shot.ingredients);
+		this.shotinsertStmt.bindString(4, shot.instructions);
+		this.shotinsertStmt.bindString(5, shot.amount);
 		return this.shotinsertStmt.executeInsert();
 	}
 
