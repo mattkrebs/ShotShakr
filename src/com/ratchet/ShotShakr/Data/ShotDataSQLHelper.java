@@ -7,8 +7,8 @@ import android.database.sqlite.SQLiteDatabase.CursorFactory;
 import android.util.Log;
 
 public class ShotDataSQLHelper extends SQLiteOpenHelper {
-	 private static final String DATABASE_NAME = "shotshakr.db";
-	   private static final int DATABASE_VERSION = 3;
+	private static final String DATABASE_NAME = "shotshakr.db";
+	   private static final int DATABASE_VERSION = 1;
 	   
 	   private static final String SHOT_TABLE_NAME = "shot";
 	   private static final String FILTER_TABLE_NAME = "filter";

@@ -295,11 +295,11 @@ public class shotpicker extends Activity implements OnTouchListener,
 						
 						if (isfirst) {
 							shotName.setTypeface(fontFace);
-							shotName.setText(allShots.get(rand).getShotName());
+							shotName.setText(allShots.get(rand).shotName);
 							isfirst = false;
 						} else {
 							shotName2.setTypeface(fontFace);
-							shotName2.setText(allShots.get(rand).getShotName());
+							shotName2.setText(allShots.get(rand).shotName);
 							isfirst = true;
 						}
 						
@@ -452,7 +452,7 @@ public class shotpicker extends Activity implements OnTouchListener,
 		
 		for (Shot shot : allShots) {
 
-			if (shot.getShotName().equals(shotName)) {
+			if (shot.shotName.equals(shotName)) {
 				myShot = shot;
 				break;
 			}
@@ -461,9 +461,9 @@ public class shotpicker extends Activity implements OnTouchListener,
 
 		if (myShot != null) {
 			shotDetailName.setTypeface(fontFace);
-			shotDetailName.setText(myShot.getShotName());
+			shotDetailName.setText(myShot.shotName);
 			shotDetailIngred.setTypeface(fontFace);
-			shotDetailIngred.setText(myShot.getAmount().replace("||", "\n"));
+			shotDetailIngred.setText(myShot.amount.replace("||", "\n"));
 			
 		}
 	}

@@ -15,7 +15,7 @@ public final class R {
         public static final int push_right_out=0x7f040003;
     }
     public static final class array {
-        public static final int select_social=0x7f060000;
+        public static final int select_social=0x7f070000;
     }
     public static final class attr {
     }
@@ -61,28 +61,28 @@ public final class R {
         public static final int white=0x7f020026;
     }
     public static final class id {
-        public static final int background_flipper=0x7f080009;
-        public static final int btn_chicken=0x7f080008;
-        public static final int btn_login=0x7f080015;
-        public static final int btn_tookthis=0x7f080007;
-        public static final int coaster=0x7f08000b;
-        public static final int coaster2=0x7f08000d;
-        public static final int detail_layout=0x7f08000f;
-        public static final int filterHandle=0x7f080002;
-        public static final int filterSlidingDrawer=0x7f080001;
-        public static final int filtercontent=0x7f080003;
-        public static final int flipper=0x7f08000a;
-        public static final int login=0x7f080000;
-        public static final int shot=0x7f08000c;
-        public static final int shotIngredients=0x7f080006;
-        public static final int shotName=0x7f080005;
-        public static final int shot_2=0x7f08000e;
-        public static final int shot_detail=0x7f080004;
-        public static final int txt_password=0x7f080014;
-        public static final int txt_username=0x7f080012;
-        public static final int widget29=0x7f080010;
-        public static final int widget31=0x7f080011;
-        public static final int widget33=0x7f080013;
+        public static final int background_flipper=0x7f090009;
+        public static final int btn_chicken=0x7f090008;
+        public static final int btn_login=0x7f090015;
+        public static final int btn_tookthis=0x7f090007;
+        public static final int coaster=0x7f09000b;
+        public static final int coaster2=0x7f09000d;
+        public static final int detail_layout=0x7f09000f;
+        public static final int filterHandle=0x7f090002;
+        public static final int filterSlidingDrawer=0x7f090001;
+        public static final int filtercontent=0x7f090003;
+        public static final int flipper=0x7f09000a;
+        public static final int login=0x7f090000;
+        public static final int shot=0x7f09000c;
+        public static final int shotIngredients=0x7f090006;
+        public static final int shotName=0x7f090005;
+        public static final int shot_2=0x7f09000e;
+        public static final int shot_detail=0x7f090004;
+        public static final int txt_password=0x7f090014;
+        public static final int txt_username=0x7f090012;
+        public static final int widget29=0x7f090010;
+        public static final int widget31=0x7f090011;
+        public static final int widget33=0x7f090013;
     }
     public static final class layout {
         public static final int facebook_login=0x7f030000;
@@ -93,27 +93,30 @@ public final class R {
         public static final int splash=0x7f030005;
         public static final int twitter_login=0x7f030006;
     }
+    public static final class raw {
+        public static final int shot_json=0x7f060000;
+    }
     public static final class string {
-        public static final int age_verify=0x7f07000c;
-        public static final int alert_dialog_update_social=0x7f07000b;
-        public static final int app_name=0x7f070001;
-        public static final int app_title=0x7f070002;
-        public static final int button_txt_game1=0x7f070003;
-        public static final int button_txt_game2=0x7f070004;
-        public static final int delete=0x7f070010;
-        public static final int eula_accept=0x7f070012;
-        public static final int eula_refuse=0x7f070013;
-        public static final int eula_title=0x7f070011;
-        public static final int fb_app_name=0x7f07000a;
-        public static final int fb_key=0x7f070008;
-        public static final int fb_secret=0x7f070009;
-        public static final int get_permission=0x7f070006;
-        public static final int hello=0x7f070000;
-        public static final int post=0x7f07000f;
-        public static final int publish_to_feed=0x7f070007;
-        public static final int request=0x7f07000e;
-        public static final int shotpicker_title=0x7f070005;
-        public static final int update_dialog=0x7f07000d;
+        public static final int age_verify=0x7f08000c;
+        public static final int alert_dialog_update_social=0x7f08000b;
+        public static final int app_name=0x7f080001;
+        public static final int app_title=0x7f080002;
+        public static final int button_txt_game1=0x7f080003;
+        public static final int button_txt_game2=0x7f080004;
+        public static final int delete=0x7f080010;
+        public static final int eula_accept=0x7f080012;
+        public static final int eula_refuse=0x7f080013;
+        public static final int eula_title=0x7f080011;
+        public static final int fb_app_name=0x7f08000a;
+        public static final int fb_key=0x7f080008;
+        public static final int fb_secret=0x7f080009;
+        public static final int get_permission=0x7f080006;
+        public static final int hello=0x7f080000;
+        public static final int post=0x7f08000f;
+        public static final int publish_to_feed=0x7f080007;
+        public static final int request=0x7f08000e;
+        public static final int shotpicker_title=0x7f080005;
+        public static final int update_dialog=0x7f08000d;
     }
     public static final class xml {
         public static final int filter=0x7f050000;
