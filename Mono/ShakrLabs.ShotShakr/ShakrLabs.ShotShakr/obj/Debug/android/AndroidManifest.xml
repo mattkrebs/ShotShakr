@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.shakrlabs.shotshakr" android:versionCode="1" android:versionName="1">
-  <uses-sdk android:targetSdkVersion="8" android:minSdkVersion="8" />
+  <uses-sdk android:targetSdkVersion="16" android:minSdkVersion="8" />
   <application android:label="Shot Shakr" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="ShakrLabs.ShotShakr" android:name="shakrlabs.shotshakr.Main">
       <intent-filter>

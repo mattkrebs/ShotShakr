@@ -20,3 +20,14 @@ D:\MyProjects\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\MonoCross.Utilit
 D:\MyProjects\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\android\bin\MonoCross.Utilities.MA.apk
 D:\MyProjects\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\R.cs.flag
 D:\MyProjects\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\uploadflags.txt
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\bin\Debug\MonoCross.Utilities.MA.dll
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\bin\Debug\MonoCross.Utilities.MA.pdb
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\bin\Debug\MonoCross.Utilities.MA.dll.mdb
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\bin\Debug\MonoCross.Utilities.MA.apk
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\bin\Debug\MonoCross.Utilities.MA-Signed.apk
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\MonoCross.Utilities.MA.csprojResolveAssemblyReference.cache
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\MonoCross.Utilities.MA.dll
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\MonoCross.Utilities.MA.pdb
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\android\bin\MonoCross.Utilities.MA.apk
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\R.cs.flag
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\MonoCross.Utilities\obj\Debug\uploadflags.txt
