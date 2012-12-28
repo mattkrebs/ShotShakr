@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<filter name="vodka" resource="@drawable/vodkabutton"></filter>
-	<filter name="tequila" resource="@drawable/tequilabutton"></filter>
-</resources>

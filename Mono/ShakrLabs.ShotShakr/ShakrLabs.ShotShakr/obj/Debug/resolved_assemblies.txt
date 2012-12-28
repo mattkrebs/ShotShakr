@@ -1,0 +1,2 @@
+D:\MyProjects\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShakrLabs.ShotShakr.dll
+D:\MyProjects\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\MonoCross.Utilities.MA.dll

@@ -1,0 +1,3 @@
+ShakrLabs.ShotShakr.ShotNameTextView;shakrlabs.shotshakr.ShotNameTextView
+ShakrLabs.ShotShakr.Main;shakrlabs.shotshakr.Main
+ShakrLabs.ShotShakr.ShotPicker;shakrlabs.shotshakr.ShotPicker

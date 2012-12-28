@@ -1,0 +1,3362 @@
+﻿[
+{
+"shot_id": 1293,
+"shot_name": ".46 Magnum",
+"instructions": "Combine all ingredients together in a large shot glass or small rocks glass||Stir and serve",
+"ingredients": "1 oz Bourbon Whiskey||1/2 oz Johnnie Walker® Black Label Scotch Whisky||1/2 oz Romana® Black Sambuca||1/2 oz Wild Turkey® 101 Bourbon Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1294,
+"shot_name": "18 and Older",
+"instructions": "shake ingredients on ice until cold||Strain into a shot glass, and serve",
+"ingredients": "1/3 oz Vodka||1/3 oz Passoa® Liqueur||1/3 oz Silver Tequila||1 Dash Orange Juice||1 Dash Lime Juice",
+"filters":"tequila,vodka"
+},
+{
+"shot_id": 1295,
+"shot_name": "20/20 Lemon",
+"instructions": "Pour MD 20/20 (try any flavor) into a cup||Add Bacardi limon rum, and serve",
+"ingredients": "3/4 Cup Mad Dog® Grape Wine||1/4 Cup Limon Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1296,
+"shot_name": "2000 Flushes",
+"instructions": "In a shaker over ice, pour equal parts of vodka and rum||Add a splash of pineapple juice, and blue curacao (for color)||Shake and strain into shot glasses, and serve",
+"ingredients": "1 oz Coconut Rum||1 oz Vodka||1 Splash Pineapple Juice||1 tsp Blue Curacao Liqueur",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1297,
+"shot_name": "250",
+"instructions": "stir together in a shot glass, and serve",
+"ingredients": "1/2 oz 99 Bananas® Banana Schnapps||1/2 oz Bacardi® 151 Rum",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1298,
+"shot_name": "2MC's",
+"instructions": "Pour both the Southern Comfort and Strawberry liqueur into a shot glass in equal parts, and shoot",
+"ingredients": "1/2 oz Southern Comfort® Peach Liqueur||1/2 oz Strawberry Cream Liqueur",
+"filters":""
+},
+{
+"shot_id": 1299,
+"shot_name": "352 Cocktail",
+"instructions": "stir ingredients together in a shot glass, and shoot",
+"ingredients": "1/3 oz 151 Proof Rum||1/3 oz Grey Goose® Vodka||1/3 oz Bourbon Whiskey",
+"filters":"whisky,rum,vodka"
+},
+{
+"shot_id": 1300,
+"shot_name": "352 Shot",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1/3 oz Bacardi® 151 Rum||1/3 oz Wild Turkey® 101 Bourbon Whiskey||1/3 oz Rumple Minze® Peppermint Liqueur",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1301,
+"shot_name": "358 Magnum",
+"instructions": "shake ingredients together over ice in a cocktail shaker; strain into a shot glass, and serve",
+"ingredients": "2/3 oz Bacardi® 151 Rum||2/3 oz Goldschlager® Cinnamon Schnapps||2/3 oz Rumple Minze® Peppermint Liqueur",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1302,
+"shot_name": "4th of July",
+"instructions": "Layer in order given||Pour into a shot glass",
+"ingredients": "1/2 oz Grenadine Syrup||1/2 oz Vodka||1/2 oz Blue Curacao Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1303,
+"shot_name": "5 Best Friends",
+"instructions": "Combine ingredients in a shot glass, and serve",
+"ingredients": "1/5 oz Tennessee Whiskey||1/5 oz Jagermeister®||1/5 oz Johnnie Walker® Scotch Whisky||1/5 oz Bourbon Whiskey||1/5 oz Gold Tequila",
+"filters":"whisky,tequila"
+},
+{
+"shot_id": 1304,
+"shot_name": "5 Deadly Venoms",
+"instructions": "Add all ingredients to a cocktail shaker filled with ice cubes||Shake well (until red-ish)||Serve into shot glasses as appropriate",
+"ingredients": "1 oz Licorice Liqueur||1 oz Goldschlager® Cinnamon Schnapps||1 oz Jagermeister®||1 oz Rumple Minze® Peppermint Liqueur||1/2 oz Grenadine Syrup",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1305,
+"shot_name": "57 Chevy",
+"instructions": "stir ingredients together in an old-fashioned glass, and serve",
+"ingredients": "1/2 oz Southern Comfort® Peach Liqueur||1/2 oz Amaretto Almond Liqueur||1/2 oz Orange Liqueur||1/2 oz Orange Juice||1/2 oz Pineapple Juice||1 Splash Grenadine Syrup",
+"filters":""
+},
+{
+"shot_id": 1306,
+"shot_name": "6 Shooter",
+"instructions": "stir ingredients together in a double-shot glass, and serve",
+"ingredients": "1/3 oz Coffee Liqueur||1/3 oz Butterscotch Schnapps||1/3 oz Amaretto Almond Liqueur||1/3 oz Tequila||1/3 oz Cinnamon Schnapps||1/3 oz Irish Cream",
+"filters":"schnapps,tequila"
+},
+{
+"shot_id": 1307,
+"shot_name": "A Short Southern Nail",
+"instructions": "Fill a shot glass half full of Southern Comfort, then fill the rest of the way with the Stoli (preferrably stored in freezer) leaving a small amount of room at the top||Then splash a bit of the Grey Goose to top it off||Sit and enjoy!",
+"ingredients": "1/2 oz Southern Comfort® Peach Liqueur||1/2 oz Stolichnaya® Vodka||1 Splash Grey Goose® L'Orange Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1308,
+"shot_name": "A Splash of Nash",
+"instructions": "Drop a shot glass containing banana and melon liqueurs in, into a 9 oz highball glass containing soda water and cranberry juice||Shoot",
+"ingredients": "2 oz Cranberry Juice||2 oz Soda Water||1/2 ozMelon Liqueur||1/2 oz Creme de Bananes",
+"filters":""
+},
+{
+"shot_id": 1309,
+"shot_name": "A Tender Touch",
+"instructions": "First pour the Rumple Minze into a chilled shot glass||Now carefully add the Tabasco using a spoon||The idea is to form a even layer of Tabasco on the Rumple Minze without actually mixing them||Add the tequila on top and shoot",
+"ingredients": "1/3 oz Jose Cuervo® White Tequila||1/3 oz Rumple Minze® Peppermint Liqueur||1/3 oz Tabasco® Sauce",
+"filters":"rum,tequila"
+},
+{
+"shot_id": 1310,
+"shot_name": "A.B.C.",
+"instructions": "Layered in a shot glass",
+"ingredients": "1/3 oz Amaretto Almond Liqueur||1/3 oz Bailey's® Irish Cream||1/3 oz Cognac",
+"filters":""
+},
+{
+"shot_id": 1311,
+"shot_name": "AA Discount",
+"instructions": "Mix the vodka with the Tabasco sauce||Add the Red Bull and drink immediately",
+"ingredients": "3 oz Vodka||1/4 oz Tabasco® Sauce||2 oz Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1314,
+"shot_name": "Czech Ritual",
+"instructions": "Pour 3/4 of a full shot of Herbal Liqueur in a sundae glass||put a brown sugar cube on a spoon with holes in it and rest it on the rim of the sundae glass||Pour the remaining 1/4 of the shot of absinthe onto the brown sugar cube, light the brown sugar on fire (put the flame under the spoon)||Let the flame burn for a minute while the brown sugar drips into the glass and caramelizes||stir the caramelized sugar into the glass||Add the water to the glass, stir again||and serve",
+"ingredients": "2 oz Herbal Liqueur||1 tsp Brown Sugar||2 - 4 oz Water",
+"filters":""
+},
+{
+"shot_id": 1316,
+"shot_name": "Absolut Train Wreck",
+"instructions": "Add the ingredients to a cocktail shaker half-filled with ice cubes||Shake well, pour into a cup, and serve",
+"ingredients": "1/2 oz Absolut® Vodka||1/2 oz Absolut® Kurant Vodka||1/2 oz Absolut® Citron Vodka||1 1/2 oz Cranberry Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1317,
+"shot_name": "Absolut Trifle",
+"instructions": "Layer about a third of an ounce of each ingredient in a shot glass in the order listed, and serve",
+"ingredients": "1/3 oz Absolut® Kurant Vodka||1/3 oz Chambord® Raspberry Liqueur||1/3 oz Bailey's® Irish Cream",
+"filters":"vodka"
+},
+{
+"shot_id": 1318,
+"shot_name": "Irish Delight",
+"instructions": "Pour the Bailey's Irish cream and buttershots into a cocktail shaker with ice||Shake briefly and strain into a shot glass||Add Absolut vodka, and serve",
+"ingredients": "1/2 oz Bailey's® Irish Cream||1/2 oz Buttershots Liqueur||1/2 oz Absolut® Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1320,
+"shot_name": "Acid Cookie",
+"instructions": "Mix liquor togther||Add Cream||Shake Well||Strain & Serve",
+"ingredients": "1/4 oz Rumple Minze® Peppermint Liqueur||1/4 oz Bailey's® Irish Cream||1/4 oz Butterscotch Schnapps||1/4 oz Bacardi® 151 Rum||1 Splash Cream",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1321,
+"shot_name": "Nail Polish Remover",
+"instructions": "Add all ingredients to a cocktail shaker half-filled with ice cubes||Shake well and strain into a highball glass rimmed with lemon zest and sugar",
+"ingredients": "1 oz Blue Curacao Liqueur||2 oz Gin||2 oz Fresh Lime Juice||2 oz Fresh Grapefruit Juice||1 oz Lemon Juice",
+"filters":"gin"
+},
+{
+"shot_id": 1322,
+"shot_name": "Adrenaline Rush",
+"instructions": "Pour ingredients over ice cubes in a tall glass, stir and serve",
+"ingredients": "3 oz Energy Drink||3 oz Coconut Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1323,
+"shot_name": "Dude on Acid",
+"instructions": "Pour the watermelon vodka and Midori melon liqueur into a cocktail shaker half-filled with ice cubes||Shake briefly, strain into a double-sized shot glass, and serve",
+"ingredients": "1 1/2 oz Watermelon Vodka||1/2 ozMelon Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 132455,
+"shot_name": "Tinnie",
+"instructions": "Layer ingredients in order into a shot glass, and serve",
+"ingredients": "1/3 oz Vodka||1/3 oz Peach Schnapps||1/3 oz Jagermeister®",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1325,
+"shot_name": "Afterburn",
+"instructions": "Pour the Jagermeister and coconut rum into a 2-oz shot glass, then pour a little Bailey's Irish Cream around the edge so you get tendrils into the mixture||Float a bit of 151 on the top and light||Blow out after a couple of seconds & shoot||Goes down smooth, then the 151 burn hits - hence the name Afterburn",
+"ingredients": "3/4 oz Jagermeister®||1/4 oz Coconut Rum||1/4 oz Bailey's® Irish Cream||1/4 oz Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1327,
+"shot_name": "Agent Orange",
+"instructions": "stir in an old-fashioned glass, and serve",
+"ingredients": "2 oz Energy Drink||1 1/2 oz Orange Vodka||1 oz Southern Comfort® Peach Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1328,
+"shot_name": "Agua",
+"instructions": "Roughly pour the ingredients together in similar proportions into a shot glass, making sure you finish with the Bailey's - which should sink to the bottom then swirl through the blue",
+"ingredients": "1/3 oz Coconut Rum||1/3 oz Blue Curacao Liqueur||1/3 oz Bailey's® Irish Cream",
+"filters":"rum"
+},
+{
+"shot_id": 1329,
+"shot_name": "Agua Mouthwash",
+"instructions": "Very similar to a normal Agua||Roughly put the ingredients together in similar proportions into a shot glass, making sure you finish with the Bailey's - which should sink to the bottom then swirl through the blue-green",
+"ingredients": "1/4 oz Coconut Rum||1/4 oz Blue Curacao Liqueur||1/4 oz Creme de Menthe||1/4 oz Bailey's® Irish Cream",
+"filters":"rum"
+},
+{
+"shot_id": 1331,
+"shot_name": "Alabama Slammer",
+"instructions": "shake over ice and strain into shot glasses",
+"ingredients": "1 Part Amaretto Almond Liqueur||1 Part Tennessee Whiskey||1 Part Orange Juice||1 Part Creme de Noyaux",
+"filters":"whisky"
+},
+{
+"shot_id": 1332,
+"shot_name": "Alamo",
+"instructions": "Build ingredients with 1 - 2 ice cubes in a highball glass, and serve",
+"ingredients": "1 1/2 oz Wild Turkey® 101 Bourbon Whiskey||1 1/2 oz 100 Proof Tequila||1 1/2 oz 151 Proof Rum||1/2 oz Tabasco® Sauce||1 Dash Black Peppers",
+"filters":"whisky,tequila,rum"
+},
+{
+"shot_id": 1333,
+"shot_name": "Jolly Rancher",
+"instructions": "Pour the Everclear into a shot glass||Add blue curacao, and finish with watermelon pucker schnapps||Stir with a toothpick, and shoot",
+"ingredients": "1/3 oz Everclear® Alcohol||1/3 oz Blue Curacao Liqueur||1/3 oz Watermelon Pucker Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1334,
+"shot_name": "Alex Trebek",
+"instructions": "Mix both shots together in a shot glass,reciting and now your double jeopardy categories||then toss back a good one!",
+"ingredients": "1 oz Cheap Vodka||1 oz Vanilla Extract",
+"filters":"vodka"
+},
+{
+"shot_id": 1336,
+"shot_name": "All Night Hunter",
+"instructions": "Pour equal amounts into a shot glass, and serve",
+"ingredients": "1 oz Energy Drink||1 oz Jagermeister®",
+"filters":""
+},
+{
+"shot_id": 1338,
+"shot_name": "Almond Gravy",
+"instructions": "Pour both ingredients into a small old-fashioned glass||Add a few grains of grinded coffee||Mix with a spoon, drink a shot",
+"ingredients": "1/2 oz Tia Maria® Coffee Liqueur||1/2 oz Amaretto Almond Liqueur",
+"filters":""
+},
+{
+"shot_id": 1340,
+"shot_name": "Amaretto Sourball",
+"instructions": "shake all ingredients together with ice in a cocktail shaker||Strain into a large shot glass or small old-fashioned glass, and serve",
+"ingredients": "1 oz Vodka||1 oz Amaretto Almond Liqueur||1 Splash Lemon Juice||1 Splash Orange Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1341,
+"shot_name": "American Hammer",
+"instructions": "Pour ingredients into a shot glass in the following order; aftershock, gold rush, peppermint||Serve",
+"ingredients": "1/3 oz Peppermint Liqueur||1/3 oz Gold Rush® Cinnamon Schnapps||1/3 oz Aftershock® Hot & Cool Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1342,
+"shot_name": "Anabolic Steroid",
+"instructions": "Pour blue curacao into a shot glass, followed by midori then vodka||Serve",
+"ingredients": "3/6 oz Blue Curacao Liqueur||2/6 ozMelon Liqueur||1/6 oz Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1344,
+"shot_name": "Anaconda",
+"instructions": "Pour both ingredients in equal parts into a shot glass, and serve",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz White Sambuca",
+"filters":"whisky"
+},
+{
+"shot_id": 1345,
+"shot_name": "Angel Nector",
+"instructions": "shake ingredients with a couple ice cubes in a cocktail shaker||Strain into a shot glass, and serve",
+"ingredients": "1 oz Canadian Whisky||1 oz Peach Liqueur",
+"filters":"whisky"
+},
+{
+"shot_id": 1346,
+"shot_name": "Angela's Cabin",
+"instructions": "Drop peanut butter into a shot glass||Fill most of the way with vodka, leaving room for the milk||Serve with a spoon, and chase with the peanut butter",
+"ingredients": "1 tsp Creamy Peanut Butter||1 oz Vodka||1 Splash 2% Milk",
+"filters":"vodka"
+},
+{
+"shot_id": 1347,
+"shot_name": "Angie's Sweet pie",
+"instructions": "Add ingredients to a mixing glass half-filled with ice||Swirl and strain into a large shot glass, and serve",
+"ingredients": "1 1/2 oz Black Haus® Blackberry Schnapps||1/2 oz Watermelon Pucker Schnapps||1 Splash Cranberry Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1348,
+"shot_name": "Anthrax",
+"instructions": "Pour into a shot glass and serve",
+"ingredients": "1/3 oz Spiced Rum||1/3 oz Bacardi® White Rum||1/3 oz Canadian Whisky",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1350,
+"shot_name": "Anti Freeze",
+"instructions": "Pour above ingredients into a stainless steel shaker over ice||Shake until ice cold, strain into a large shot glass, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Green Creme de Menthe",
+"filters":"vodka"
+},
+{
+"shot_id": 1351,
+"shot_name": "Antwoine",
+"instructions": "Layer ingredients in a shot glass (Kahlua at the bottom)||Chill and serve as a shot",
+"ingredients": "1/3 oz Stolichnaya® Vanilla Vodka||1/3 oz Stolichnaya® Strawberry Vodka||1/3 oz Coffee Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1352,
+"shot_name": "Apeachy Procaccini",
+"instructions": "stir ingredients together in a highball glass filled with ice cubes, and serve",
+"ingredients": "3 oz Absolut® Apeach Vodka||3 oz Juicy Juice® Peach Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1353,
+"shot_name": "Apple Bomb",
+"instructions": "Pour the Smirnoff Green Apple vodka into a highball glass||Add the Red Bull (pre-chilled), and serve",
+"ingredients": "1 oz Smirnoff® Green Apple Twist Vodka||8 oz Can|| Chilled Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1356,
+"shot_name": "Apple Jacks",
+"instructions": "stir ingredients together in an old fashioned glass and serve",
+"ingredients": "1 oz Buttershots Liqueur||1 oz Sour Apple Pucker Schnapps||1 1/2 oz  Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1358,
+"shot_name": "Apple Jell o Shots",
+"instructions": "Mix the boiling water with the single package of sour apple jell-o||Stir for 2 minutes until all dissolved||Add 2 cups of Sour Apple Pucker schnapps, and mix well||Pour into small cups with lids and let set overnight||Serve, preferably at parties",
+"ingredients": "16 oz Sour Apple Pucker Schnapps||1 Package Sour Apple Jell-o||16 oz Boiling Water",
+"filters":"schnapps"
+},
+{
+"shot_id": 1359,
+"shot_name": "Apple Pie Shot",
+"instructions": "Pour apple juice and vodka into a shot glass||Sprinkle cinnamon on the tongue and pour contents of shot glass into your mouth||Shake head until cinnamon is dissolved, and consume",
+"ingredients": "1 Shot Apple Juice||1 Shot Vodka||1 Dash Cinnamon",
+"filters":"vodka"
+},
+{
+"shot_id": 1363,
+"shot_name": "Apple Shooter",
+"instructions": "shake the Sour Apple Pucker,  triple sec and Green Apple Twist together with ice in a cocktail shaker||Strain into a cup, and serve",
+"ingredients": "1 1/2 oz Sour Apple Pucker Schnapps||1 1/2 oz Triple Sec||1 1/2 oz Green Apple Twist Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1364,
+"shot_name": "Appleschlager",
+"instructions": "Pour equal parts Goldschlager and apple vodka directly into a glass of your choice (brand of vodka also of your choice, although good quality vodka is recommended), make sure they have mixed thoroughly, and drink||Ice is optional; the drink is better cold",
+"ingredients": "1 Cup Coconut Rum||1 Cup Creme de Bananes||3 Cups Orange Juice||3 Cups Pineapple Juice||5 tbsp Grenadine Syrup||1 oz Goldschlager® Cinnamon Schnapps||1 oz Smirnoff® Green Apple Twist Vodka",
+"filters":"rum,vodka,schnapps"
+},
+{
+"shot_id": 1366,
+"shot_name": "Arizona Anti Freeze",
+"instructions": "Pour all ingredients into shot glass and slam",
+"ingredients": "1/3 oz Fris® Vodka||1/3 ozMelon Liqueur||1/3 oz Mr & Mrs T® Sweet And Sour Mix",
+"filters":"vodka"
+},
+{
+"shot_id": 1367,
+"shot_name": "Asia 9.0",
+"instructions": "Combine all ingredients together in a cocktail shaker half-filled with ice cubes||Shake well, strain into shot glasses, and serve",
+"ingredients": "1 1/2 oz Bacardi® 151 Rum||1 1/2 oz Southern Comfort® Peach Liqueur||1 1/2 ozMelon Liqueur||1 1/2 oz Amaretto Almond Liqueur||6 oz Can Pineapple Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1368,
+"shot_name": "Ask The Barman",
+"instructions": "Pour each ingredient slowly down the side of a shot glass in order, they will settle nicely layered||Shoot",
+"ingredients": "1/5 oz Melon Liqueur||1/5 oz Grenadine Syrup||1/5 oz Blue Curacao Liqueur||1/5 oz Amaretto Almond Liqueur||1/5 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1370,
+"shot_name": "Atomic Fireball",
+"instructions": "Pour the grenadine syrup first, then layer the Fireball on top of it||Lastly the 151||Drink and enjoy||Tastes just like candy",
+"ingredients": "1/4 oz 151 Proof Rum||1/2 oz Canadian Whisky||1/4 oz Grenadine Syrup",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1371,
+"shot_name": "Atomic Jager Bomb",
+"instructions": "Fill a glass with roughly 4 - 6oz of Sparks alcoholic energy drink||Drop in a shot of Jagermeister and shoot",
+"ingredients": "1 oz Jagermeister®||4 - 6 oz Sparks® Energy Drink",
+"filters":""
+},
+{
+"shot_id": 1372,
+"shot_name": "Atomic Plum",
+"instructions": "Add all ingredients (except 151 rum) to a cocktail shaker filled with ice cubes and shake vigorously for 15-20 seconds||Pour into a large shot glass, splash with 151 rum and shoot",
+"ingredients": "1 oz Peach Schnapps||1 oz Amaretto Di Saronno® Liqueur||1 Splash Bacardi® 151 Rum||1 Splash Orange Juice||1 Splash Sprite® Soda||1 Splash Cranberry Juice||1 Splash Pineapple Juice",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1373,
+"shot_name": "Axel",
+"instructions": "Add the vodka and Roncoco liqueur to a a cocktail shaker and shake with ice||Pour into a shot glass and top with a bit of grenadine||Drink the shot, cover the glass with your hand and with a straw, inhale the alcohol vapor that lasts in the shot (with your hand still on it)",
+"ingredients": "1 oz Vodka||1 oz Roncoco® Coconut Liqueur||1 Dash Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1374,
+"shot_name": "B 52",
+"instructions": "Carefully layer ingredients, in order, into a shot glass; kahlua, amaretto, then irish cream",
+"ingredients": "1/3 Shot Coffee Liqueur||1/3 Shot Amaretto Almond Liqueur||1/3 Shot Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1375,
+"shot_name": "B 52 Flame",
+"instructions": "Mix together the Herbel Liqueur and the rum||Carefully top the shot with Coffee Liqueur, and serve",
+"ingredients": "1/2 oz Rum||1/2 oz Herbal Liqueur||1/2 oz Coffee Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1376,
+"shot_name": "B 55",
+"instructions": "Carefully layer the ingredients, in order, into a shot glass; kahlua at the bottom, followed by irish cream, and topped with absinthe",
+"ingredients": "1/3 oz Coffee Liqueur||1/3 oz Bailey's® Irish Cream||1/3 oz Absinthe Herbal Liqueur",
+"filters":""
+},
+{
+"shot_id": 1377,
+"shot_name": "Kiss in My Tummy",
+"instructions": "Add all ingredients to a cocktail shaker half-filled with ice cubes||Shake well, strain into a 2-oz shot glass, and serve",
+"ingredients": "1/2 oz Amaretto Almond Liqueur||1/2 oz Chambord® Raspberry Liqueur||1/2 ozMelon Liqueur||1/2 oz Pineapple Juice",
+"filters":""
+},
+{
+"shot_id": 1378,
+"shot_name": "Back in the Old Days 1963",
+"instructions": "Combine all ingredients into a shot glass, stir and drink",
+"ingredients": "1 oz Heaven Hill® Bourbon Whiskey||1 oz Four Roses® Bourbon Whiskey||1 oz Old Grandad® Bourbon Whiskey||1 oz Henry McKenna® Bourbon Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1379,
+"shot_name": "Backdraft",
+"instructions": "Add the rum and amaretto to a wine glass, and ignite the liquid||Cover the wine glass with the palm of your hand||Lift your hand off of the rim just a little on one side||Suck out the fumes, without exhaling take the shot and then exhale",
+"ingredients": "1 oz 151 Proof Rum||1 oz Amaretto Almond Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1380,
+"shot_name": "Bad Apple",
+"instructions": "shake ingredients together over ice in a cocktail shaker, strain into a shot glass, and serve",
+"ingredients": "1/2 Oz Apple Schnapps ||1/2 Oz Applejack",
+"filters":"schnapps"
+},
+{
+"shot_id": 1382,
+"shot_name": "Man Breaker",
+"instructions": "Combine ingredients together in a large shot glass||Mix well, and serve",
+"ingredients": "1 1/2 oz Hennessy® Cognac||1/2 oz Cranberry Juice||1/2 oz Peach Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1383,
+"shot_name": "Totilla Chip With Dip",
+"instructions": "Put 1 or 1/2 teaspoon of salt into a shot glass||Pour the tequila in||Then if you have the skills, layer the irish cream on top (or mix)||Shoot||Only use the cheapest ingredients, the worse the better",
+"ingredients": "3/4 oz Tequila||1/4 oz Irish Cream||1/2 tsp Salt",
+"filters":"tequila"
+},
+{
+"shot_id": 1384,
+"shot_name": "Bam Bam",
+"instructions": "Add the tequila to a shot glass; top with 7-Up and serve",
+"ingredients": "1/2 oz Tequila||1/2 oz 7-Up® Soda",
+"filters":"tequila"
+},
+{
+"shot_id": 1385,
+"shot_name": "Banana Jack",
+"instructions": "Chill liquor prior to mixing||Pour both in a shot glass",
+"ingredients": "1 oz Tennessee Whiskey||1 oz Banana Liqueur",
+"filters":"whisky"
+},
+{
+"shot_id": 1386,
+"shot_name": "Banana Split",
+"instructions": "Combine banana schnapps, coffee liqueur and chocolate liqueur in a cocktail shaker||Shake well and pour into a shot glass||Drop a cherry into the glass, consume the liquid and eat the cherry",
+"ingredients": "1/3 oz Banana Schnapps||1/3 oz Coffee Liqueur||1/3 oz Chocolate Liqueur||1 Cherry",
+"filters":"schnapps"
+},
+{
+"shot_id": 1388,
+"shot_name": "Bring em Back",
+"instructions": "Combine both ingredients in a shot glass||Make several||Then bring em' Back",
+"ingredients": "3/4 oz Triple Sec||1/4 oz Kool-Aid® Berry Blue Mix",
+"filters":""
+},
+{
+"shot_id": 1389,
+"shot_name": "Barber Chair",
+"instructions": "Pour equal amounts of tequila and margarita mix into separate shot glasses||Lay person back in barber shop chair||Lay towl on chest of that person||Someone is to stand behind that person and pour the shots in to that persons mouth||They close and swish to blend and drink",
+"ingredients": "1 oz Gold Tequila||1 oz Strawberry Margarita Mix",
+"filters":"tequila"
+},
+{
+"shot_id": 1390,
+"shot_name": "Barenana Popsicle",
+"instructions": "Combine ingredients in a cocktail shaker with ice||Shake and strain into a shot glass, and serve",
+"ingredients": "1/3 oz Barenjager® Honey Liqueur||1/3 oz Bailey's® Irish Cream||1/3 oz Creme de Bananes",
+"filters":""
+},
+{
+"shot_id": 1391,
+"shot_name": "Barn Burner",
+"instructions": "Mix ingredients together in a shot glass, and serve",
+"ingredients": "1/3 oz Mohawk® Extra Sharp Ginger Brandy||1/3 oz Cinnamon Schnapps||1/3 oz Tabasco® Sauce",
+"filters":"schnapps"
+},
+{
+"shot_id": 1392,
+"shot_name": "Bart Simpson",
+"instructions": "Combine all ingredients in a cocktail shaker with ice||Shake well, strain into shot glasses, and serve",
+"ingredients": "1 oz Coconut Rum||1 ozMelon Liqueur||1 oz Smirnoff® Vodka",
+"filters":"vodka,rum"
+},
+{
+"shot_id": 1393,
+"shot_name": "Battery Acid",
+"instructions": "Combine equal amounts of green chartreusse, Jose Cuervo tequila and Bacardi 151 rum in a shot glass, leaving a little room for a few drops of tabasco sauce||Stir, then add the tabasco sauce, and shoot it fast||NOTE: People who have not experienced chartreuse before or can't take tabasco sauce well may need a chaser or a glass of water",
+"ingredients": "1 oz Green Chartreuse®||1 oz Gold Tequila||1 oz Bacardi® 151 Rum||3 - 5 Drops Tabasco® Sauce",
+"filters":"rum,tequila"
+},
+{
+"shot_id": 1394,
+"shot_name": "Battery Charger",
+"instructions": "Pour 1/3 of a shot of each type of Aftershock (Red, Green and Blue) slowly into a shot glass so that the colors remain separate (but it doesn't really matter if they mix together), then down it in one",
+"ingredients": "1/3 oz Aftershock® Hot & Cool Cinnamon Schnapps||1/3 oz Aftershock® Thermal Bite Spice Schnapps||1/3 oz Aftershock® Cool Citrus Mint Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1395,
+"shot_name": "Bazooka",
+"instructions": "Pour about 5-6 oz from a small can of Red Bull into a large cocktail glass||Gently add one ounce of sambuca, contained in a shot glass, into the cocktail glass of Red Bull",
+"ingredients": "1 oz Romana® White Sambuca||5 - 6 oz Energy Drink",
+"filters":""
+},
+{
+"shot_id": 1397,
+"shot_name": "Beam Me Up Jimmy",
+"instructions": "Combine all whiskies in a shot glass, top with grenadine last and stir",
+"ingredients": "3 oz Bourbon Whiskey||1 1/2 oz Bourbon Whiskey||1 oz Wild Turkey® 101 Bourbon Whiskey||1/2 oz Grenadine Syrup",
+"filters":"whisky"
+},
+{
+"shot_id": 1398,
+"shot_name": "Beam Me Up Scottie",
+"instructions": "Carefully layer ingredients into a shot glass in the above order",
+"ingredients": "1/3 oz Coffee Liqueur||1/3 oz Banana Liqueur||1/3 oz Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1399,
+"shot_name": "Beaubetween",
+"instructions": "Pour the peppermint schnapps into a shot glass||Add the creme de cacao, then layer the strawbeet liqueurs on top using the back of a spoon, and serve",
+"ingredients": "1/2 oz Peppermint Schnapps||1/2 oz Creme de Cacao||1/2 oz Strawberry Cream Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1400,
+"shot_name": "Beautiful",
+"instructions": "Just mix them together",
+"ingredients": "1/2 oz Courvoisier® Cognac||1/2 oz Hennessy® Cognac",
+"filters":""
+},
+{
+"shot_id": 1401,
+"shot_name": "Beauty and the Beast",
+"instructions": "Pour jagermeister into a shot glass||Add strawberry liqueur, but do not shake or stir||Serve immediately",
+"ingredients": "1/2 oz Jagermeister®||1/2 oz Strawberry Cream Liqueur",
+"filters":""
+},
+{
+"shot_id": 1402,
+"shot_name": "Bee Bite",
+"instructions": "",
+"ingredients": "1 Part Coffee Liqueur||1 Part Banana Liqueur||1 Part Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1403,
+"shot_name": "Beeta Bomb",
+"instructions": "Pour Red Bull into a small glass||Add vodka||In a double-shot glass pour the peach schnapps and carefully place the shot glass into the small glass containing the Red Bull and vodka||Serve",
+"ingredients": "1 oz Vodka||2 oz Peach Schnapps||3 - 4 oz Energy Drink",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1404,
+"shot_name": "Over The Top",
+"instructions": "stir ingredients together in a cocktail shaker half-filled with ice cubes||Strain into an old-fashioned glass or large shot glass, and shoot",
+"ingredients": "1 oz Canadian Whisky||1/2 oz Amaretto Almond Liqueur||1 oz Sweet And Sour Mix||1 Splash 7-Up® Soda",
+"filters":"whisky"
+},
+{
+"shot_id": 1406,
+"shot_name": "Bill Violator",
+"instructions": "Add all ingredients in equal parts to a cocktail shaker with ice and shake well||Strain into a shot glass, and serve",
+"ingredients": "1/4 oz Vodka||1/4 oz Lemonade||1/4 oz Sweet And Sour Mix||1/4 oz Watermelon Mix",
+"filters":"vodka"
+},
+{
+"shot_id": 1407,
+"shot_name": "Bin Laden",
+"instructions": "Pour the Johnnie Walker into a shot glass||Add Bundaberg rum, followed by the Smirnoff vodka, and serve",
+"ingredients": "1/3 oz Johnnie Walker® Scotch Whisky||1/3 oz Bundaberg® Dark Rum||1/3 oz Smirnoff® Vodka",
+"filters":"rum,whisky,vodka"
+},
+{
+"shot_id": 1409,
+"shot_name": "Bird Feeder",
+"instructions": "Combine half a shot of each in a shot glass, and serve",
+"ingredients": "1/2 oz Yukon Jack® Canadian Whisky||1/2 oz Bacardi® 151 Rum",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1410,
+"shot_name": "Cougar Hunter",
+"instructions": "Pour the Crown Royal and Peachtree schnapps into a shot glass||Fill a plastic cup or old-fashioned glass with sufficient Red Bull (and with/without ice), then drop the shot into it, and serve",
+"ingredients": "1/2 oz Canadian Whisky||1/2 oz Peach Schnapps||4 oz Energy Drink",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1415,
+"shot_name": "Bitter Pill",
+"instructions": "Mix JD & vodka together, add dash of lemon juice and top up glass with coke!",
+"ingredients": "2 oz Smirnoff® Vodka||2 oz Tennessee Whiskey||Lemons||Coca-Cola®",
+"filters":"whisky,vodka"
+},
+{
+"shot_id": 1416,
+"shot_name": "Black Allocation",
+"instructions": "Build shooter; take it to a random table; shoot in front of strangers||Can use lime wedge for lime flavour in place of bar lime mix",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz Coffee Liqueur||1 Splash Bar Lime Mix",
+"filters":"whisky"
+},
+{
+"shot_id": 1417,
+"shot_name": "Black and Blue",
+"instructions": "shake ingredients with ice||Strain into a double-shot glass, and serve",
+"ingredients": "1/2 oz Black Haus® Blackberry Schnapps||1/2 oz Island Blue Pucker Schnapps||1 Splash Cranberry Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1419,
+"shot_name": "Black and White Shot",
+"instructions": "Carefully layer the Kahlua coffee liqueur over the Dr||Vanilla Schnapps in a shot glass||Serve",
+"ingredients": "1/3 oz  Vanilla Schnapps||1/3 oz Coffee Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1420,
+"shot_name": "Black Cherrymeister",
+"instructions": "Pour the jagermeister into a shot glass, then add the soda||Take the shot||Also works well with six soda to one jager as a cocktail",
+"ingredients": "1 oz Fresca® Black Cherry Soda||1 oz Jagermeister®",
+"filters":""
+},
+{
+"shot_id": 1421,
+"shot_name": "Black Death",
+"instructions": "Pour ingredients into a shot glass as above, and serve",
+"ingredients": "1/3 oz Overproof Rum||1/3 oz Green Chartreuse®||1/3 oz Black Sambuca",
+"filters":"rum"
+},
+{
+"shot_id": 1424,
+"shot_name": "Black Forest Cake",
+"instructions": "Layer ingredients in a cocktail glass, and serve",
+"ingredients": "1/2 oz Coffee Liqueur||1/2 oz Bacardi® Coco Rum||1 Splash Vodka||1/4 oz Grenadine Syrup",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1425,
+"shot_name": "Black Gold",
+"instructions": "Combine equal amounts of Opal Nera black sambuca and Goldschlager in a shot glass, and serve",
+"ingredients": "1/2 oz Opal Nera® Black Sambuca||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1426,
+"shot_name": "Black Haus Basket",
+"instructions": "Pour both ingredients into a large or double-shot glass, and serve",
+"ingredients": "1 oz Black Haus® Blackberry Schnapps||1 oz Peach Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1427,
+"shot_name": "Black Haus Icicle",
+"instructions": "Pour the Black Haus blackberry schnapps into a shot glass||Add Smirnoff vodka, followed by Cointreau, and serve",
+"ingredients": "1 oz Black Haus® Blackberry Schnapps||1/2 oz Smirnoff® Vodka||1/2 oz Cointreau® Orange Liqueur",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1428,
+"shot_name": "Black Haze",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "3/4 oz Frangelico® Hazelnut Liqueur||1/4 oz Johnnie Walker® Black Label Scotch Whisky",
+"filters":"whisky"
+},
+{
+"shot_id": 1430,
+"shot_name": "Black Lab",
+"instructions": "Pour Jagermeister liqueur into a rocks or old-fashioned glass or large shot glass||Top with a splash of cola, cover with bar napkin and slam on table top; shoot it immediately",
+"ingredients": "2 oz Jagermeister®||1 Splash Cola",
+"filters":""
+},
+{
+"shot_id": 1431,
+"shot_name": "Black Leather",
+"instructions": "Add all ingredients in mixing tin with ice and shake til' VERY chilled||Pour into shot glass and serve with a lime",
+"ingredients": "1/4 oz Sweet And Sour Mix||1/4 oz Triple Sec||1/4 oz Orange Liqueur||1/4 oz Gold Tequila||1 Splash Orange Juice",
+"filters":"tequila"
+},
+{
+"shot_id": 1432,
+"shot_name": "Black Magic",
+"instructions": "Shake both ingredients with ice and strain into a shot glass||Slam it and cast your evil spell",
+"ingredients": "1 oz Vodka||1/2 oz Coffee Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1434,
+"shot_name": "The Mexican",
+"instructions": "Chill ingredients",
+"ingredients": "1 oz Jagermeister®||1 oz Tequila",
+"filters":"tequila"
+},
+{
+"shot_id": 1435,
+"shot_name": "Black Candy",
+"instructions": "Combine ingredients in a shot glass in equal parts, and serve",
+"ingredients": "1/2 oz Strawberry Cream Liqueur||1/2 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1436,
+"shot_name": "Black Rose",
+"instructions": "Pour the Bacardi 151 into a shot glass||Add the Chartreuse and softly pour the Frangelico liqueur on top for a cloudy efffect before serving",
+"ingredients": "3/5 oz Bacardi® 151 Rum||1/5 oz Green Chartreuse®||1/5 oz Frangelico® Hazelnut Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1437,
+"shot_name": "Black Sabbath",
+"instructions": "Combine all ingredients in a cocktail shaker half-filled with ice cubes||Shake well, strain into a chilled highball glass filled with ice cubes, and serve",
+"ingredients": "2 oz Bourbon Whiskey||2 oz Dark Rum||2 oz Jagermeister®",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1439,
+"shot_name": "Silk Underwear",
+"instructions": "Pour the strawberry liqueur into a shot glass||Drizzle the black sambuca on top, allow them to mix, and serve",
+"ingredients": "3/4 oz Strawberry Cream Liqueur||1/4 oz Black Sambuca",
+"filters":""
+},
+{
+"shot_id": 1440,
+"shot_name": "Black Toothed Grin",
+"instructions": "Pour 1 oz of Crown Royal into shot glass, Add 1 oz of Jagermeister (preferably chilled)||Drink in one shot",
+"ingredients": "1 Oz Jagermeister ||1 Oz Crown Royal Canadian Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1441,
+"shot_name": "Blackberry Lane",
+"instructions": "Stir ingredients together in a cocktail shaker over ice||Strain into a shot glass, and serve",
+"ingredients": "1/3 oz Black Haus® Blackberry Schnapps||1/3 oz Blackberry Brandy||1/3 oz Absolut® Kurant Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1442,
+"shot_name": "BlackBurst",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1/2 oz Black Haus® Blackberry Schnapps||1/2 oz Mountain dew® Lime Soda",
+"filters":"schnapps"
+},
+{
+"shot_id": 1443,
+"shot_name": "Blackout",
+"instructions": "shake ingredients and strain into a shot glass",
+"ingredients": "1/2 oz Gin||1/2 oz Blackberry Brandy||1/4 oz Lime Juice||1/4 oz Sugar Syrup",
+"filters":"gin"
+},
+{
+"shot_id": 1444,
+"shot_name": "Blast Furnace",
+"instructions": "Combine ingredients together in a whiskey sour glass, stir, and serve",
+"ingredients": "1 Shot Fire And Ice® Vodka||1 Shot Bacardi® 151 Rum||1 Shot Vodka",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1445,
+"shot_name": "Bleeding Bacardi",
+"instructions": "Add the Bacardi first||Then slowly pour in the cordial||Drink when they start to separate",
+"ingredients": "2/3 oz Bacardi® Superior Rum||1/3 oz Raspberry Cordial",
+"filters":"rum"
+},
+{
+"shot_id": 1446,
+"shot_name": "Bling Bling",
+"instructions": "Pour butterscotch schnapps and raspberry vodka in equal parts into a shot glass, and serve",
+"ingredients": "1/2 oz Butterscotch Schnapps||1/2 oz Stoli® Razberi Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1447,
+"shot_name": "Blitzkrieg",
+"instructions": "Place the liquors in seperate shot glasses||This is a series of shots; first shoot the Rumple Minze, then Jägermeister, then Goldschläger||Do them fast, and they are very smooth||Afterwards, you will initially just taste the cinnamon of the Goldschläger, but then the Rumple Minze's peppermint flavor seems to make a return, and it tastes like you just ate a mint",
+"ingredients": "1 oz Rumple Minze® Peppermint Liqueur||1 oz Jagermeister®||1 oz Goldschlager® Cinnamon Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1448,
+"shot_name": "Blond Lady",
+"instructions": "Chill and serve",
+"ingredients": "1 oz Jagermeister®||1 oz Peach Schnapps||Pineapple Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1450,
+"shot_name": "Blood Clot",
+"instructions": "Drop shot glass of s||c||into lowball glass mixed with 7-UP and grenadine||Slam it!!!",
+"ingredients": "1 Shot Southern Comfort® Peach Liqueur||1/2 Shot Grenadine Syrup||7-Up® Soda",
+"filters":""
+},
+{
+"shot_id": 1452,
+"shot_name": "Bloody Bruiser",
+"instructions": "Chill ingredients and layer in following order into a shot glass: Aftershock cinnamon schnapps, Blue Curacao liqueur, Jagermeister liqueur||Serve immediately",
+"ingredients": "1/3 oz Chilled Aftershock® Hot & Cool Cinnamon Schnapps||1/3 oz Chilled Blue Curacao Liqueur||1/3 oz Chilled Jagermeister®",
+"filters":"schnapps"
+},
+{
+"shot_id": 1453,
+"shot_name": "Bloody Back",
+"instructions": "Pour the Kahlua coffee liqueur, Stoli vodka and Rose's grenadine into a shot glass in that order, and serve",
+"ingredients": "1 oz Coffee Liqueur||1/2 oz Stolichnaya® Vodka||1 Splash Rose's® Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1454,
+"shot_name": "Sleigh Ride",
+"instructions": "Pour together into a shot glass and serve",
+"ingredients": "1/2 oz Blackberry Brandy||1/2 oz Gin",
+"filters":"gin"
+},
+{
+"shot_id": 1455,
+"shot_name": "Smurf",
+"instructions": "Pour the vodka, blue Curacao liqueur and Chambord raspberry liqueur into a cocktail shaker half-filled with ice cubes||Shake briefly, strain into a shot glass and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Blue Curacao Liqueur||1/2 oz Chambord® Raspberry Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1458,
+"shot_name": "The Job",
+"instructions": "Layer in a shot glass; Irish cream on top, and serve",
+"ingredients": "1/2 oz Anisette||1/2 oz Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1459,
+"shot_name": "Blue and White",
+"instructions": "stir together in a shot glass, and shoot",
+"ingredients": "1/2 oz Blue Curacao Liqueur||1/2 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1460,
+"shot_name": "Blue Flush",
+"instructions": "Pour the Crown Royal Canadian Whisky, peach schnapps, blue curacao and cranberry juice all into a cocktail shaker half-filled with ice cubes||Shake well, strain into shot glasses or a single large shot glass, and serve",
+"ingredients": "1/2 oz Canadian Whisky||1/2 oz Peach Schnapps||3/4 oz Blue Curacao Liqueur||1 Splash Cranberry Juice",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1461,
+"shot_name": "Blue Freezie",
+"instructions": "Add all ingredients to a cocktail shaker half-filled with ice cubes||Shake well, strain into a shot glass, and serve",
+"ingredients": "1/3 oz Blue Curacao Liqueur||1/3 oz Melon Liqueur||1/3 oz Lime Juice",
+"filters":""
+},
+{
+"shot_id": 1462,
+"shot_name": "Blue Woot Woot",
+"instructions": "Mix equal parts of Island Blue Pucker and Watermelon Pucker in a shot glass, and serve",
+"ingredients": "3/4 oz Island Blue Pucker Schnapps||3/4 oz Watermelon Pucker Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1463,
+"shot_name": "Blue Monster",
+"instructions": "Combine in a shot glass, and serve",
+"ingredients": "1/2 oz UV® Blue Raspberry Vodka||1/2 oz Monster® Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1464,
+"shot_name": "Blue Ninja",
+"instructions": "Combine in a cocktail shaker with ice, shake and strain into a chilled shot glass||Serve",
+"ingredients": "1/2 oz Grain Alcohol||1/2 oz Coconut Rum||1/2 oz Blue Curacao Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1465,
+"shot_name": "Bo Jo",
+"instructions": "Pour the fruit punch into a shot glass||Add the Midori melon liqueur on top, and then follow with the Bacardi white rum, and serve",
+"ingredients": "1/3 oz White Rum||1/3 oz Melon Liqueur||1/3 oz Fruit Punch",
+"filters":"rum"
+},
+{
+"shot_id": 1466,
+"shot_name": "Body Bag",
+"instructions": "Pour the jagermeister into a shot glass, and fill with an equal amount of goldschlager||Serve",
+"ingredients": "3/4 oz Jagermeister®||3/4 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1467,
+"shot_name": "Body Slammer",
+"instructions": "Add together and drink",
+"ingredients": "1/2 Shot Cinnamon Schnapps||1/2 Shot Gold Tequila||1/2 Shot Tennessee Whiskey",
+"filters":"whisky,schnapps,tequila"
+},
+{
+"shot_id": 1468,
+"shot_name": "Boize",
+"instructions": "Pour the Bailey's Irish cream into a shot glass||Layer the banana liqueur on top||Top with a dash of whipped cream, and serve",
+"ingredients": "1 oz Bailey's® Irish Cream||1/2 oz Banana Liqueur||1 Dash Whipped Cream",
+"filters":""
+},
+{
+"shot_id": 1469,
+"shot_name": "Bombeirinho",
+"instructions": "Pour the cachaca into a shot glass unchilled||Add the grenadine drops and serve",
+"ingredients": "1 oz Cachaca||3 - 4 Drops Grenadine Syrup",
+"filters":""
+},
+{
+"shot_id": 1470,
+"shot_name": "BonBon",
+"instructions": "Shake & Strain",
+"ingredients": "1/2 oz Rumple Minze® Peppermint Liqueur||1/2 oz Peppermint Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1471,
+"shot_name": "Bone",
+"instructions": "Pour in order into a shot glass, and serve",
+"ingredients": "1/3 oz Vodka||1/3 oz Coffee Liqueur||1/3 oz Buttershots Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1472,
+"shot_name": "Bone Fish",
+"instructions": "Chill the coconut rum||Shake with ice in a stainless steel shaker||Pour 1/3 to 1/2 can of Red Bull into a highball glass||Add coconut rum by straining into the glass, and serve",
+"ingredients": "1 oz Coconut Rum||2 - 4 oz Energy Drink",
+"filters":"rum"
+},
+{
+"shot_id": 1473,
+"shot_name": "Lady Slipper",
+"instructions": "Pour the Bailey's irish cream into a shot glass||Top with the Scotch, and serve",
+"ingredients": "1/2 oz Bailey's® Irish Cream||3/4 oz Johnnie Walker® Red Label Scotch Whisky",
+"filters":"whisky"
+},
+{
+"shot_id": 1474,
+"shot_name": "Boom Boom Shot",
+"instructions": "Pour Bacardi Limon rum into a shot glass||Add Sprite (or 7-Up)||Place a towel on the table and put one hand on top of the shot glass to seal it so that no liquid or gas from the soda escapes||Quickly slam the glass on the towel so that a lot of bubbles are made and consume so that you catch the bubbles going down your throat",
+"ingredients": "1/2 oz Limon Rum||1/2 oz Sprite® Soda",
+"filters":"rum"
+},
+{
+"shot_id": 1475,
+"shot_name": "Boot to the Head",
+"instructions": "Combine both ingredients in equal parts in an old-fashioned glass, ice optional, and serve",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz Black Sambuca",
+"filters":"whisky"
+},
+{
+"shot_id": 1477,
+"shot_name": "Boswandeling",
+"instructions": "Just add all ingredients and add quite a lot of Angostura and try to make sure that the Angostura is mixed through the drink",
+"ingredients": "3 Cl Vodka||2 Cl Triple Sec||5 Dashes Angostura® Bitters",
+"filters":"vodka"
+},
+{
+"shot_id": 1478,
+"shot_name": "Bottle Cap",
+"instructions": "Mix the Sour Puss and rootbeer schnapps together in a shot glass||Mix the 7-Up and margarita mix together in a highball glass||Drop the shot glass into the highball glass, and serve",
+"ingredients": "1/2 oz Sour Puss® Raspberry Liqueur||1/2 oz Root Beer Schnapps||1 1/2 oz 7-Up® Soda||1/2 oz Margarita Mix",
+"filters":"schnapps"
+},
+{
+"shot_id": 1479,
+"shot_name": "Bounty Bar",
+"instructions": "Pour the vodka into a shot glass, and add the Bailey's slowly so it sits on top of the vodka and it creates a layer||Leave just a little room at the top and squeeze a little bit of the chocolate so it runs through the drink, serve",
+"ingredients": "1/2 oz Bailey's® Irish Cream||1/2 oz Coconut Vodka||1/8 oz Nestle® Chocolate Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1480,
+"shot_name": "Brain Eraser",
+"instructions": "In a sizable shot glass pour the Schlager, then Kahlua, then Vodka||Keep liquor levels seperate||Carefully slide a straw to bottom along side of the glass||Shoot from bottom thru straw||Bombs away!",
+"ingredients": "1 oz Goldschlager® Cinnamon Schnapps||1 oz Coffee Liqueur||1 oz Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1481,
+"shot_name": "Brain Freeze",
+"instructions": "Mix jose cuervo and grenadine in a pitcher with crushed ice||Sweeten with powdered sugar if desired",
+"ingredients": "2 Cups Gold Tequila||6 Cups Crushed Ice||Grenadine Syrup",
+"filters":"tequila"
+},
+{
+"shot_id": 1482,
+"shot_name": "Brain Hemmorhage",
+"instructions": "Layer the midori melon liqueur, followed by Sambuca then Bailey's irish cream||Add drops of grenadine to give the effect of a bleeding brain, and serve",
+"ingredients": "1/3 ozMelon Liqueur||1/3 oz Clear Sambuca||1/3 oz Bailey's® Irish Cream||2 Drops Grenadine Syrup",
+"filters":""
+},
+{
+"shot_id": 1484,
+"shot_name": "Braindead",
+"instructions": "Fill 2/3rds of a shot glass with white sambuca, and layer Kahlua down side of glass||Allow it to settle at the bottom||Drop in small amounts of advocaat and cherry advocaat||The advocaat will seperate giving the look of a brain||Using a straw suck out half of the concoction, shot the remainder then immediately cup your hand over the shot glass, insert the straw between you fingers and suck out the vapours",
+"ingredients": "1/3 oz Coffee Liqueur||2/3 oz Galliano® White Sambuca||1 Dash Cherry Advocaat Liqueur||1 Dash Advocaat Liqueur",
+"filters":""
+},
+{
+"shot_id": 1485,
+"shot_name": "Breath of an Angel",
+"instructions": "Add the Bacardi silver rum, Crown Royal and Wild Turkey whiskeys to a cocktail shaker half-filled with ice cubes||Shake well and strain into a large shot glass or small old-fashioned/lowball glass||Splash cranberry juice on top, float the Bacardi 151 on top, and serve||There is a routine that you do while taking this shot||1",
+"ingredients": "1/2 oz Bacardi® Silver Rum||1/2 oz Canadian Whisky||1/2 oz Bourbon Whiskey||1 Splash Cranberry Juice||1/2 oz Bacardi® 151 Rum",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1486,
+"shot_name": "Brisky Joe",
+"instructions": "stir the Lipton iced tea and Everclear together in a large shot glass||Top with whipped cream, and serve",
+"ingredients": "1 oz Lipton® Brisk Iced Tea||1/2 oz Everclear® Alcohol||1/2 oz Whipped Cream",
+"filters":""
+},
+{
+"shot_id": 1487,
+"shot_name": "Broo ha ha",
+"instructions": "Pour both ingredients into a shot glass, stir and serve",
+"ingredients": "1/2 oz Blackberry Brandy||1/2 oz Stoli® Razberi Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1488,
+"shot_name": "Brown Eyed Girl",
+"instructions": "Layer ingredients in order in a shot glass, and serve",
+"ingredients": "1/2 oz Brown Creme de Cacao||1/2 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1489,
+"shot_name": "Bruce Leroy",
+"instructions": "stir ingredients together in an old-fashioned glass, and shoot",
+"ingredients": "1 oz Chilled Blackberry Brandy||2 - 3 oz Energy Drink",
+"filters":""
+},
+{
+"shot_id": 1490,
+"shot_name": "Brutal Hammer",
+"instructions": "Pour ingredients into an old-fashioned glass, and slam",
+"ingredients": "5 oz French Red Wine||7 oz Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1491,
+"shot_name": "Bubble Bomb",
+"instructions": "stir ingredients together in a highball glass filled with ice cubes, and serve",
+"ingredients": "2 oz Limon Rum||3 oz Energy Drink",
+"filters":"rum"
+},
+{
+"shot_id": 1492,
+"shot_name": "Bubble Gum",
+"instructions": "All ingredients to a cocktail shaker half-filled with ice cubes||Shake vigorously, pour into a highball glass filled with ice cubes, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Melon Liqueur||1/2 oz Banana Liqueur||1/2 oz Sweet And Sour Mix||1/2 oz Orange Juice||1 Splash Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1493,
+"shot_name": "Buffalo Chip",
+"instructions": "Pour both ingredients into a shot glass, and shoot",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Bourbon Whiskey",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1494,
+"shot_name": "Buffalo Bill",
+"instructions": "Pour the bourbon whiskey into a shot glass||Add the Tabasco sauce, and shoot",
+"ingredients": "3/4 oz Bourbon Whiskey||1/4 oz Tabasco® Sauce",
+"filters":"whisky"
+},
+{
+"shot_id": 1496,
+"shot_name": "Bull Blaster",
+"instructions": "Pour a small can of red bull into a highball glass||Add jagermeister, and serve",
+"ingredients": "1 oz Jagermeister®||8 oz Can Energy Drink",
+"filters":""
+},
+{
+"shot_id": 1497,
+"shot_name": "Bull Kick",
+"instructions": "Pour Red Bull (roughly half of a small can), and a splash of gin into a large jigger filled with ice||Strain into a highball glass||Using the same jigger, filled with new or the same ice, pour the southern comfort into a shot glass||Drop the shot into the red bull and guzzle",
+"ingredients": "4 oz Pre-chilled Energy Drink||1 oz Southern Comfort® Peach Liqueur||1 Splash Sloe Gin",
+"filters":"gin"
+},
+{
+"shot_id": 1498,
+"shot_name": "Bull Moose",
+"instructions": "serve in equal parts in a shot glass",
+"ingredients": "1/2 oz Yukon Jack® Canadian Whisky||1/2 oz Energy Drink",
+"filters":"whisky"
+},
+{
+"shot_id": 1500,
+"shot_name": "Bumble Bee",
+"instructions": "This is a layered shot||First pour the Bailey's into the shot glass||Then take an upside down spoon and touch it to the inside wall of the glass||Carefully add the Kahlua||Repeat this process for the Sambuca||If done properly, the alcohol will stay separated and resemble a bumble bee||Enjoy!",
+"ingredients": "1/3 oz Bailey's® Irish Cream||1/3 oz Coffee Liqueur||1/3 oz Sambuca",
+"filters":""
+},
+{
+"shot_id": 1502,
+"shot_name": "Burnt Mexican",
+"instructions": "Make a regular shot of tequila; add 5 drops of tabasco sauce, and serve",
+"ingredients": "1 oz Gold Tequila||5 Drops Tabasco® Sauce",
+"filters":"tequila"
+},
+{
+"shot_id": 1503,
+"shot_name": "Burnt Turkey",
+"instructions": "Pour Wild Turkey 101 into a cocktail shaker with ice||Add Hot Damn, shake well and strain into a shot glass",
+"ingredients": "1/2 oz Wild Turkey® 101 Bourbon Whiskey||1/2 oz  Cinnamon Schnapps",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1504,
+"shot_name": "Burried Treasure",
+"instructions": "Pour the rum and Goldschlager into a shot glass and serve||Also works best when screaming &quot;Arrrr!&quot; immediately after consumption",
+"ingredients": "1 oz Spiced Rum||1 oz Goldschlager® Cinnamon Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1505,
+"shot_name": "Bushman's Beans",
+"instructions": "Pour the banana liqueur into a shot glass||Layer the Cape Velvet cream liqueur on top||Add two drops of Nachtmusiek or other chocolate liqueur on top of the Cape Velvet cream liqueur, and serve",
+"ingredients": "1/2 oz Banana Liqueur||1/2 oz Cape Velvet® Cream Liqueur||2 Drops Nachtmusiek® Chocolate Liqueur",
+"filters":""
+},
+{
+"shot_id": 60606,
+"shot_name": "Fuzzy Navel",
+"instructions": "Pour the peach schnapps into an highball glass filled with ice cubes||Top with orange juice.",
+"ingredients": "1 1/2 oz peach schnapps||Orange Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1506,
+"shot_name": "Toilet Plunger",
+"instructions": "Fill a beer glass or an old-fashioned glass 1/2 with Red Bull energy drink||Seperately, fill a shot glass 1/2 with vodka and 1/2 with blue curacao||Drop the shot glass into the larger glass, and shoot",
+"ingredients": "6 oz Energy Drink||1/2 oz Vodka||1/2 oz Blue Curacao Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1507,
+"shot_name": "ButterCrown",
+"instructions": "Add both ingredients to a cocktail shaker with ice||Shake well and pour into a shot glass, and serve",
+"ingredients": "1/2 oz Buttershots Liqueur||1/2 oz Canadian Whisky",
+"filters":"whisky"
+},
+{
+"shot_id": 1508,
+"shot_name": "Buttermint",
+"instructions": "Pour all ingredients into a shot glass, stir, and serve",
+"ingredients": "1/2 oz Peppermint Schnapps||1/2 oz Goldschlager® Cinnamon Schnapps||1/2 oz Butterscotch Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1509,
+"shot_name": "Butterscotch Bomb",
+"instructions": "Pour both ingredients into a shot glass, and shoot",
+"ingredients": "2/3 oz Bailey's® Irish Cream||1/3 oz Butterscotch Liqueur",
+"filters":""
+},
+{
+"shot_id": 1510,
+"shot_name": "Buttersweet Symphony",
+"instructions": "Almost fill a shot glass with butterscotch schnapps||Top with Angostura bitters forming a very thin layer across the top, and serve",
+"ingredients": "7/8 oz Butterscotch Schnapps||1/8 oz Angostura® Bitters",
+"filters":"schnapps"
+},
+{
+"shot_id": 1515,
+"shot_name": "C4",
+"instructions": "Layer ingredients in equal parts in a shot glass; Rumple Minze bottom, then Hot Damn!, then Jagermeister, and finally Midori on top||Serve",
+"ingredients": "1/4 oz 100 Proof Rumple Minze® Peppermint Liqueur||1/4 oz  100 Cinnamon Schnapps||1/4 oz Jagermeister®||1/4 ozMelon Liqueur",
+"filters":"schnapps,rum"
+},
+{
+"shot_id": 1516,
+"shot_name": "Cabin 21",
+"instructions": "Pour Canadian whisky||Top with preferably black sambuca||Finish with gin, and serve",
+"ingredients": "2/3 oz Canadian Whisky||1/3 oz Black Sambuca||1 Splash Gin",
+"filters":"whisky,gin"
+},
+{
+"shot_id": 1517,
+"shot_name": "Cabo Bomb",
+"instructions": "Pour the tequila into an old-fashioned glass||Add the Red Bull, and shoot",
+"ingredients": "1 oz Tequila||4 oz Energy Drink",
+"filters":"tequila"
+},
+{
+"shot_id": 1518,
+"shot_name": "Cactus Cooler",
+"instructions": "Fill a shot glass half with triple sec, half mandarin vodka; then drop into a pint glass half-filled with Rockstar energy drink, and serve",
+"ingredients": "3/4 oz Triple Sec||3/4 oz Mandrin Vodka||8 oz Rockstar® Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1519,
+"shot_name": "Camel Concoction",
+"instructions": "Mix vodka and Mountain Dew soda in a cocktail shaker with ice||Strain into a shot glass||Add a small splash of grenadine, and serve",
+"ingredients": "1 1/4 oz Vodka||1 1/4 oz Mountain dew® Lime Soda||1 Splash Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1520,
+"shot_name": "Canadian Bull",
+"instructions": "Mix ingredients together in a shot glass, and serve",
+"ingredients": "1/2 oz Canadian Whisky||1/2 oz Energy Drink",
+"filters":"whisky"
+},
+{
+"shot_id": 1521,
+"shot_name": "Canadian Hillbilly",
+"instructions": "stir ingredients together with ice in a mixing glass||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Bourbon Whiskey||1/2 oz Yukon Jack® Canadian Whisky",
+"filters":"whisky"
+},
+{
+"shot_id": 1522,
+"shot_name": "Canadian pie",
+"instructions": "Mix all ingredients together in a shaker with ice||Pour into shot glasses, and serve",
+"ingredients": "1 oz Yukon Jack® Canadian Whisky||1 oz Peach Schnapps||1 oz Orange Juice",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1523,
+"shot_name": "Canadian Snake Bite",
+"instructions": "Pour the Sambuca into a brandy snifter and the tequila seperately into a rocks or old-fashioned glass||Add a couple dashes of Tabasco sauce to the glass with tequila||Roll the Sambuca around the snifter (like a cement mixer), ignite, and allow to burn for a second or two||Pour the Sambuca into the tequila rocks glass and cap it with the brandy snifter so as to extinguish the flames||This should form some smoke within the glasses||Carefully lift the snifter and inhale the fumes, then pound the tequila and Sambuca mixture||Packs a pretty good wallop",
+"ingredients": "1 oz Sambuca||1 oz Tequila||2 - 3 Dashes Tabasco® Sauce",
+"filters":"tequila"
+},
+{
+"shot_id": 1524,
+"shot_name": "Cancun Current",
+"instructions": "Pour the 151, Mailbu, and pineapple juice into a mixer full of ice, shake, and strain into a rocks glass||Tilt the rocks glass and pour the Chambord onto the glass||The Chambord will sink to the bottom giving you a golden top layer and a purple bottom layer||Serve",
+"ingredients": "1 oz Bacardi® 151 Rum||1 oz Coconut Rum||1/2 oz Pineapple Juice||1 Splash Chambord® Raspberry Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1525,
+"shot_name": "Cancun Slammer",
+"instructions": "Pour ingredients into a shot glass and cover the glass with top of one's hand||Slam shot down on counter top, and shoot",
+"ingredients": "1/2 oz Sprite® Soda||1/2 oz Overproof Tequila",
+"filters":""
+},
+{
+"shot_id": 1526,
+"shot_name": "Candy Cane",
+"instructions": "Pour ingredients into shaker with ice, shake, and serve in a 2-oz shot glass||Don't put too much grenadine or it will kill the taste||It's only there for color",
+"ingredients": "1/2 oz Peppermint Schnapps||1/2 oz Rumple Minze® Peppermint Liqueur||1/2 oz Cream||1 Dash Grenadine Syrup",
+"filters":"schnapps,rum"
+},
+{
+"shot_id": 1527,
+"shot_name": "Cap'n Togs Warning",
+"instructions": "Pour the coconut rum and orange-pine-banana juice into a shot glass||Add a splash of everclear, and carefully ignite||After several seconds, extinguish, and shoot",
+"ingredients": "3/4 oz Whaler's® Vanilla Rum||3/4 oz Captain Morgan® Parrot Bay Coconut Rum||1/2 oz Dole Pine-Orange-Banana Juice||1 Splash Everclear® Alcohol",
+"filters":"rum"
+},
+{
+"shot_id": 1528,
+"shot_name": "Captain Jack",
+"instructions": "Combine both ingredients in a shot glass and shoot",
+"ingredients": "3/4 oz Spiced Rum||3/4 oz Tennessee Whiskey",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1529,
+"shot_name": "Captain Jack Sparrow",
+"instructions": "Combine all ingredients in a shot glass, and shoot",
+"ingredients": "1/3 oz Spiced Rum||1/3 oz Tennessee Whiskey||1/3 oz Grey Goose® Vodka",
+"filters":"whisky,vodka,rum"
+},
+{
+"shot_id": 1530,
+"shot_name": "Captain Morgan on Acid",
+"instructions": "Add all ingredients (except grenadine) to a cocktail shaker half-filled with ice cubes||Shake well, and pour into a double shot glass||Add 2-3 drops of grenadine, and serve",
+"ingredients": "1/2 oz Spiced Rum||1/2 oz Blue Curacao Liqueur||1/4 oz Coconut Rum||3/4 oz Pineapple Juice||2 - 3 Drops Grenadine Syrup",
+"filters":"rum"
+},
+{
+"shot_id": 1531,
+"shot_name": "Captain on Acid",
+"instructions": "Mix all ingredients except grenadine and pour into a shot glass||Add grenadine and shoot||Shot should be blue on top and red on bottom",
+"ingredients": "1/4 oz Spiced Rum||1/4 oz Coconut Rum||1/6 oz Blue Curacao Liqueur||1/6 oz Pineapple Juice||1/6 oz Grenadine Syrup",
+"filters":"rum"
+},
+{
+"shot_id": 1532,
+"shot_name": "Captain's Bomb",
+"instructions": "Pour the Buttershots over the Captain Morgan spiced rum in a shot glass, and serve",
+"ingredients": "3/4 oz Spiced Rum||1/4 oz Buttershots Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1533,
+"shot_name": "Caramel Apple",
+"instructions": "shake ingredients together in cocktail shaker with ice||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Bacardi® Big Apple Rum||1/2 oz Butterscotch Schnapps||1 Splash Cranberry Juice",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1534,
+"shot_name": "Cardiac Arrest",
+"instructions": "stir ingredients well in a wine goblet, and serve",
+"ingredients": "1 oz Jagermeister®||1 oz Vodka||1 oz Cranberry Juice||2 oz Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1536,
+"shot_name": "Carmel Nana",
+"instructions": "Pour Buttershots into a shot glass||Add 99 Bananas, stir, and serve",
+"ingredients": "1/2 oz Buttershots Liqueur||1/2 oz 99 Bananas® Banana Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1537,
+"shot_name": "Carmel Sour Apple Shooter",
+"instructions": "Pour equal parts into a stainless steel shaker over ice||Shake until sufficiently chilled, pour into a shot glass, and serve",
+"ingredients": "1/2 oz Sour Apple Pucker Schnapps||1/2 oz Butterscotch Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1538,
+"shot_name": "Carmine",
+"instructions": "Pour Campari into a shot glass until half-full||Fill to the top with margarita mix, and serve",
+"ingredients": "1/2 oz Campari® Bitters||1/2 oz Jose Cuervo® Margarita Mix",
+"filters":""
+},
+{
+"shot_id": 1539,
+"shot_name": "Carnival Apple",
+"instructions": "stir ingredients together in a mixing glass or shaker tin with some ice||Strain into a shot glass, and serve",
+"ingredients": "1/4 oz Amaretto Almond Liqueur||1/4 oz Sour Apple Pucker Schnapps||1/2 oz Butterscotch Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1540,
+"shot_name": "Carolina Piece",
+"instructions": "Add ingredients to a cocktail shaker half-filled with ice cubes||Shake and strain into a 2-oz shot glass, and serve",
+"ingredients": "1/2 oz Amaretto Almond Liqueur||1/2 oz Peach Schnapps||1/2 oz Cranberry Juice||1 Splash Orange Juice||1 Splash 7-Up® Soda",
+"filters":"schnapps"
+},
+{
+"shot_id": 1541,
+"shot_name": "Carrie Special",
+"instructions": "Combine the 151 rum and Sour Apple Pucker schnapps together in a mixing glass||Add the cranberry juice and shake; serve shot glasses",
+"ingredients": "1/2 oz 151 Proof Rum||1/2 oz Sour Apple Pucker Schnapps||2 oz Cranberry Juice",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1542,
+"shot_name": "Catasmashed",
+"instructions": "stir in a shot glass, and shoot",
+"ingredients": "1 oz Everclear® Alcohol||1 oz Jagermeister®||1 oz Aftershock® Hot & Cool Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1543,
+"shot_name": "Celtic Spirit",
+"instructions": "Pour the original, blue Aftershock into a shot glass and add Jack Daniel's||Shake the bottle of Goldschlager well, and pour on top of the Aftershock and Jack Daniel's||Serve",
+"ingredients": "1/3 oz Blue Aftershock® Hot & Cool Cinnamon Schnapps||1/3 oz Tennessee Whiskey||1/3 oz Goldschlager® Cinnamon Schnapps",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1544,
+"shot_name": "Cement Mixer",
+"instructions": "Mix together the two ingredients in a shot glass, and serve||It's recommended you also chase with a beer",
+"ingredients": "1/2 oz Tequila||1/2 oz Half-and-half",
+"filters":"tequila"
+},
+{
+"shot_id": 1546,
+"shot_name": "Cerebro de Los Pollos",
+"instructions": "Add the vodka to a shot glass||Color with the mint liqueur||Top with Bailey's irish cream, and serve",
+"ingredients": "2/3 oz Vodka||1 Splash Mint Liqueur||1/3 oz Bailey's® Irish Cream",
+"filters":"vodka"
+},
+{
+"shot_id": 1549,
+"shot_name": "Charley Town Beatdown",
+"instructions": "stir Crown Royal whisky and butterscotch schnapps together in a mixing glass with ice cubes||Shake and strain into a large shot glass, and serve",
+"ingredients": "1 oz Butterscotch Schnapps||1 oz Canadian Whisky",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1550,
+"shot_name": "ChaTiffany Especial",
+"instructions": "Fill a glass halfway with Smirnoff vodka and split the remaining three ingredients equally over ice or chill in freezer||Can also be made as shot",
+"ingredients": "3 oz Smirnoff® Vodka||1 oz Hiram Walker® Blue Curacao Liqueur||1 oz Captain Morgan® Parrot Bay Coconut Rum||1 oz Creme de Bananes",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1551,
+"shot_name": "Cherry Bomb",
+"instructions": "Pour Red bull into a beer mug||Pour the cherry vodka seperately into a shot glass, drop into the beer mug, and chug",
+"ingredients": "1 Can Energy Drink||1 oz Cherry Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1554,
+"shot_name": "Cherry Cheese Cake",
+"instructions": "Combine Stoli vodka and grenadine in a shaker with ice||Add a splash of pineapple juice||Shake, strain into a shot glass, and serve",
+"ingredients": "1/2 oz Stoli® Vanil Vodka||1/2 oz Grenadine Syrup||1 Splash Pineapple Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1556,
+"shot_name": "Cherry Coke",
+"instructions": "Pour the Crown Royal whisky into a shaker filled with a half a cup of ice||Add grenadine and shake thoroughly||Strain into a shot glass and add a splash off coke||Serve",
+"ingredients": "1 oz Canadian Whisky||1/2 oz Grenadine Syrup||1 Splash Coca-Cola®",
+"filters":"whisky"
+},
+{
+"shot_id": 1557,
+"shot_name": "Cherry Lemon Drop",
+"instructions": "Combine equal parts of Absolut Citron vodka and sweet and sour mix over ice in a cocktail shaker||Shake well; add juice of one lemon slice and grenadine, then strain into a large shot glass or small old-fashioned glass||Sprinkle sugar around the rim of the shot glass, and serve",
+"ingredients": "1 1/2 oz Absolut® Citron Vodka||1 1/2 oz Sweet And Sour Mix||1 Slice Lemon||1 Splash Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1558,
+"shot_name": "Cherry MacGregor",
+"instructions": "Take down the shot of Clan Macgregor Scotch whisky; chase with shot of cherry coke",
+"ingredients": "1 Shot Clan Macgregor® Scotch Whisky||1 Shot Coca-Cola® Cherry Coke",
+"filters":"whisky"
+},
+{
+"shot_id": 1559,
+"shot_name": "Cherry Marko",
+"instructions": "Pour in Cherry Liqueur||Add Baileys||Add drops of Vanilla",
+"ingredients": "0.34 oz Cherry Liqueur ||0.68 oz Baileys ||3 Drop Ml Vanilla Essence",
+"filters":""
+},
+{
+"shot_id": 1562,
+"shot_name": "Cherry Rum Shooter",
+"instructions": "Pour rum and vodka into a shot glass||Top with cream, and serve",
+"ingredients": "1 oz White Rum||1/2 oz Cherry Vodka||1/2 oz Whipping Cream",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1563,
+"shot_name": "Cherry Zinger",
+"instructions": "Place a single maraschino cherry into a shot glass||Add the mango rum and cherry brandy, then serve",
+"ingredients": "2/3 oz Mango Rum||1/3 oz Cherry Brandy||1 Maraschino Cherry",
+"filters":"rum"
+},
+{
+"shot_id": 1564,
+"shot_name": "Chi Town",
+"instructions": "stir ingredients together in a cup, and serve",
+"ingredients": "1 1/2 oz Cognac||1 1/2 oz Dark Rum||8 oz Can Energy Drink",
+"filters":"rum"
+},
+{
+"shot_id": 1565,
+"shot_name": "Chip Shot",
+"instructions": "Add the Tuaca citrus liqueur and Bailey's irish cream to a small rocks glass||Splash hot coffee on top, and serve",
+"ingredients": "1 oz Tuaca® Citrus Liqueur||1 oz Bailey's® Irish Cream||1 oz Hot Coffee",
+"filters":""
+},
+{
+"shot_id": 1567,
+"shot_name": "Chocohol",
+"instructions": "Pour equal parts of Bailey's irish cream and chocolate milk over ice cubes in a highball glass, or pre-chill first and leave the ice, and serve",
+"ingredients": "2 1/2 oz Bailey's® Irish Cream||2 1/2 oz Chocolate Milk",
+"filters":""
+},
+{
+"shot_id": 1568,
+"shot_name": "Chocolate Cake Shot",
+"instructions": "Frost the rim of an old-fashioned glass with sugar and lemon||Add the vanilla vodka and Frangelico hazelnut liqueur; stir together||Lick the sugar rim, shoot the mixture, and bite a piece of lemon",
+"ingredients": "1/2 oz Frangelico® Hazelnut Liqueur||1/2 oz Stoli® Vanil Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1569,
+"shot_name": "Chocolate Chip Cookie",
+"instructions": "Pour equal parts of each ingredient into a shot glass||Suck on a lemon and shoot",
+"ingredients": "1/2 oz  Vanilla Schnapps||1/2 oz Frangelico® Hazelnut Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1570,
+"shot_name": "Chocolate Covered Candy Cane",
+"instructions": "Pour the Godiva milk chocolate liqueur into a shot glass||Float the Rumple Minze on top||Tastes just like a chocolate covered candy cane",
+"ingredients": "3/4 oz Godiva® Chocolate Liqueur||1/4 oz Rumple Minze® Peppermint Liqueur",
+"filters":""
+},
+{
+"shot_id": 1571,
+"shot_name": "Chocolate Covered Cherry Bomb",
+"instructions": "Dissolve everclear and sugar into a tiny bowl||Pour equal amount into two shot glasses, ignite each shot glass for a couple seconds, then blow them out||Mix the grenadine and chocolate syrup into a third shot glass||Shoot the first two everclear/sugar shots right away followed by the grenadine/chocolate syrup shot",
+"ingredients": "1 1/2 oz Everclear® Alcohol||1/2 oz Sugar||1/2 oz Grenadine Syrup||1/2 oz Chocolate Syrup",
+"filters":""
+},
+{
+"shot_id": 1573,
+"shot_name": "Chocolate Covered Raspberry",
+"instructions": "Combine ingredients with ice firstly in a mixing glass or cocktail shaker||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Chambord® Raspberry Liqueur||1/2 oz Creme de Cacao",
+"filters":""
+},
+{
+"shot_id": 1575,
+"shot_name": "Chocolate Raspberry Creme",
+"instructions": "Keep a shot of Absolut Razberi vodka in your mouth, and squirt chocolate syrup in||Shake head vigorously and swallow",
+"ingredients": "1 oz Absolut® Raspberri Vodka||1 squirt Chocolate Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1576,
+"shot_name": "Chocolate Rattlesnake",
+"instructions": "Add all ingredients to a cocktail shaker with a few ice cubes||Shake well, strain into a whiskey sour glass and serve",
+"ingredients": "1 oz Tennessee Whiskey||1/2 oz Coffee Liqueur||1 Splash Milk",
+"filters":"whisky"
+},
+{
+"shot_id": 1577,
+"shot_name": "Chocolate Shot",
+"instructions": "Pour equal parts of each ingredient into a shot glass, stir and serve",
+"ingredients": "1/3 oz Swiss Chocolate Almond Liqueur||1/3 oz Creme de Cacao||1/3 oz Coffee Liqueur",
+"filters":""
+},
+{
+"shot_id": 1578,
+"shot_name": "Chocolate Shot",
+"instructions": "stir together in a shot glass, and serve",
+"ingredients": "1/2 oz Creme de Cacao||1/2 oz Milk",
+"filters":""
+},
+{
+"shot_id": 1579,
+"shot_name": "Chocolate Snake Bite",
+"instructions": "Pour ingredients into a stainless steel shaker over ice, and shake until completely cold||Strain into an old-fashioned glass, and serve",
+"ingredients": "1/2 oz Bailey's® Irish Cream||1/2 oz Coffee Liqueur||1/2 oz Brown Creme de Cacao||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1580,
+"shot_name": "Chokorange",
+"instructions": "Combine both ingredients in a shot glass||Stir lightly, and serve",
+"ingredients": "1/2 oz Godiva® Chocolate Liqueur||1/2 oz Triple Sec",
+"filters":""
+},
+{
+"shot_id": 1583,
+"shot_name": "Chubbie Moose",
+"instructions": "Pour Captain Morgan's into a chilled mug, and mix with A&W root beer||Add ice, stir, and serve",
+"ingredients": "3 oz Spiced Rum||12 oz A&W® Root Beer",
+"filters":"rum"
+},
+{
+"shot_id": 1584,
+"shot_name": "Cider Bite",
+"instructions": "Pour all ingredients into an old-fashioned glass w/out ice, and serve",
+"ingredients": "1/2 oz Tuaca® Citrus Liqueur||1/2 oz Stoli® Vanil Vodka||2 oz Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1585,
+"shot_name": "Cinnamon Apple Shooter",
+"instructions": "shake ingredients together in a cocktail shaker with a few ice cubes||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Smirnoff® Apple Vodka||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1586,
+"shot_name": "Cinnamon Rose",
+"instructions": "Pour ingredients into a stainless steel shaker over ice, and shake until completely cold||Strain into an old-fashioned glass, and serve",
+"ingredients": "1 oz Strawberry Cream Liqueur||1 oz Cinnamon Schnapps",
+"filters":"schnapps,tequila"
+},
+{
+"shot_id": 1587,
+"shot_name": "Cinnamon Toast",
+"instructions": "Combine both ingredients in a mixing glass or cocktail shaker with ice and shake well||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Amaretto Almond Liqueur||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1588,
+"shot_name": "Cinnamon Toast Crunch",
+"instructions": "shake all three ingredients quickly with ice||Strain into a shot glass, or increase proportions and strain into several",
+"ingredients": "1/3 oz Goldschlager® Cinnamon Schnapps||1/3 oz Bailey's® Irish Cream||1/3 oz Butterscotch Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1589,
+"shot_name": "Cioccolatino",
+"instructions": "Pour both ingredients in equal parts into a shot glass, and serve",
+"ingredients": "1/2 oz Mint Vodka||1/2 oz Coffee Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1590,
+"shot_name": "Citrus Kiss",
+"instructions": "shake ingredients together with ice in a cocktail shaker||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz White Creme de Cacao||1/2 oz Orange Liqueur||1/2 oz Cream",
+"filters":""
+},
+{
+"shot_id": 1591,
+"shot_name": "Oatmeal Cookie",
+"instructions": "shake all ingredients in a cocktail shaker half-filled with ice cubes||Strain into a shot glass, and serve",
+"ingredients": "1/4 oz Cinnamon Schnapps||1/4 oz Butterscotch Schnapps||1/4 oz Irish Cream||1/4 oz Jagermeister®",
+"filters":"schnapps"
+},
+{
+"shot_id": 1594,
+"shot_name": "Closed Coffin",
+"instructions": "stir in a shot glass, and serve",
+"ingredients": "1/3 oz Goldschlager® Cinnamon Schnapps||1/3 oz Jagermeister®||1/3 oz Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1595,
+"shot_name": "Dude, Thats Crazy",
+"instructions": "Pour the tennessee whiskey, kentucky bourbon, tequila, rum and vodka into a cocktail shaker half-filled with ice cubes||Shake well, and strain into a highball glass||Add the butterscotch and apple schnapps, and serve",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz Bourbon Whiskey||1/2 oz Tequila||1/2 oz Light Rum||1/2 oz Vodka||1/2 oz Butterscotch Schnapps||1 oz Apple Schnapps",
+"filters":"whisky,rum,schnapps,vodka,tequila"
+},
+{
+"shot_id": 1596,
+"shot_name": "Coat Hanger",
+"instructions": "stir all ingredients in an old-fashioned glass or double shot glass||Place hand over glass, poke a straw through fingers and suck it all up",
+"ingredients": "1/2 oz Cointreau® Orange Liqueur||1/2 oz Tequila||1/2 oz Raspberry Cordial",
+"filters":"tequila"
+},
+{
+"shot_id": 1598,
+"shot_name": "Cocaracha",
+"instructions": "serve in a shot glass",
+"ingredients": "1/3 oz Coffee Liqueur||1/3 oz Tequila||1/3 oz Coca-Cola®",
+"filters":"tequila"
+},
+{
+"shot_id": 1599,
+"shot_name": "Cowboy",
+"instructions": "Pour the butterscotch schnapps into the shot glass||Carefully add the Bailey's, letting it float on top, and serve",
+"ingredients": "2/3 oz Butterscotch Schnapps||1/3 oz Bailey's® Irish Cream",
+"filters":"schnapps"
+},
+{
+"shot_id": 1601,
+"shot_name": "Coconita",
+"instructions": "Carefully layer all ingredients, in equal parts, on top of one another in a shot glass; Kahlua first, Bailey's in the middle and coconut rum on top",
+"ingredients": "1/3 oz Coffee Liqueur||1/3 oz Bailey's® Irish Cream||1/3 oz Coconut Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1602,
+"shot_name": "Coffee Nip",
+"instructions": "Add all ingredients to a cocktail shaker with a few ice cubes||Shake and strain into a shot glass, and serve",
+"ingredients": "3/4 oz Vincent Van Gogh® Dutch Chocolate Vodka||1/4 oz Butterscotch Liqueur||1/4 oz Hazelnut Liqueur",
+"filters":"vodka"
+},
+{
+"shot_id": 1603,
+"shot_name": "Colorado Mama",
+"instructions": "Add all ingredients to a mixing glass half-filled with cracked ice||Stir well, strain into a large shot glass, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Rum||1/2 oz Tequila||1/2 oz Bailey's® Irish Cream||1/2 oz Coffee Liqueur||1 Splash Coca-Cola®",
+"filters":"rum,vodka,tequila"
+},
+{
+"shot_id": 1604,
+"shot_name": "Columbian Nose Bleed",
+"instructions": "Combine all ingredients in a tumbler and shake||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Amaretto Di Saronno® Liqueur||1/2 oz Peach Schnapps||1 tsp Powdered Sugar||1 oz Cranberry Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1605,
+"shot_name": "Commie",
+"instructions": "Mix all together in shot glass until slightly red||Add more hot sauce if necessary, and serve immediately",
+"ingredients": "4 - 5 Dashes Tabasco® Sauce||2 Dashes Frank's® Original Red Hot Sauce||1 oz Smirnoff® Vodka||1 tsp Lemon Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1606,
+"shot_name": "Concorde",
+"instructions": "Layer ingredients in above order in a shot glass||Light the Bacardi 151 Rum on fire, and serve||Drink with a straw, or put out the flame before consumption||Either way, proceed with caution",
+"ingredients": "1/2 oz Coffee Liqueur||1/2 oz Bailey's® Irish Cream||Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1607,
+"shot_name": "Constellation",
+"instructions": "Pour both normal advokaat and cherry advokaat in shot glass at same time, beside each other||Add butterscotch schnappes||Then add dash of blue curacao||There should be no set layers, it should be a mix of colours",
+"ingredients": "1/2 oz Advocaat Liqueur||1/2 oz Cherry Advocaat Liqueur||1/2 oz Butterscotch Schnapps||1 Dash Blue Curacao Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1608,
+"shot_name": "Corsair",
+"instructions": "Layer ingredients into a sherry glass, Tia Maria on bottom||Serve",
+"ingredients": "2 oz Tia Maria® Coffee Liqueur||2 oz Drambuie® Scotch Whisky||2 oz Amaretto Cream Liqueur",
+"filters":"whisky"
+},
+{
+"shot_id": 1609,
+"shot_name": "Country Apple",
+"instructions": "Combine and chill all ingredients in a cocktail shaker||Pour into a shot glass, and serve",
+"ingredients": "1/2 oz Southern Comfort® Peach Liqueur||1/2 oz Sour Apple Pucker Schnapps||1 Splash Sweet And Sour Mix",
+"filters":"schnapps"
+},
+{
+"shot_id": 1610,
+"shot_name": "Country Time",
+"instructions": "Mix vodkas, lemon juice, and raspberry schnapps together in a cocktail shaker half-filled with ice cubes||Shake until very cold||Strain into a large shot glass||Top with a splash of sprite, and serve",
+"ingredients": "1 oz Absolut® Citron Vodka||1 oz Vodka||1/2 oz Raspberry Schnapps||1 Splash Sprite® Soda||2 Lemon Wedges",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1611,
+"shot_name": "Crank Head",
+"instructions": "Pour the sambuca into a shot glass||Float the irish cream, and over it float Bombay Sapphire gin carefully||From the center of the glass, drop in a splash of grenadine, and serve",
+"ingredients": "1/3 oz White Sambuca||1/3 oz Irish Cream||1/3 oz Bombay Sapphire® Gin||1 Splash Grenadine Syrup",
+"filters":"gin"
+},
+{
+"shot_id": 1612,
+"shot_name": "Rub My Tummy",
+"instructions": "Combine the Seagrams gin, vodka and crushed ice together in a cocktail shaker||Shake well, strain into a champagne flute, top with Sprite soda, and serve",
+"ingredients": "2 oz Vodka||1 oz Seagram's® Gin||1 Cup Crushed Ice||4 oz Chilled Sprite® Soda",
+"filters":"vodka,gin"
+},
+{
+"shot_id": 1613,
+"shot_name": "Crazy Dave",
+"instructions": "Pour all ingredients into a cocktail shaker half-filled with ice cubes||Shake well, strain into a double-shot glass, and serve",
+"ingredients": "1/2 oz Vodka||1/4 oz Bacardi® Gold Rum||1/4 oz Sweet And Sour Mix||1/4 oz Bacardi® 151 Rum||1/2 oz Cosmopolitan Mix",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1614,
+"shot_name": "Crazy Moose",
+"instructions": "Pour Canadian Club whisky into shot glasses, and top with Maple Syrup||For added flavour, stir with a cinammon stick",
+"ingredients": "3/4 oz Canadian Club® Whisky||1/4 oz Maple Syrup",
+"filters":"whisky"
+},
+{
+"shot_id": 1615,
+"shot_name": "Orphan Annie",
+"instructions": "Layer the ingredients in the order listed in a shot glass, and serve",
+"ingredients": "1/2 oz Coffee Liqueur||1/2 oz Bailey's® Irish Cream||1/2 oz Half-and-half",
+"filters":""
+},
+{
+"shot_id": 1616,
+"shot_name": "Creamy Hazelnut",
+"instructions": "Combine the Bailey's irish cream, coconut rum, and  hazelnut cream liqueur into a shot glass and top with a splash of half and half",
+"ingredients": "1/2 oz Bailey's® Irish Cream||1/2 oz Coconut Rum||1/2 oz Hazelnut cream Liqueur||1 Splash Half-and-half",
+"filters":"rum"
+},
+{
+"shot_id": 1617,
+"shot_name": "Creamy pie",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1 oz Bailey's® Irish Cream||1 oz Strawberry Cream Liqueur",
+"filters":""
+},
+{
+"shot_id": 1618,
+"shot_name": "Crossbones",
+"instructions": "Chill the jagermeister and rumplemintz in a cocktail shaker with ice, and strain into a shot glass||Top with everclear, and serve",
+"ingredients": "3/8 oz Jagermeister®||3/8 oz Rumple Minze® Peppermint Liqueur||1/4 oz Everclear® Alcohol",
+"filters":"rum"
+},
+{
+"shot_id": 1619,
+"shot_name": "Crown and Choke",
+"instructions": "Pour the Crown Royal whisky into a shot glass||Pour the energy drink into a seperate shot glass||Shoot the Crown, and chase with the Bong Water",
+"ingredients": "1 oz Canadian Whisky||1 oz Energy Drink",
+"filters":"whisky"
+},
+{
+"shot_id": 1620,
+"shot_name": "Crown Buca",
+"instructions": "",
+"ingredients": "1/2 Oz Sambuca ||1/2 Oz Crown Royal",
+"filters":""
+},
+{
+"shot_id": 1621,
+"shot_name": "Crown the King",
+"instructions": "Pour a can of Budweiser B-to-the-EPour into a pint glass||Drop in a shot of Crown Royal Canadian whisky, and shoot",
+"ingredients": "1 oz Canadian Whisky||10 oz Budweiser® B To The E",
+"filters":"whisky"
+},
+{
+"shot_id": 1622,
+"shot_name": "Cruz Azul",
+"instructions": "stir and serve",
+"ingredients": "1 oz 151 Proof Rum||1 oz Limon Rum||1 oz Absolut® Citron Vodka||1 oz Rumple Minze® Peppermint Liqueur||1 oz Blue Curacao Liqueur",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1624,
+"shot_name": "Cuban Assassin",
+"instructions": "Pour Bacardi 151 rum into a shot glass||Add chartreuse, then 5 or 6 dashes of tabasco sauce, and serve",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Green Chartreuse®||5 Dashes Tabasco® Sauce",
+"filters":"rum"
+},
+{
+"shot_id": 1631,
+"shot_name": "Monkey Buisnazz",
+"instructions": "Layer the Kahlua and creme de bananes in that order into a shot glass||Top with Bailey's Irish cream, and serve",
+"ingredients": "1 oz Coffee Liqueur||1/2 oz Creme de Bananes||1/2 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1632,
+"shot_name": "Ohhh Thats Nice",
+"instructions": "Layer carefully in cordial or shot glass||First buttershots, then green creme de menthe and Bailey's irish cream on top||Lastly, drop the grenadine through the Bailey's||It will settle to the bottom creating a cool effect",
+"ingredients": "1/2 oz Buttershots Liqueur||1/4 oz Green Creme de Menthe||1/4 oz Bailey's® Irish Cream||1/4 oz Grenadine Syrup",
+"filters":""
+},
+{
+"shot_id": 1633,
+"shot_name": "Danny's Favorite",
+"instructions": "Combine all ingredients in a short glass, and shoot",
+"ingredients": "2 oz Everclear® Alcohol||2 oz Bacardi® 151 Rum||2 oz 100 Proof Peppermint Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1634,
+"shot_name": "Dark and Veiny",
+"instructions": "Layer in order; butterscotch first, irish cream, jagermeister, vodka into a shot glass, and serve",
+"ingredients": "1/4 oz Butterscotch Schnapps||1/4 oz Jagermeister®||1/4 oz Vodka||1/4 oz Irish Cream",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1635,
+"shot_name": "Dark Blood",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1 oz Sour Puss® Raspberry Liqueur||1/2 oz Cranberry Soda",
+"filters":""
+},
+{
+"shot_id": 1636,
+"shot_name": "Dark Side",
+"instructions": "Combine the coconut liqueur and Bacardi white rum in a shot glass, stirring to mix||Add just enough syrup to dissolve in it||The syrup should make the drink creamy but liquid enough to go down smoothly",
+"ingredients": "1/2 oz Coconut Liqueur||1/2 oz Bacardi® White Rum||Chocolate Syrup",
+"filters":"rum"
+},
+{
+"shot_id": 1638,
+"shot_name": "Dead Man Walking",
+"instructions": "Pour both ingredients, in equal parts, into a shot glass, and shoot",
+"ingredients": "1/2 oz Absinthe Herbal Liqueur||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1641,
+"shot_name": "Death Row",
+"instructions": "Pour the tequila and tabasco into a shot glass||Place salt on your hand, lick it, bite a lime wedge, count to 3 and slam the drink",
+"ingredients": "1/4 oz Gold Tequila||3/4 oz Tabasco® Sauce||1 Dash Salt||1 Twist Limes",
+"filters":"tequila"
+},
+{
+"shot_id": 1642,
+"shot_name": "Death Sentence",
+"instructions": "Pour all ingredients into a shot glass, stir well, and serve",
+"ingredients": "1/3 oz Bourbon Whiskey||1/3 oz Jagermeister®||1/3 oz Bundaberg® Dark Rum",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1646,
+"shot_name": "Dennis the Menace",
+"instructions": "shake ingredients with ice, strain into a double-shot glass and serve",
+"ingredients": "1 oz Coconut Rum||1 oz Peach Schnapps||1 Splash Cranberry Juice||1 Splash Pineapple Juice",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1647,
+"shot_name": "Desert Bastard",
+"instructions": "stir all ingredients together in an old-fashioned glass, and shoot",
+"ingredients": "2 oz Tequila||2 oz Whiskey||6 oz Apple Juice",
+"filters":"whisky,tequila"
+},
+{
+"shot_id": 1648,
+"shot_name": "Desert Water",
+"instructions": "Combine over ice in a shaker||Shake and strain into shot glass, and serve",
+"ingredients": "1/2 oz Watermelon Pucker Schnapps||1/2 oz Cactus Juice Schnapps||1 oz Energy Drink",
+"filters":"schnapps"
+},
+{
+"shot_id": 1649,
+"shot_name": "Desi",
+"instructions": "Pour vodka and mango juice over ice in a shaker||Shake until frozen, and strain into a shot glass||Top with whipped cream, and serve",
+"ingredients": "1/2 oz Vodka||1 tsp Mango Juice||1/2 oz Whipped Cream",
+"filters":"vodka"
+},
+{
+"shot_id": 1650,
+"shot_name": "Devil's Blood",
+"instructions": "Add equal amounts of all ingredients into an old fashioned glass and serve",
+"ingredients": "1 oz Tennessee Whiskey||1 oz Bourbon Whiskey||1 oz Jagermeister®||1 oz Grenadine Syrup",
+"filters":"whisky"
+},
+{
+"shot_id": 1651,
+"shot_name": "Devil's Breath",
+"instructions": "Layer the limoncello, Campari bitters and vodka in that order into a shot glass||Flame the vodka, drop in a straw, and serve",
+"ingredients": "2/5 oz Limoncello Lemon Liqueur||2/5 oz Vodka||1/5 oz Campari® Bitters",
+"filters":"vodka"
+},
+{
+"shot_id": 1652,
+"shot_name": "Devil's Candy Cane",
+"instructions": "Mix ingredients together in a shot glass, carefully ignite and allow to burn, then extinguish and shoot",
+"ingredients": "1/2 oz Rumple Minze® Peppermint Liqueur||1/2 oz Bacardi® 151 Rum||1 Splash Grenadine Syrup",
+"filters":"rum"
+},
+{
+"shot_id": 1653,
+"shot_name": "Sweet Palmer",
+"instructions": "Pour ingredients into a double-shot glass, and shoot",
+"ingredients": "1/2 ozVodka||1/2 oz Lemonade||1 oz Sprite® Soda",
+"filters":"vodka"
+},
+{
+"shot_id": 1654,
+"shot_name": "Tracy",
+"instructions": "shake and strain up into a large shot glass or small highball glass, and serve",
+"ingredients": "1 oz Bourbon Whiskey||1 oz Tuaca® Citrus Liqueur",
+"filters":"whisky"
+},
+{
+"shot_id": 1655,
+"shot_name": "Dimetapp",
+"instructions": "Pour ingredients in equal parts into a shot glass, vodka first, and serve",
+"ingredients": "1/2 oz Seagram's® Black Cherry Vodka||1/2 oz Cranberry Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1656,
+"shot_name": "Dinky Car Vrroooom",
+"instructions": "Pour ingredients in a shot glass||Doesn't matter which order||Enjoy||Beep Beep",
+"ingredients": "1 tbsp Coconut Rum||1 oz McGuinness® Melon Liqueur||1 oz McGuinness® Creme de Menthe",
+"filters":"rum"
+},
+{
+"shot_id": 1659,
+"shot_name": "Dirty Gecko",
+"instructions": "Add all ingredients with a cup of ice into a shaker||Shake well||Makes up to about 6 shots||Should come out to a dirty purple color",
+"ingredients": "3 oz Energy Drink||2 oz Vodka||1/4 oz Blue Curacao Liqueur||1/4 oz Grenadine Syrup||1/4 oz Lime Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1660,
+"shot_name": "Dirty Bananas",
+"instructions": "Pour in equal parts into a shot glass, stir and serve",
+"ingredients": "1/2 oz Sour Puss® Raspberry Liqueur||1/2 oz Creme de Bananes",
+"filters":""
+},
+{
+"shot_id": 1661,
+"shot_name": "Dirty Mexican",
+"instructions": "Pour the tequila into a shot glass||Add Hellman's mayonaise, so that it begins to dissolve||Shoot before it is completely dissolved",
+"ingredients": "1 oz Tequila||1 tsp Hellmann's® Mayonnaise",
+"filters":"tequila"
+},
+{
+"shot_id": 1662,
+"shot_name": "Dirty Monkey",
+"instructions": "serve in a shot glass",
+"ingredients": "1/2 oz 99 Bananas® Banana Schnapps||1/2 oz Coconut Rum",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1663,
+"shot_name": "Dirty Cheese",
+"instructions": "Pour tequila into a shot glass||Sprinkle parmesan cheese on top, and serve",
+"ingredients": "1 oz Tequila||Parmesan Cheese",
+"filters":"tequila"
+},
+{
+"shot_id": 1664,
+"shot_name": "Dirty Hands",
+"instructions": "Add the vodka and pickle brine (preferably from a pickled egg jar) to a shot glass||Add Tabasco sauce, and garnish with an optional slice of pickled jalapeno",
+"ingredients": "1 oz Vodka||1 oz Pickle Brine||1 Dash Tabasco® Sauce",
+"filters":"vodka"
+},
+{
+"shot_id": 1665,
+"shot_name": "Don Juan",
+"instructions": "Pour the ingredients in equal parts into a cocktail shaker with some ice||Shake well, pour into shot glasses, and serve",
+"ingredients": "1/3 oz Bailey's® Irish Cream||1/3 oz Gold Tequila||1/3 oz Coffee Liqueur",
+"filters":"tequila"
+},
+{
+"shot_id": 1668,
+"shot_name": "Dirty Swingers",
+"instructions": "Add all ingredients to a cocktail shaker half-filled with ice cubes||Shake well, strain into 2 shot glasses, and serve",
+"ingredients": "1 oz Vodka||1/2 oz Melon Liqueur||1 oz Malibu® Mango Rum||1/2 oz Pineapple Juice",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1669,
+"shot_name": "Dirty Toilet",
+"instructions": "Pour all ingredients into a cocktail glass at room temperature||Add a handful of peanuts, and serve",
+"ingredients": "1/2 oz Bailey's® Irish Cream||1/2 oz Butterscotch Schnapps||1/2 oz Coffee Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1670,
+"shot_name": "Dixie Car Bomb",
+"instructions": "Done just like an Irish Car Bomb, pour the whiskey on top of the schnapps in a shot glass, and drop it into a pint of Pabst beer",
+"ingredients": "1/2 oz Old Crow® Bourbon Whiskey||1/2 oz Butterscotch Schnapps||15 oz Pabst® Lager",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1671,
+"shot_name": "Dizzy Fizzy Slammers",
+"instructions": "Fill half a shot glass with Bacardi rum||Add a squeeze of lemon juice||Top with Champagne, and serve (to drink, place hand over top, slam on bar and down in one)",
+"ingredients": "1/2 oz Bacardi® White Rum||1/2 oz Champagne||1 Squeeze Lemon Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1672,
+"shot_name": "Dizzy Nights",
+"instructions": "Chill ingredients in a mixing glass with ice||Strain into a chilled shot glass, and serve",
+"ingredients": "1/3 oz 99 Bananas® Banana Schnapps||1/3 oz Rumple Minze® Peppermint Liqueur||1/3 oz Goldschlager® Cinnamon Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1673,
+"shot_name": "Doctor Pepper",
+"instructions": "Place 1/2 of Draft in a mug||Place 3/4 oz Amaretto into a shot glass||Float/Layer 1/4 oz Bacardi 151 on top of the Amaretto||Light the Bacardi as to set it on fire||Quickly drop the shot glass with Amaretto and Bacardi into the Draft Beer and shoot",
+"ingredients": "Draft Beer||1/4 oz Bacardi® 151 Rum||3/4 oz Amaretto Almond Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1674,
+"shot_name": "Double Jim",
+"instructions": "Pour both bourbon whiskey's into a shooter glass, and serve",
+"ingredients": "2 oz Bourbon Whiskey||2 oz Bourbon Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1675,
+"shot_name": "Lucifer's Special",
+"instructions": "Add all ingredients to a cocktail shaker with some ice cubes||Shake and strain into double-shot glasses, and serve",
+"ingredients": "2 1/2 oz Tequila||1 oz Mandrin Vodka||1 oz Bombay Sapphire® Gin",
+"filters":"vodka,tequila,gin"
+},
+{
+"shot_id": 1677,
+"shot_name": "Dr. Jagerschlager",
+"instructions": "Mix equal parts jagermeister, Dr||Schnapps and goldschlager in a shot glass, and serve",
+"ingredients": "1/3 oz Jagermeister®||1/3 oz  Mentholmint Schnapps||1/3 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1678,
+"shot_name": "Dr. Malibu",
+"instructions": "Pour coconut rum and Dr||Pepper into a tall shot glass, and serve",
+"ingredients": "1 oz Coconut Rum||1 oz Dr. Pepper® Soda",
+"filters":"rum"
+},
+{
+"shot_id": 1679,
+"shot_name": "Dr. Pepper Flame",
+"instructions": "Pour the Amaretto almond liqueur into a shot glass leaving at least a quarter-inch of space at the top||Slowly pour the Bacardi 151 rum on top||Have a full cup or glass of Dr||Pepper ready||Ignite the 151 rum in the shot glass, and drop the flaming shot glass into the Dr||Pepper||Drink immediately",
+"ingredients": "1 1/2 oz Amaretto Almond Liqueur||1/4 oz Bacardi® 151 Rum||8 oz Dr. Pepper® Soda",
+"filters":"rum"
+},
+{
+"shot_id": 1680,
+"shot_name": "Dr. Rum",
+"instructions": "Build ingredients in above order in a shot glass, and slam",
+"ingredients": "1/4 oz Bacardi® 151 Rum||5 Drops Bacardi® Vanilla Rum||3/4 oz Dr. Pepper® Soda",
+"filters":"rum"
+},
+{
+"shot_id": 1681,
+"shot_name": "Dragon Fire",
+"instructions": "Mix ingredients together in a whiskey sour glass, and serve",
+"ingredients": "3/4 oz Butterscotch Schnapps||1 oz Cinnamon Schnapps||4 oz Mountain dew® Citrus Soda",
+"filters":"schnapps"
+},
+{
+"shot_id": 1684,
+"shot_name": "Turkey Time",
+"instructions": "Combine all ingredients in a cocktail shaker half-filled with ice cubes||Shake well, strain into an old fashioned glass with or without ice cubes, and serve",
+"ingredients": "1 oz Wild Turkey® 101 Bourbon Whiskey||1 oz 151 Proof Rum||1 Splash Grenadine Syrup",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1685,
+"shot_name": "Drummer Shot",
+"instructions": "Mix ingredients in shot glass and prepare to be tough",
+"ingredients": "1/2 oz Jagermeister®||1/2 oz Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1686,
+"shot_name": "Drunken Bunny",
+"instructions": "Blend first three ingredients together in a cocktail glass||The color should turn bright turquoise||Top with whipped cream, and serve",
+"ingredients": "1 oz Bacardi® Orange Rum||1 oz Blue Curacao Liqueur||1 ozMelon Liqueur||1/2 oz Whipped Cream",
+"filters":"rum"
+},
+{
+"shot_id": 1687,
+"shot_name": "Drunkin' Gator",
+"instructions": "Place two scoops of Gatorade mix (any flavor) together with vodka in a cocktail glass||Stir, and serve",
+"ingredients": "5 oz Vodka||2 Scoops Gatorade® Energy Drink Powder Mix",
+"filters":"vodka"
+},
+{
+"shot_id": 1688,
+"shot_name": "Drunksimus Maximus",
+"instructions": "stir both ingredients together in a large shot glass or old-fashioned glass||Shoot",
+"ingredients": "1 1/2 oz Blackberry Brandy||1 oz Southern Comfort® Peach Liqueur",
+"filters":""
+},
+{
+"shot_id": 1690,
+"shot_name": "Dutch Disaster",
+"instructions": "Layer ingredients in order into a shot glass; Tia Maria coffee liqueur at the bottom, Sauza tequila on top||Serve to shoot",
+"ingredients": "1/2 oz Tia Maria® Coffee Liqueur||1/4 oz Bailey's® Irish Cream||1/4 oz Sauza® Hornitos Reposado Tequila",
+"filters":"tequila"
+},
+{
+"shot_id": 1691,
+"shot_name": "E.T.",
+"instructions": "stir ingredients together in a mixing glass with some ice cubes||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Aftershock® Cool Citrus Mint Schnapps||1/2 oz Bailey's® Irish Cream",
+"filters":"schnapps"
+},
+{
+"shot_id": 1692,
+"shot_name": "Easy Rider",
+"instructions": "Blend the rum and ice cream together in a shot glass or mixing glass, and serve",
+"ingredients": "1/3 oz Rum||2/3 oz Chocolate Ice Cream",
+"filters":"rum"
+},
+{
+"shot_id": 1693,
+"shot_name": "Edward's Purple Medicine",
+"instructions": "Pour either ingredient into a shot glass first, then slowly pour in the other, mixing half and half||Admire the effects, then consume",
+"ingredients": "1/2 oz Avalanche® Peppermint Schnapps||1/2 oz Aftershock® Hot & Cool Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1694,
+"shot_name": "Eggnotini",
+"instructions": "Fill a cocktail shaker 1/2 full with ice, add ingredients, shake, shake, shake until cold and frothy||Pour into a well chilled martini / cocktail glass||Top with a dusting of nutmeg, and serve",
+"ingredients": "2 oz Eggnog||1 1/2 oz Hazelnut Liqueur||1 Dash Nutmeg",
+"filters":""
+},
+{
+"shot_id": 1695,
+"shot_name": "Ego's Tang",
+"instructions": "Add all ingredients to a cocktail shaker half-filled with ice cubes||Shake well, strain into a cocktail glass, and serve",
+"ingredients": "1 oz Spiced Rum||1/2 oz Orange Liqueur||1 oz Peach Schnapps||1 Splash Sweet And Sour Mix||1 Splash Pineapple Juice",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1696,
+"shot_name": "El Negro",
+"instructions": "Pour the Bacardi 151 rum into a shot glass||Add the Southern Comfort and Captain Morgan spiced rum; the mixture should turn dark and obtain a fire smell||Serve; beware the delayed hard-hitting bite",
+"ingredients": "1/3 oz Bacardi® 151 Rum||1/3 oz 100 Proof Southern Comfort® Peach Liqueur||1/3 oz Spiced Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1697,
+"shot_name": "Eliminator",
+"instructions": "Pour the Jagermeister into a shot glass||Add the Jack Daniel's whiskey, then tequila||Place a thin film of 151 rum on top; ignite, extinguish and serve",
+"ingredients": "1/2 oz Jagermeister®||1/4 oz Tennessee Whiskey||1/4 oz Tequila||1/2 tsp Bacardi® 151 Rum",
+"filters":"whisky,rum,tequila"
+},
+{
+"shot_id": 1698,
+"shot_name": "Elsinore Elbow",
+"instructions": "Pour both ingredients into a large shot glass, give a quick stir, and serve",
+"ingredients": "1 oz 151 Proof Rum||1 oz Worcestershire Sauce",
+"filters":"rum"
+},
+{
+"shot_id": 1699,
+"shot_name": "Energy Shot",
+"instructions": "Pour the vodka and the energy drink into a cocktail shaker with ice||Shake well and strain into a shot glasses for serving",
+"ingredients": "1 oz Vodka||3 oz Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1700,
+"shot_name": "Erik the Red",
+"instructions": "stir ingredients together in an old-fashioned glass, and serve",
+"ingredients": "1 oz Johnnie Walker® Red Label Scotch Whisky||1 oz Tennessee Whiskey||1 oz Vodka||3 - 4 Drops Red Food Coloring",
+"filters":"whisky,vodka"
+},
+{
+"shot_id": 1701,
+"shot_name": "Evershock",
+"instructions": "stir ingredients together in equal parts in a shot glass, and shoot",
+"ingredients": "1 oz Everclear® Alcohol||1 oz Aftershock® Hot & Cool Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1703,
+"shot_name": "Farmer's Gold",
+"instructions": "Pour the grain alcohol into a shot glass||Add Goldschlager on top, and serve",
+"ingredients": "1 oz Grain Alcohol||2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1704,
+"shot_name": "Exxon Valdez",
+"instructions": "Layer the sambuca on the schnapps in a shot glass, and serve",
+"ingredients": "1/2 oz Butterscotch Schnapps||1/2 oz White Sambuca",
+"filters":"schnapps"
+},
+{
+"shot_id": 1706,
+"shot_name": "Fainting Goat",
+"instructions": "Combine all of the rums into a tumbler with ice||Add enough cranberry to turn the drink a light red color||Shake well and strain into a rocks glass||Shoot",
+"ingredients": "1/2 oz Limon Rum||1/2 oz Bacardi® Coco Rum||1/2 oz Bacardi® Vanilla Rum||1/2 oz Bacardi® O Rum||1/2 oz Razz Rum||1 Splash Cranberry Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1708,
+"shot_name": "THe Wild Wild South",
+"instructions": "Pour all ingredients into an old-fashioned or rocks glass, stir and shoot",
+"ingredients": "1 oz Wild Turkey® 101 Bourbon Whiskey||1 oz Tennessee Whiskey||1 oz Bailey's® Irish Cream||1 oz Vodka||1 oz  Cinnamon Schnapps",
+"filters":"whisky,vodka,schnapps"
+},
+{
+"shot_id": 1709,
+"shot_name": "Lemon Aid",
+"instructions": "Pour Stoli raspberry vodka and Bacardi Limon into a shot glass in equal parts, and serve",
+"ingredients": "1/2 oz Stoli® Razberi Vodka||1/2 oz Limon Rum",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1710,
+"shot_name": "Fear the Turtle",
+"instructions": "Pour all ingredients into a stainless steel shaker over ice, shake until completely cold then strain into several shot glasses||Make sure it's all equal parts based on how many people are taking it",
+"ingredients": "1 oz Absolut® Citron Vodka||1 ozMelon Liqueur||1 oz Southern Comfort® Peach Liqueur||1 oz Pineapple Juice||1 oz Peach Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1711,
+"shot_name": "Feelin' Happy",
+"instructions": "Mix ingredients together in a shot glass, and serve",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1 oz Limon Rum||1/2 oz Coca-Cola®",
+"filters":"rum"
+},
+{
+"shot_id": 1712,
+"shot_name": "Scotty",
+"instructions": "Pour Drambuie into a shot glass||Add some chocolate sprinkles or shavings||Top with whipped cream and add more chocolate sprinkles or shavings",
+"ingredients": "1 oz Drambuie® Scotch Whisky||1/2 oz Whipped Cream||1 tsp Chocolate",
+"filters":"whisky"
+},
+{
+"shot_id": 1713,
+"shot_name": "Feliz Navidad",
+"instructions": "Mix equal parts gin, rumple minze and tequila over ice and shake||Pour into old fashioned glass, and serve||Preferably use &quot;well&quot; liquor as this shot is meant to celebrate, yet punish",
+"ingredients": "1 oz Gin||1 oz Rumple Minze® Peppermint Liqueur||1 oz Tequila",
+"filters":"gin,tequila"
+},
+{
+"shot_id": 1716,
+"shot_name": "Fire And Torture",
+"instructions": "Pour all the contents into a shot glass at once",
+"ingredients": "1 Shot Tequila||10 Drops Tabasco® Sauce||5 Splashes Lime Juice",
+"filters":"tequila"
+},
+{
+"shot_id": 1717,
+"shot_name": "Fire in the Hole",
+"instructions": "Pour habenero sauce into a shot glass; add everclear||Dash cayenne pepper on top and serve",
+"ingredients": "1/2 oz Habanero Pepper Sauce||1/2 oz Everclear® Alcohol||1 Dash Cayenne Peppers",
+"filters":""
+},
+{
+"shot_id": 1718,
+"shot_name": "Firebomb",
+"instructions": "Pour the firewater into the Red Bull energy drink (or Monster) and serve",
+"ingredients": "1/2 oz Firewater® Cinnamon Schnapps||4 oz Energy Drink",
+"filters":"schnapps"
+},
+{
+"shot_id": 1719,
+"shot_name": "Firery Kiss",
+"instructions": "Coat rim of shot glass with Honey then por Red Cinnamon Schnapps(HOT DAMN)",
+"ingredients": "Honey||1 oz Red Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1720,
+"shot_name": "Firestorm",
+"instructions": "Pour ingredients into a stainless steel shaker over ice, and shake until completely cold||Strain into an old-fashioned glass, and serve",
+"ingredients": "3/4 oz Red Cinnamon Schnapps||3/4 oz Peppermint Schnapps||3/4 oz Bacardi® 151 Rum",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1721,
+"shot_name": "Fisherman's Friend",
+"instructions": "Add both ingredients to a shot glass||Stir to dissolve the crushed Fisherman's Friend candy tablet, and serve",
+"ingredients": "3/4 oz 100 Proof Vodka||1/4 oz Crushed Fisherman's Friend® Menthol Candy",
+"filters":"vodka"
+},
+{
+"shot_id": 1722,
+"shot_name": "Five Star General",
+"instructions": "Add equal parts of each liquor to a cocktail shaker half-filled with ice cubes||Shake well, strain into shot glasses and serve",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz Bourbon Whiskey||1/2 oz Johnnie Walker® Scotch Whisky||1/2 oz Cabo Wabo® Anejo Tequila||1/2 oz 151 Proof Rum",
+"filters":"whisky,rum,tequilla"
+},
+{
+"shot_id": 1724,
+"shot_name": "Flame Thrower",
+"instructions": "Pour grappa and southern comfort into a shot glass||Heat and ignite rum in a spoon, and add to the glass||Extinguish flame, and serve",
+"ingredients": "3/4 oz Grappa Brandy||3/4 oz Southern Comfort® Peach Liqueur||1 tsp Overproof White Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1725,
+"shot_name": "Flaming Angry Dragon",
+"instructions": "Mix together the vodka and Hqnotiq liqueur in a double-shot glass||Layer grenadine over the mixture and the Bailey's over that||Add a splash of Everclear over that and light the shot on fire||Extinguish, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Hpnotiq® Liqueur||1/4 oz Grenadine Syrup||1/4 oz Bailey's® Irish Cream||1 Splash Everclear® Alcohol",
+"filters":"vodka"
+},
+{
+"shot_id": 1726,
+"shot_name": "Flaming Berry",
+"instructions": "Layer in a shot glass in this order; brandy, tequila then rum||Ignite||Extinguish within several seconds and serve",
+"ingredients": "1/3 oz 151 Proof Rum||1/3 oz Tequila||1/3 oz Blackberry Brandy",
+"filters":"rum,tequila"
+},
+{
+"shot_id": 1727,
+"shot_name": "Flaming Bloody",
+"instructions": "Pour the Kahlua coffee liqueur, Stoli vodka and Rose's grenadine into a shot glass in that order||Add a dash of Tabasco sauce or Habanero pepper sauce, and serve",
+"ingredients": "1 oz Coffee Liqueur||1/2 oz Stolichnaya® Vodka||1 Splash Rose's® Grenadine Syrup||1 Dash Tabasco® Sauce",
+"filters":"vodka"
+},
+{
+"shot_id": 1728,
+"shot_name": "Flaming Blue",
+"instructions": "stir ingredients together in a shot glass||Ignite and drink through a straw, quickly",
+"ingredients": "1 1/2 oz Sambuca||1/2 oz Blue Curacao Liqueur",
+"filters":""
+},
+{
+"shot_id": 1729,
+"shot_name": "Flaming Bob Marley",
+"instructions": "Divide a tall shot glass into thirds, fill the lowest third with grenadine syrup, the middle third with creme de menthe, and float the 151 in the top third||Wet a thin straw, light the 151 by passing a lighter over it, plunge the straw to the bottom of the glass into the grenadine syrup and suck||If done rapidly and correctly the straw will not melt, and you can observe flames travelling up the inside of it||Stop sucking when the flame is inside the straw",
+"ingredients": "1/3 oz Grenadine Syrup||1/3 oz Creme de Menthe||1/3 oz 151 Proof Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1730,
+"shot_name": "Flaming Buller",
+"instructions": "Layer the Yukon Jack and cinnamon schnapps in a shot glass||Add tabasco and light carefully||Quickly blow out and shoot",
+"ingredients": "1/2 oz Yukon Jack® Canadian Whisky||1/2 oz Goldschlager® Cinnamon Schnapps||1 - 2 Drops Tabasco® Sauce",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1731,
+"shot_name": "Flaming Daniel",
+"instructions": "Combine ingredients together in an old-fashioned glass||Stir, ignite, and serve",
+"ingredients": "1 oz Bacardi® 151 Rum||1 oz Ouzo Anise Liqueur||1 oz Absinthe Herbal Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1732,
+"shot_name": "Flaming Dr. Pepper",
+"instructions": "Pour the Devil Springs vodka into a shot glass, and seperately pour the Coca-Cola into an old-fashioned glass||Ignite the vodka in the shot glass and drop the glass into the old-fashioned glass of Coca-Cola||Down it all",
+"ingredients": "1 Shot devil Springs® Vodka||8 oz Coca-Cola®",
+"filters":"vodka"
+},
+{
+"shot_id": 1733,
+"shot_name": "Flaming Gorilla",
+"instructions": "Add the kahlua and then add bacardi 151 rum to the shot glass||Place a small sipping straw in the mixture and then light on fire||The straw is so you do not burn your eyebrows off||Once lit suck the shot through the straw till empty||Tastes like chocolate milk||I have made this drink quite often at parties and it goes over very well with everyone||Try it a few times it does take a little practice to get it right",
+"ingredients": "1 oz Bacardi® 151 Rum||1 oz Coffee Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1735,
+"shot_name": "Flaming Hot Chocolate",
+"instructions": "Fill a shot glass three-quarters full with creme de cacao||Top with Bacardi 151 rum and ignite||Allow to burn for 10- 20 seconds, extinguish and serve",
+"ingredients": "3/4 oz Dark Creme de Cacao||1/4 oz Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1737,
+"shot_name": "Flaming JT Bomber",
+"instructions": "Layer the first 4 ingredients in a shot glass or pony glass||Carefully flame the 151 rum (the 1/4 oz) and slowly pour on top||Serve",
+"ingredients": "1/4 oz Coffee Liqueur||1/4 oz Amaretto Almond Liqueur||1/4 oz Bailey's® Irish Cream||1/4 oz Orange Liqueur||1/4 oz Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1738,
+"shot_name": "Flaming Lemon",
+"instructions": "squeeze half a lemon into a mixing glass, and add the Absolut Citron||Mix them together, and pour into a shot glass||Spoon the Everclear over the surface of the mixture, light on fire, and serve",
+"ingredients": "1 oz Absolut® Citron Vodka||3/4 oz Lemon Juice||1 tsp Everclear® Alcohol",
+"filters":"vodka"
+},
+{
+"shot_id": 1739,
+"shot_name": "Flaming Liquid Blaster",
+"instructions": "Layer all three half shots on top of one another, making sure to float the 151 on top||Ignite; drop into a glass filled with red bull and pound it",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Jagermeister®||1/2 oz Goldschlager® Cinnamon Schnapps||8 oz Can Energy Drink",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1740,
+"shot_name": "Flaming Meggers",
+"instructions": "Place a dash of Tabasco sauce on some body part||Lick the Tabasco off, take the shot, and bite the Jalepeno, then hold on for dear life",
+"ingredients": "1 oz Tequila||1 Jalapeno Pepper||1 Dash Tabasco® Sauce",
+"filters":"tequila"
+},
+{
+"shot_id": 1741,
+"shot_name": "Flaming Mo",
+"instructions": "Pour Stoli peach vodka and  rum into a shot glass||Top with enough 151 proof rum to be able to burn||Fill a pint glass with pineapple juice (right up to the level of the shot glass)||Ignite the Stoli peach vodka/rum/151 mixture and allow to burn for a while||Pick up the burning shot glass, drop it into the pint glass and slam it",
+"ingredients": "3/4 oz Stoli® Persik Vodka||1/2 oz Coconut Rum||1 tsp 151 Proof Rum||8 oz Pineapple Juice",
+"filters":"rum,vodka"
+},
+{
+"shot_id": 1742,
+"shot_name": "Flaming Mouth Wash",
+"instructions": "Place the mint leaf in a shot glass||Pour the liquors into the glass, stir and serve",
+"ingredients": "1 oz Everclear® Alcohol||1/2 oz Absente® Herbal Liqueur||1/2 oz Blue Curacao Liqueur||1 Mint Leaf",
+"filters":""
+},
+{
+"shot_id": 1743,
+"shot_name": "Flaming Mouthwash",
+"instructions": "Pour the green creme de menthe into a shot glass||Add blue curacao, top with Everclear, and ignite||Take care, and extinguish before consuming",
+"ingredients": "1/2 oz Blue Curacao Liqueur||1/2 oz Green Creme de Menthe||1 tsp Everclear® Alcohol",
+"filters":""
+},
+{
+"shot_id": 1744,
+"shot_name": "Flaming Nerd",
+"instructions": "simply pour the ingredients into a double shot shot glass and serve",
+"ingredients": "1 oz Bacardi® 151 Rum||1/2 oz Boo Koo® Energy Drink||1/2 oz Orange Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1746,
+"shot_name": "Flaming Orchard",
+"instructions": "1||Place a 1-oz shot glass on a saucer, then fill the glass with equal amount of peach schnapps and Midori melon liqueur||Across the rim of the glass, place a slice of lime and sprinkle with caster sugar||Pour sambuca over the lime so it flows onto the saucer||Ignite the lime and the liquor on the saucer||2||To drink, either wait till the flame goes out, or blow it out if you could||Drink from the shot glass, pour the liquor on the saucer into the glass, drink, then suck on the lime",
+"ingredients": "1/2 oz Peach Schnapps||1/2 ozMelon Liqueur||1/4 oz Galliano® White Sambuca||1 Slice Lime||1/4 tsp Caster Sugar",
+"filters":"schnapps"
+},
+{
+"shot_id": 1748,
+"shot_name": "Flaming Pumpkin",
+"instructions": "Layer in order then light on fire and sprinkle some cinnamon on top||Extinguish fire and serve",
+"ingredients": "1/2 oz Coffee Liqueur||1/2 oz Bailey's® Irish Cream||1/4 oz Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1749,
+"shot_name": "Flaming Ring of Fire",
+"instructions": "Add the Bacardi 151 and Dr||Fireball whiskey to a shot glass, top with Tabasco sauce, and serve",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Canadian Whisky||4 - 5 Drops Tabasco® Sauce",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1750,
+"shot_name": "Flaming Scab",
+"instructions": "Ignite a shot of 151 rum and place into a mug of beer||Serve",
+"ingredients": "1 oz Bacardi® 151 Rum||6 oz Beer",
+"filters":"rum"
+},
+{
+"shot_id": 1751,
+"shot_name": "Flaming Tiki Torch",
+"instructions": "Place 2 highball glasses next to each other, one right side up, and one upside down||Stack a shot glass on on in between the two highball glasses||Combine the rum, peach schnapps, and pineapple juice in a cocktail shaker half-filled with ice cubes, and shake well||Fill the right side up tall glass half way with Smirnoff Ice||Pour the contents of your cocktail shaker into the shot glass||Add a splash of Razzmatazz and 151 to the shot glass||Next step is optional; either light the top of the shot with a match, or blow fire at it with 151 in your mouth||Then, knock the shot glass into the tall glass and serve",
+"ingredients": "1/2 oz Coconut Rum||1/4 oz Peach Schnapps||1 Splash Pineapple Juice||1/4 oz Razzmatazz Liqueur||6 oz Smirnoff® Ice||1 Splash Bacardi® 151 Rum",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1752,
+"shot_name": "Flaming Tree",
+"instructions": "Pour the chartreuse first, then top with rum, and serve",
+"ingredients": "1 oz Green Chartreuse®||1/2 oz Overproof Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1753,
+"shot_name": "Flaming Rocket",
+"instructions": "Pour the whiskey and peach liqueur into a shot glass and leave enough room for a layer of 151 over the top||Light the 151 with a lighter (torch lighter preferable)||Extinguish the flame with your hand and immediately shoot",
+"ingredients": "0.4 oz Bourbon Whiskey||0.1 oz Bacardi® 151 Rum||0.5 oz Southern Comfort® Peach Liqueur",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1754,
+"shot_name": "Flatliner",
+"instructions": "Pour the tequila over the chartreuse in a 2-oz shot glass||Add desired amount of tabasco sauce, and serve||(1-2 drops for the weak, 3-4 for the mid-strength, 4-7 for the adventurous, 7+ for the herculean efforts||)",
+"ingredients": "1 oz Chartreuse® Herbal Liqueur||1 oz Gold Tequila||1 - 7 Drops Tabasco® Sauce",
+"filters":"tequila"
+},
+{
+"shot_id": 1755,
+"shot_name": "Flavor Five",
+"instructions": "In any order, put all amounts into a shaker with ice and shake for about 5-10 secs||Serve in a whiskey sour glass",
+"ingredients": "3/4 oz Bourbon Whiskey||3/4 oz Johnnie Walker® Scotch Whisky||3/4 oz Tennessee Whiskey||3/4 oz Gold Tequila||3/4 oz Spiced Rum",
+"filters":"whisky,rum,tequila"
+},
+{
+"shot_id": 1756,
+"shot_name": "Floater",
+"instructions": "Pour a shot of vodka into a shot glass, and top with a spoon of peanut butter||Add a drizzle of chocolate syrup, garnish with a kernal of corn, and serve",
+"ingredients": "1 oz Vodka||1 tsp Peanut Butter||1 Dash Hershey's® Chocolate Syrup||Canned|| Drained Corn",
+"filters":"vodka"
+},
+{
+"shot_id": 1757,
+"shot_name": "Fluffy Angel",
+"instructions": "stir ingredients together in a shot glass, and shoot",
+"ingredients": "1/4 oz Vodka||1/4 oz Champagne||1/4 oz Grenadine Syrup||1/4 oz Fresh Cream",
+"filters":"vodka"
+},
+{
+"shot_id": 1758,
+"shot_name": "Flugelhorn",
+"instructions": "Mix ingredients||Pour over a single cube of ice in a small glass||Drink like a shot and throw the ice away!",
+"ingredients": "1 Part Cranberry Vodka||1 Part Energy Drink||1 Ice Cube",
+"filters":"vodka"
+},
+{
+"shot_id": 1759,
+"shot_name": "Flying Goose",
+"instructions": "Pour all ingredients into a cocktail shaker half-filled with ice cubes||Shake and strain into shot glasses",
+"ingredients": "1 oz Grey Goose® Vodka||1 oz Melon Liqueur||2 oz Pineapple Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1760,
+"shot_name": "Forty 9th Parallel",
+"instructions": "Pour the Yukon Jack whisky, Newfoundland Screech dark rum, and Forty Creek whisky into an old-fashioned glass filled with ice cubes||Top off glass with Canada Dry ginger ale, and serve",
+"ingredients": "1 oz Yukon Jack® Canadian Whisky||1 oz Dark Rum||1 oz Forty Creek® Barrel Select Canadian Whisky||3 - 4 oz Ginger Ale",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1761,
+"shot_name": "Four Horsemen Piledriver",
+"instructions": "Take all of the liquors and pour into a beer mug||Add a double shot of an energy drink of your choice to mellow the taste||Slam",
+"ingredients": "2 oz Tennessee Whiskey||2 oz Bourbon Whiskey||2 oz Johnnie Walker® Red Label Scotch Whisky||2 oz Gold Tequila||2 oz Energy Drink",
+"filters":"whisky,tequila"
+},
+{
+"shot_id": 1763,
+"shot_name": "Frankenstein",
+"instructions": "Pour all ingrediants into a cocktail shaker with a few ice cubes||Shake and strain into a 2-oz shot glass, and serve",
+"ingredients": "1/2 oz Black Haus® Blackberry Schnapps||1/2 ozMelon Liqueur||1 oz Pineapple Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1764,
+"shot_name": "Fred's Slo Drop",
+"instructions": "stir together in a shot glass, and serve",
+"ingredients": "1/2 oz Sloe Gin||1/2 oz Sun Drop® Citrus Soda",
+"filters":""
+},
+{
+"shot_id": 1765,
+"shot_name": "Freddy Kreuger",
+"instructions": "Pour scotch and tequila into a large shot glass||Add hot sauce, morton salt and shoot",
+"ingredients": "4 oz Johnnie Walker® Black Label Scotch Whisky||4 oz Gold Tequila||2 oz Hot Pepper Sauce||2 Dashes Morton® Salt",
+"filters":"whisky,tequila"
+},
+{
+"shot_id": 1766,
+"shot_name": "Freezer Burn",
+"instructions": "Chill the Smirnoff bottle on ice or in a refrigerator beforehand||Keep Hot Damn! at room temperature||Pour the Smirnoff vodka into a shot glass, and the Hot Damn! cinnamon schnapps into a seperate shot glass||Shoot the shot of vodka, and chase with the schnapps||Hence the name &quot;Freezer burn&quot;",
+"ingredients": "1 oz Pre-chilled Smirnoff® Vodka||1 oz  Cinnamon Schnapps",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1767,
+"shot_name": "French Fries",
+"instructions": "Layer ingredients in equal parts in a shot glass, and serve",
+"ingredients": "1/3 oz Amaretto Almond Liqueur||1/3 oz Creme de Cacao||1/3 oz Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1768,
+"shot_name": "Tickle My Feet",
+"instructions": "Pour ingredients into a stainless steel shaker over ice, and shake until completely cold||Strain into an old-fashioned glass, and serve",
+"ingredients": "1 oz 100 Proof Cinnamon Schnapps||1 oz Orange Liqueur",
+"filters":"schnapps"
+},
+{
+"shot_id": 1770,
+"shot_name": "Robby Red",
+"instructions": "Add Vodka and Schnapps to shot glass||add dash of cranberry juice||Drink",
+"ingredients": "1 Part/s Vodka ||1 Part/s Peach Schnapps ||1 Dash/es Cranberry Juice",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1771,
+"shot_name": "Frieght Train",
+"instructions": "Combine both ingredients in a shot glass, and serve",
+"ingredients": "3/4 oz Tennessee Whiskey||1/4 oz Orange Liqueur",
+"filters":"whisky"
+},
+{
+"shot_id": 1772,
+"shot_name": "Friendly Fire",
+"instructions": "Pour the Hot Damn into a shot glass||Float 151 on top, ignite and serve",
+"ingredients": "3/4 oz  Cinnamon Schnapps||1/4 oz 151 Proof Rum",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1773,
+"shot_name": "Frog on a Wire",
+"instructions": "Pour Amp energy drink into tall slender glass||ignite shot of bacardi 151 and quickly but carefully drop entire shot glass and all into the energy drink so that the flame is extinguished||and then drink quickly||(note: if this procedure is not carried out quickly then the rim of the shot glass may burn the drinkers lip||)",
+"ingredients": "8 oz Can Amp® Energy Drink||1 oz Bacardi® 151 Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1774,
+"shot_name": "Fruit Chew",
+"instructions": "stir ingredients together in a mixing glass with ice||Strain into a shot glass, and serve",
+"ingredients": "1/4 oz Melon Vodka||1/4 oz Island Blue Pucker Schnapps||1/4 oz Banana Liqueur||1/4 oz Energy Drink",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1775,
+"shot_name": "Fruit Cocktail",
+"instructions": "Combine all ingredients in a cocktail shaker half-filled with ice cubes||Shake well and strain into an old-fashioned glass half-filled with ice cubes||Serve",
+"ingredients": "1/2 oz Mandrin Vodka||1/2 oz Pineapple Rum||1/2 oz Peach Schnapps||1/2 ozMelon Liqueur||1/2 oz Sour Apple Pucker Schnapps||1 Splash Pineapple Juice||1 Splash Grenadine Syrup",
+"filters":"rum,vodka,schnapps"
+},
+{
+"shot_id": 1776,
+"shot_name": "Fruit Salad Slammer",
+"instructions": "stir ingredients together with ice cubes in a mixing glass||Strain into a shot glass, and serve",
+"ingredients": "1/3 oz Sour Apple Pucker Schnapps||1/3 oz Grape Pucker Schnapps||1/3 oz Cheri-Beri Pucker Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1777,
+"shot_name": "Fruity Bastard",
+"instructions": "Add all in mixer shake and serve",
+"ingredients": "1 Oz Caribbean Mango Vodka ||1 Oz Absolute Pear Vodka ||1 Oz 99 Apples ||1 Oz 99 Bananas ||1 Oz Twisted Orange ||5 Oz Sunkist",
+"filters":"vodka"
+},
+{
+"shot_id": 1778,
+"shot_name": "Frutty Me Up",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1 oz Coconut Rum||1 oz Hpnotiq® Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1780,
+"shot_name": "Triple Rockstar",
+"instructions": "Pour all three ingredients into a 2-oz shot glass, and serve",
+"ingredients": "1 oz Vodka||1/2 oz Triple Sec||1/2 oz Rockstar® Energy Drink",
+"filters":"vodka"
+},
+{
+"shot_id": 1781,
+"shot_name": "Jacked Up Greek",
+"instructions": "Combine both ingredients according to taste in a cocktail shaker||Shake and pour into a shot glass; serve",
+"ingredients": "1/2 - 3/4 oz Sambuca||1/4 - 1/2 oz Lemonade",
+"filters":""
+},
+{
+"shot_id": 1782,
+"shot_name": "Fuel Injection",
+"instructions": "Pour the Bacardi rum into a shot glass; top with Anisette, and serve",
+"ingredients": "1/2 oz Anisette||1/2 oz Bacardi® Dark Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1783,
+"shot_name": "Fuzzy Iron Worker",
+"instructions": "shake all ingredients together in a cocktail shaker||Strain into a double-shot glass, and serve",
+"ingredients": "1 oz Spiced Rum||1/2 oz Bacardi® Orange Rum||1/8 oz Chambord® Raspberry Liqueur||1 Splash Pineapple Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1784,
+"shot_name": "Fuzzy Napalm",
+"instructions": "Pour the peach schnapps first||Top with orange, and then alcohol||Shoot before it mixes",
+"ingredients": "1/3 oz Grain Alcohol||1/3 oz Peach Schnapps||1/3 oz Orange Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1785,
+"shot_name": "Fuzzy Slammers",
+"instructions": "Fill half a shot glass with the Bacardi, add lemon juice and then add the champagne||Place hand over the top of the glass, slam the glass on the bar to release the bubbles and down the shot in one go||This is a great drink to start a party of with, the bubbles are amazing",
+"ingredients": "1/2 oz Bacardi® White Rum||1 Squeeze Fresh Lemon Juice||1/2 oz Champagne",
+"filters":"rum"
+},
+{
+"shot_id": 1786,
+"shot_name": "Fuzzy Worm",
+"instructions": "Fill in order into shot glass",
+"ingredients": "1/4 oz Cabo Wabo® Anejo Tequila||1/2 oz Peach Schnapps||1/4 oz Orange Juice",
+"filters":"schnapps,tequila"
+},
+{
+"shot_id": 1787,
+"shot_name": "G.T.O",
+"instructions": "Add all the ingredients apart from Grenadine in a shaker and mix||Serve in shooters and add 2-3 drops of Grenadine in every glass",
+"ingredients": "1 Part/s Vodka ||1 Part/s Bacardi ||1 Part/s Dry Gin ||1 Part/s Southern ||1/2 Part/s Orange Juice ||1 Part/s Amaretto ||1 Part/s Grenadine",
+"filters":"vodka,gin"
+},
+{
+"shot_id": 1788,
+"shot_name": "Brother From Another Mother",
+"instructions": "Pour Jack Daniel's into a shot glass followed by milk or cream||Splash the Tabasco on top, and serve",
+"ingredients": "1/2 oz Tennessee Whiskey||1/2 oz Cream||1 Splash Tabasco® Sauce",
+"filters":"whisky"
+},
+{
+"shot_id": 1789,
+"shot_name": "The Buick Lesabre",
+"instructions": "shoot the first four shots in order listed, suck the lemon then chase it with a beer!",
+"ingredients": "1 Shot Coffee Liqueur||1 Shot Coconut Rum||1 Shot Triple Sec||1 Shot Tequila||1 Slice Lemon||1 Can Beer",
+"filters":"rum,tequila"
+},
+{
+"shot_id": 1790,
+"shot_name": "German Chocolate",
+"instructions": "Pour shot of smirnoff and frangelico into short glass||Heavily coat the lemon slice||Bite the lemon, don't swallow the juice||Leave the sugar on your lips, and take the shot||Lick the sugar off your lips||Taste like german chocolate, w/out any chocolate in the mix",
+"ingredients": "1 oz Frangelico® Hazelnut Liqueur||1 oz 100 Proof Absolut® Vodka||Sugar||1 Slice Lemon",
+"filters":"vodka"
+},
+{
+"shot_id": 1791,
+"shot_name": "German Chocolate Cake",
+"instructions": "Pour all ingredients into a shot glass, stir and serve",
+"ingredients": "1/2 oz Jagermeister®||1/2 oz Chocolate Liqueur||1 Splash Coconut Rum||1 Splash Butterscotch Schnapps",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1792,
+"shot_name": "German Mouthwash",
+"instructions": "Pour both ingredients in equal parts into a shot glass, stir and serve",
+"ingredients": "1/2 oz Rumple Minze® Peppermint Liqueur||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1793,
+"shot_name": "White Camaro",
+"instructions": "Pour contents on ice pour into shaker give one hard shake then pour back into glass serve chilled",
+"ingredients": "1 Part Bacardi® 151 Rum||1 Part Absolut® Citron Vodka||1 Part Gin||1 Part Coca-Cola®",
+"filters":"rum,gin"
+},
+{
+"shot_id": 1794,
+"shot_name": "Getaway Car",
+"instructions": "Mix in a shot glass",
+"ingredients": "3/4 oz Peach Schnapps||1/4 oz Absolut® Citron Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1796,
+"shot_name": "Girl Scout",
+"instructions": "shake and strain into a small glass, and garnish with a cherry",
+"ingredients": "1/2 oz Peppermint Schnapps||1/2 oz Dark Creme de Cacao||1/2 oz Bailey's® Irish Cream||1 tsp Green Creme de Menthe||1/2 oz Whipping Cream",
+"filters":"schnapps"
+},
+{
+"shot_id": 1797,
+"shot_name": "Glowstick",
+"instructions": "shake ingredients together in a cocktail shaker half-filled with ice cubes||Strain into shot glasses, and serve",
+"ingredients": "1 1/2 oz Tanqueray® Gin||1 1/2 ozMelon Liqueur||1 Splash Sweet And Sour Mix",
+"filters":"gin"
+},
+{
+"shot_id": 1798,
+"shot_name": "Gold Bomb",
+"instructions": "Place a shot glass filled with Goldschlager cinnamon schnapps into the bottom of a wide glass, Fill the outer glass with Red Bull until it flows into the shot glass||Allow to mix for 20 seconds and then drink as fast as possible",
+"ingredients": "1 oz Goldschlager® Cinnamon Schnapps||4 - 5 oz Energy Drink",
+"filters":"schnapps"
+},
+{
+"shot_id": 1799,
+"shot_name": "Gold Emerald Shooter",
+"instructions": "Pour ingredients into a stainless steel shaker over ice, and shake until completely cold||Strain into an old-fashioned glass, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Goldschlager® Cinnamon Schnapps||1/2 ozMelon Liqueur",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1800,
+"shot_name": "Gold Rush",
+"instructions": "Pour equal parts of Goldschlager and Red Bull into a shot glass, and serve",
+"ingredients": "1/2 oz Goldschlager® Cinnamon Schnapps||1/2 oz Energy Drink",
+"filters":"schnapps"
+},
+{
+"shot_id": 1801,
+"shot_name": "Golden Buckle",
+"instructions": "stir together in a shot glass, and serve",
+"ingredients": "3/4 oz Canadian Whisky||1/4 oz Goldschlager® Cinnamon Schnapps",
+"filters":"whisky,schnapps"
+},
+{
+"shot_id": 1802,
+"shot_name": "Golden Delicious",
+"instructions": "Pour ingredients into a cocktail shaker half-filled with ice cubes||Shake well, strain into a highball glass, and serve",
+"ingredients": "1 oz Citrus Vodka||1 oz Melon Liqueur||1/8 oz 7-Up® Soda||1/8 oz Sweet And Sour Mix||1/8 oz Cranberry Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1804,
+"shot_name": "Golden Goose",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1/2 oz Goldschlager® Cinnamon Schnapps||1/2 oz Grey Goose® Vodka",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1805,
+"shot_name": "Golden Haze",
+"instructions": "serve in a shot glass",
+"ingredients": "1/3 oz Blue Curacao Liqueur||1/3 oz Goldschlager® Cinnamon Schnapps||1/3 oz Campari® Bitters",
+"filters":"schnapps"
+},
+{
+"shot_id": 1806,
+"shot_name": "Golden River",
+"instructions": "Carefully layer ingredients, in order, into a shot glass; barenjager, goldenschlager, vanilla schnapps||Serve",
+"ingredients": "1/4 oz Barenjager® Honey Liqueur||2/3 oz Goldschlager® Cinnamon Schnapps||1/5 oz Vanilla Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1807,
+"shot_name": "Golden Stream",
+"instructions": "Combine the three ingredients in a single shot glass, stir and serve",
+"ingredients": "1/3 oz Canadian Whisky||1/3 oz Peach Schnapps||1/3 oz Coconut Rum",
+"filters":"rum,whisky"
+},
+{
+"shot_id": 1808,
+"shot_name": "Goldtooth Hill Billy",
+"instructions": "serve in a shot glass",
+"ingredients": "1/2 oz Jagermeister®||1/2 oz Goldschlager® Cinnamon Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1809,
+"shot_name": "The Green Lucy",
+"instructions": "Layer ingredients above one another in a shot glass, by pouring over the back of a spoon pressed against the inside of the glass, or otherwise, and serve",
+"ingredients": "1/3 oz Cherry Brandy||1/3 oz Creme de Menthe||1/3 oz Peppermint Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1810,
+"shot_name": "Goose & Hen",
+"instructions": "Combine equal parts Grey Goose vodka and Hennessy cognac in a shot glass, and serve",
+"ingredients": "1 oz Grey Goose® Vodka||1 oz Hennessy® Cognac",
+"filters":"vodka"
+},
+{
+"shot_id": 1812,
+"shot_name": "Gorilla Fart",
+"instructions": "Pour ingredients as listed above into a shot glass and shoot!",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Wild Turkey® 101 Bourbon Whiskey",
+"filters":"whisky,rum"
+},
+{
+"shot_id": 1813,
+"shot_name": "Gorilla Snot",
+"instructions": "Measure the port into a brandy glass, the pour the Bailey's in||As the Bailey's enters the port it will solidify, forming a glob",
+"ingredients": "1/5 Part Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1814,
+"shot_name": "Got Kicked in the Jimmy",
+"instructions": "Combine whiskey's and vodka in equal parts in a shot glass, and serve",
+"ingredients": "1 oz Bourbon Whiskey||1 oz Finlandia® Vodka||1 oz dewar's® Scotch Whisky||1 oz Bushmills® Irish Whiskey||1 oz Bourbon Whiskey",
+"filters":"whisky,vodka"
+},
+{
+"shot_id": 1815,
+"shot_name": "Gran'ma Bailey",
+"instructions": "Take equal parts of Grand Marnier and Bailey's Irish Cream, shake with or without ice and pour into a shot glass||Serve",
+"ingredients": "1/2 oz Orange Liqueur||1/2 oz Bailey's® Irish Cream",
+"filters":""
+},
+{
+"shot_id": 1816,
+"shot_name": "Grape Juice",
+"instructions": "shake ingredients in a cocktail shaker half-filled with ice cubes||Strain into a shot glass, and serve",
+"ingredients": "3/4 oz Chambord® Raspberry Liqueur||1/2 oz Cranberry Juice||3/4 oz Blue Curacao Liqueur",
+"filters":""
+},
+{
+"shot_id": 1817,
+"shot_name": "Great Skies Turn Black",
+"instructions": "Add Vodka and Blue Curacao in a shot glass and slowly top up with Black Sambuca||by PRODIGY_CHILD, Greece",
+"ingredients": "1 Part/s Vodka ||1 Part/s Blue Curacao ||1 Part/s Black Sambuca",
+"filters":"vodka"
+},
+{
+"shot_id": 1818,
+"shot_name": "Green Ambulance",
+"instructions": "Fill the shot glass 2/3 with vodka and 1/3 with childrens style &quot;cool lime&quot; cordial||Serve",
+"ingredients": "2/3 oz Vodka||1/3 oz Lime Cordial",
+"filters":"vodka"
+},
+{
+"shot_id": 1820,
+"shot_name": "Green Apple",
+"instructions": "Mix all three ingredients together in a shot glass and serve",
+"ingredients": "1 Shot Southern Comfort® Peach Liqueur||1 SplashMelon Liqueur||1 Splash Sweet And Sour Mix",
+"filters":""
+},
+{
+"shot_id": 1822,
+"shot_name": "Green Card",
+"instructions": "Pour the Grey Goose vodka into a double-shot glass||Add the Makers Mark bourbon whiskey, the Cointreau orange liqueur and Rose's infused blue raspberry mixer (the mixture should turn a dirty green); serve",
+"ingredients": "3/4 oz Grey Goose® Vodka||3/4 oz Maker's Mark® Bourbon Whiskey||1/4 oz Cointreau® Orange Liqueur||1/4 oz Rose's® Blue Raspberry Mixer",
+"filters":"whisky,vodka"
+},
+{
+"shot_id": 1823,
+"shot_name": "Green Day",
+"instructions": "Fill a 2-oz shot glass half-way with citrus vodka, then add the lemon-lime soda of choice filling up the remaining portion of the shot glass||Shoot",
+"ingredients": "1 oz UV® Citruv Citrus Vodka||1 oz Lemon-lime Soda",
+"filters":"vodka"
+},
+{
+"shot_id": 1824,
+"shot_name": "Green Fairy",
+"instructions": "Combine equal measures in a straight shot glass - blended not layered||Serve",
+"ingredients": "1/3 oz Absinthe Herbal Liqueur||1/3 ozMelon Liqueur||1/3 oz Peach Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1825,
+"shot_name": "Green Headache",
+"instructions": "Mix in a cocktail glass, and slam it! Be prepared for a five-alarm headache if you do too many of these",
+"ingredients": "2 oz Avalanche® Peppermint Schnapps||4 oz Orange Juice",
+"filters":"schnapps"
+},
+{
+"shot_id": 1826,
+"shot_name": "Green Hornet",
+"instructions": "Layer the McGuinness melon liqueur and Phillips butterscotch schnapps in a shot glass||Add a splash of ginger ale, and serve",
+"ingredients": "1/2 oz McGuinness® Melon Liqueur||1/2 oz Phillips® Butterscotch Schnapps||1 Splash Ginger Ale",
+"filters":"schnapps"
+},
+{
+"shot_id": 1829,
+"shot_name": "Green Hulk",
+"instructions": "stir ingredients together in a shot glass, and serve",
+"ingredients": "1/2 oz Green Creme de Menthe||1/2 oz Peppermint Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1830,
+"shot_name": "Green Tang",
+"instructions": "shake ingredients together in a cocktail shaker; strain into shot glasses, and serve",
+"ingredients": "2 1/2 oz Cointreau® Orange Liqueur||1/2 oz Sour Apple Pucker Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1831,
+"shot_name": "Snapple",
+"instructions": "Pour ingredients in equal parts into a shot glass, and serve",
+"ingredients": "1/2 oz  Cinnamon Schnapps||1/2 oz Sour Apple Pucker Schnapps",
+"filters":"schnapps"
+},
+{
+"shot_id": 1832,
+"shot_name": "Guillotine",
+"instructions": "Mix the benedictine, gin and lemon juice together in a mixing glass||Sweeten to taste||Pour into shot glass(es), and serve",
+"ingredients": "1 oz Benedictine Herbal Liqueur||1/2 oz Lemon Juice||1 oz Gin||1/2 tsp Sugar",
+"filters":"gin"
+},
+{
+"shot_id": 1833,
+"shot_name": "Gumball",
+"instructions": "Pour equal parts Jagermeister herbal liqueur and blue Curacao into a cocktail shaker with a few ice cubes||Add a medium splash of Red Bull energy drink||Shake briefly; strain into a shot glass, and serve",
+"ingredients": "1 oz Jagermeister®||1 oz Blue Curacao Liqueur||1 Splash Energy Drink",
+"filters":""
+},
+{
+"shot_id": 1834,
+"shot_name": "Gummy Bear Shooter",
+"instructions": "Pour ingredients into a shaker with ice||Shake and strain into a double shot glass, and serve",
+"ingredients": "1 oz Absolut® Vodka||1/2 oz Raspberry Schnapps||1/2 oz Cranberry Juice",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1835,
+"shot_name": "Gummy Worm",
+"instructions": "stir ingredients together in a double-shot glass, and serve; result should be neon blue",
+"ingredients": "1/2 oz Mango Vodka||1/2 oz Raspberry Vodka||1/2 oz Blue Curacao Liqueur||1 Splash Sprite® Soda",
+"filters":"vodka"
+},
+{
+"shot_id": 1836,
+"shot_name": "Hairy Lemon",
+"instructions": "Rub salt onto the back of your hand||Bite the lemon, drink a good two mouthfuls of vodka, and lick the salt",
+"ingredients": "salt||Lemons||Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1837,
+"shot_name": "Hairy Murry",
+"instructions": "shake all ingredients together in a cocktail shaker||Strain into a cocktail glass, and serve",
+"ingredients": "1 oz Tequila||1 oz Jagermeister®||1 oz Triple Sec||1 oz Pineapple Juice",
+"filters":"tequila"
+},
+{
+"shot_id": 1838,
+"shot_name": "Half Breed",
+"instructions": "Float the Stroh rum on top of peppermint liqueur in a shot glass, and shoot",
+"ingredients": "1/2 oz Stroh® 80 Rum||1/2 oz Peppermint Liqueur",
+"filters":"rum"
+},
+{
+"shot_id": 1839,
+"shot_name": "Harley Davidson",
+"instructions": "Pour alcohol into the shot glass||Occassionally mix with ice then put into a shot glass||Serve with a lemon wedge",
+"ingredients": "1/2 Shot Yukon Jack® Canadian Whisky||1/2 Shot Tennessee Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1840,
+"shot_name": "Harley Oil",
+"instructions": "Pour ingredients in equal parts into a shot glass, and serve",
+"ingredients": "1/2 oz Root Beer Schnapps||1/2 oz Jagermeister®",
+"filters":"schnapps"
+},
+{
+"shot_id": 184111,
+"shot_name": "Hateraid",
+"instructions": "Pour Absolut Mandrin and Absolut Citron over ice in a cocktail shaker||Add sweet and sour mix, and a packet of Sweet 'n Low artificial sweetener||Shake and pour into shot glasses",
+"ingredients": "1 oz Mandrin Vodka||1 oz Absolut® Citron Vodka||4 oz Sweet And Sour Mix||1 Package Sweet'n Low® Artificial Sweetener",
+"filters":"vodka"
+},
+{
+"shot_id": 1842,
+"shot_name": "Hawaiian Clear",
+"instructions": "Combine ingredients with crushed ice in desired glass",
+"ingredients": "1 oz Everclear® Alcohol||6 oz Hawaiian Punch®",
+"filters":""
+},
+{
+"shot_id": 1843,
+"shot_name": "Hawaiian Passion",
+"instructions": "stir both ingredients together in a mixing glass with a few ice cubes||Strain into a shot glass, and serve",
+"ingredients": "1/2 oz Hennessy® Cognac||1 oz Hawaiian Punch®",
+"filters":""
+},
+{
+"shot_id": 1844,
+"shot_name": "Hawaiian Punch",
+"instructions": "Pour all ingredients over ice, shake and strain into a large shot glass",
+"ingredients": "1/2 oz Vodka||1/2 oz Southern Comfort® Peach Liqueur||1/4 oz Amaretto Almond Liqueur||1 Splash Orange Juice||1 Splash 7-Up® Soda||1 Splash Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1845,
+"shot_name": "Hayfever Remedy",
+"instructions": "shake, strain into a shot glass, and serve",
+"ingredients": "1/2 oz Vodka||1/4 oz Southern Comfort® Peach Liqueur||1/4 oz Amaretto Almond Liqueur||1/2 oz Pineapple Juice||1 tsp Grenadine Syrup",
+"filters":"vodka"
+},
+{
+"shot_id": 1846,
+"shot_name": "Heart Attack",
+"instructions": "Pour over Ice and serve||Your heart will race",
+"ingredients": "1 Can Energy Drink||4 1/2 oz Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1847,
+"shot_name": "Heart Throb",
+"instructions": "Make pousse-cafe in a shot glass, and serve",
+"ingredients": "1/2 oz Coffee Liqueur||3/4 oz Whipping Cream||3/4 oz Dark Rum",
+"filters":"rum"
+},
+{
+"shot_id": 1848,
+"shot_name": "Zing and Zang",
+"instructions": "shake ingredients together in a cocktail shaker with ice cubes||Strain into a shot glass, and serve",
+"ingredients": "1 oz Vodka||1 oz Inferno® Pepper Pot Vodka",
+"filters":"vodka"
+},
+{
+"shot_id": 1850,
+"shot_name": "Heavy Metal",
+"instructions": "stir together in a cup, and serve",
+"ingredients": "1 oz Vodka||1 oz Tennessee Whiskey||4 Drops Tabasco® Sauce",
+"filters":"whisky,vodka"
+},
+{
+"shot_id": 1851,
+"shot_name": "Hector Bomb",
+"instructions": "Fill a glass with half a bottle of Corona||Pour a shot of tequila||Squeeze a lime wedge into the shot glass, and place lime wedge into shot||When you are ready to drink, drop the shot into the glass of Corona and chug fast",
+"ingredients": "1/2 Bottle Corona® Lager||1 Shot Tequila",
+"filters":"tequila"
+},
+{
+"shot_id": 1852,
+"shot_name": "Down Below",
+"instructions": "starting by pouring the sambuca into an old fashioned glass setting a snifter above it in 60 degrees angle||Pour the chocolate liquer into the snifter, above it absinthe, lighting it up, rolling the glass, letting it to hit up the pouring from the snifter into the old fashioned, covering it to choke the flames||Serve with a straw",
+"ingredients": "1 oz Molinari® Sambuca Extra||1 oz Chocolate Liqueur||1 oz Absinthe",
+"filters":""
+},
+{
+"shot_id": 1853,
+"shot_name": "Lincon Towncar",
+"instructions": "Pour and stir each ingredient into a mixing glass with ice, stirring continuously||Strain into shot glasses, and serve",
+"ingredients": "1/2 oz Everclear® Alcohol||1/2 oz Peach Schnapps||1/2 oz Lime Juice||1/2 oz Grenadine Syrup||1/2 oz Sweet And Sour Mix",
+"filters":"schnapps"
+},
+{
+"shot_id": 1854,
+"shot_name": "Fairy Dust",
+"instructions": "Combine all ingredients in a cocktail shaker and shake well||Strain into shot glasses, and serve",
+"ingredients": "2 oz Absinthe||1 oz Lemonade||2 oz Energy Drink||2 oz Ginger Ale||1 oz Apple Juice",
+"filters":""
+},
+{
+"shot_id": 1855,
+"shot_name": "Sunrise",
+"instructions": "Pour orange juice into a shot glass||Add Hot Damn! and Everclear, stir briefly and serve",
+"ingredients": "1/3 oz Orange Juice||1/3 oz  Cinnamon Schnapps||1/3 oz Everclear® Alcohol",
+"filters":"schnapps"
+},
+{
+"shot_id": 1856,
+"shot_name": "Henry Rollins",
+"instructions": "Mix the Jack Black and Jagermeister||Tastes best if the Jagermeister is stored in the freezer||Sip slowly as an apertif, or drink as a refreshing and powerful shooter",
+"ingredients": "2 oz Jagermeister®||2 oz Tennessee Whiskey",
+"filters":"whisky"
+},
+{
+"shot_id": 1857,
+"shot_name": "High Class",
+"instructions": "Add ice cubes to a glass, and coat them evenly with the sweet vermouth||Swirl the vermouth around, then pour out the excess||Sift sugar onto the vermouth-coated cubes||Add approximately two shots of amaretto||Garnish with a swirled lemon peel and serve||For contrast, try adding a few drops of lemon juice to the drink",
+"ingredients": "2 Shots Amaretto Di Saronno® Liqueur||5 Ice Cubes||1 Lemon Wedge||1 tsp Sugar||2 oz Sweet Vermouth",
+"filters":""
+},
+{
+"shot_id": 1859,
+"shot_name": "Hokey Pokey",
+"instructions": "Combine all ingredients together in a cocktail shaker half-filled with ice cubes||Shake well, strain into shot glasses, and serve",
+"ingredients": "1 oz Razz Rum||1 oz Bacardi® O Rum||1 oz Limon Rum||1 oz Coconut Rum||Top With Pineapple Juice",
+"filters":"rum"
+},
+{
+"shot_id": 1861,
+"shot_name": "Homer's Plutonium",
+"instructions": "Combine one oz of each over ice in mixer, Shake well for 10 - 15 count||Strain and pour into double shot glass||Drink",
+"ingredients": "1 Oz Butterscotch Schnapps ||1 Oz Midori ||1 Oz The Strongest Vodka Available",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1862,
+"shot_name": "Charged Bull",
+"instructions": "Pour and slug back",
+"ingredients": "1/2 Shot Tequila||1/2 Shot Rum",
+"filters":"rum,tequila"
+},
+{
+"shot_id": 1863,
+"shot_name": "Kermit the Frog",
+"instructions": "Pour Midori melon liqueur and Frangelico hazelnut liqueur into a shot glass, and stir||Layer the Irish cream on top, and serve",
+"ingredients": "1/3 oz Irish Cream||1/3 ozMelon Liqueur||1/3 oz Frangelico® Hazelnut Liqueur",
+"filters":""
+},
+{
+"shot_id": 1865,
+"shot_name": "Jager Bomb",
+"instructions": "Pour red bull into a pint glass||Drop in a shot glass filled with jagermeister, and chug",
+"ingredients": "1 Can Energy Drink||1 oz Jagermeister®",
+"filters":""
+},
+{
+"shot_id": 1866,
+"shot_name": "Kamakazie",
+"instructions": "shake well with ice and strain mixture into a shot glass||Salute",
+"ingredients": "1 Part Vodka||1 Part Triple Sec||1 Part Rose's® Lime Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1867,
+"shot_name": "Kerosene",
+"instructions": "Add triple sec and vodka alcohol should look cloudy top with cranberry juice||Should look like Kerosene||Use a double shot glass for best results",
+"ingredients": "1/2 Oz Triple Sec ||1/2 Oz Vodka || Cranberry Juice",
+"filters":"vodka"
+},
+{
+"shot_id": 1868,
+"shot_name": "Kiss From Heaven",
+"instructions": "Mix the ingredients in a shot glass",
+"ingredients": "1 Part/s White Sambuca ||1 Part/s Blue Curacao ||1 Part/s Orange Juice",
+"filters":""
+},
+{
+"shot_id": 1869,
+"shot_name": "Liquid Corvette",
+"instructions": "Pour ingredients as listed above into a large shot glass and shoot",
+"ingredients": "1/2 oz Bacardi® 151 Rum||1/2 oz Goldschlager® Cinnamon Schnapps||1/2 oz Jagermeister®",
+"filters":"rum,schnapps"
+},
+{
+"shot_id": 1870,
+"shot_name": "Mexican Afterburner",
+"instructions": "Pour Tequila and Jagermeister into a shot glass||Top with a fair dash of Tabasco, sprinkle with a pinch of chilli flakes (optional), shot",
+"ingredients": "0.5 Oz Tequila ||0.5 Oz Jagermeister || Ml Tabasco Sauce || Oz Chilli Flakes (optional)",
+"filters":"tequila"
+},
+{
+"shot_id": 1871,
+"shot_name": "Night Of The Dead",
+"instructions": "Add Black and White Sambuca, Vodka, Parfait Amour and finally Grand Marnier in the Coupette Glass||Fill a shooter with Baileys||Ignite the Coupette Glass and add Sugar Syrup or Cinnamon||Put the fire out by using the Baileys shot||Serve it with straws to at least 3 persons",
+"ingredients": "1 Part/s Black Sambuca ||1 Part/s White Sambuca ||1 Part/s Vodka ||1 Part/s Parfait Amour ||1 Part/s Baileys ||1 Part/s Grand Marnier",
+"filters":"vodka"
+},
+{
+"shot_id": 1872,
+"shot_name": "Oi!",
+"instructions": "Combine Jack Daniels and Gold Schlager in a shot glass, in a separate glass pour a few ounces of club soda, drink the Jack and Gold Schlager, drink the club soda",
+"ingredients": "1 Oz Jack Daniels ||1 Oz Gold Schlager ||2 Oz Club Soda",
+"filters":""
+},
+{
+"shot_id": 1874,
+"shot_name": "Purple Woot Woot",
+"instructions": "Pour ingredients into a stainless steel shaker over ice||Shake until ice cold||Strain into a large shot glass, and serve",
+"ingredients": "1/2 oz Vodka||1/2 oz Chambord® Raspberry Liqueur||1 Splash 7-Up® Soda",
+"filters":"vodka"
+},
+{
+"shot_id": 1875,
+"shot_name": "Quix Fix",
+"instructions": "In mixer with ice shake 1 part of each: Absolut, Jack, SoCO, Raz, Chamb||Then splash of cranberry juice and splash of sprite||Shake||Pour into rocks glass||Enjoy!",
+"ingredients": "1 Oz Absolut Vokda ||1 Oz Jack Daniels Whiskey1 ||1 Oz Southern Comfort ||1 Oz RazzMaTazz Liquor ||1 Oz Chambord ||1 Dash/es Cranberry Juice ||1 Dash/es Sprite",
+"filters":"whisky"
+},
+{
+"shot_id": 1877,
+"shot_name": "Scooby Snack",
+"instructions": "Pour rum, creme de banane, melon liqueur and pineapple juice into a stainless steel shaker over ice||Add whipped cream, and shake; until well mixed and sufficiently chilled||Strain into an old-fashioned glass and shoot",
+"ingredients": "1/2 oz Coconut Rum||1/2 oz Creme de Bananes||1/2 ozMelon Liqueur||1/2 oz Pineapple Juice||1 1/2 oz Whipped Cream",
+"filters":"rum"
+},
+{
+"shot_id": 1880,
+"shot_name": "Sweat And Blood",
+"instructions": "Pour a shot of Tequila, Pour a shot of Ribena, Drink shot of tequila, Drink shot of Ribena imeadiatly after",
+"ingredients": "1.01 oz Tequila ||1.01 oz Ribena (Blackcurrant Cordial)",
+"filters":"tequila"
+},
+{
+"shot_id": 1881,
+"shot_name": "Three Wisemen And A Mexican",
+"instructions": "Add equal parts, shake with ice inside jigger",
+"ingredients": "2 Oz Jack Daniels ||2 Oz Johnny Walker ||2 Oz Jim Beam ||2 Oz Jose Quervo",
+"filters":""
+},
+{
+"shot_id": 1882,
+"shot_name": "Titanic Iceberg",
+"instructions": "Pour Pernod Absithe to half way||Then float De Kuyper Creme de Menthe on top",
+"ingredients": "1.69 oz Pernod Absinthe/ De Kuyper Creme De Menthe",
+"filters":""
+},
+{
+"shot_id": 1883,
+"shot_name": "Trifecta",
+"instructions": "serve the following in a row from the drinker's left to right to be drank in this order, 1 Shot Vodka, 1 Shot Peppermint Schnapps, 1 can(8||4oz) Red Bull",
+"ingredients": "1.5 Oz Vodka ||1.5 Oz Peppermint Schnapps ||8.4 Oz Red Bull",
+"filters":"vodka,schnapps"
+},
+{
+"shot_id": 1885,
+"shot_name": "Velvet Spice And Silk",
+"instructions": "Mix all the ingredients in a shot glass",
+"ingredients": "1 Part/s Black Sambuca ||1 Part/s Parfait Amour ||1 Part/s Baileys",
+"filters":""
+},
+{
+"shot_id": 1886,
+"shot_name": "Washington Apple Shot",
+"instructions": "Pour canadian whisky, sour apple pucker and cranberry juice into a cocktail shaker||Shake and strain into a shot glass||Add a splash of 7-Up if desired, and serve",
+"ingredients": "1/3 oz Canadian Whisky||1/3 oz Sour Apple Pucker Schnapps||1/3 oz Cranberry Juice||1 Splash 7-Up® Soda",
+"filters":"whisky,schnapps"
+}
+]

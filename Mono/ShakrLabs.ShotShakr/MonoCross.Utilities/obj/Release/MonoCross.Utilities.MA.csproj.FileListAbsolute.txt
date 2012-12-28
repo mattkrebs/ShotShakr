@@ -1,0 +1,10 @@
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\bin\Release\MonoCross.Utilities.MA.dll
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\bin\Release\MonoCross.Utilities.MA.pdb
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\bin\Release\MonoCross.Utilities.MA.apk
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\bin\Release\MonoCross.Utilities.MA-Signed.apk
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\MonoCross.Utilities.MA.dll
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\MonoCross.Utilities.MA.pdb
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\android\bin\MonoCross.Utilities.MA.apk
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\R.cs.flag
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\uploadflags.txt
+D:\Projects\BCBS\MobileApp\BCBS\Framework\MonoCross.Utilities\obj\Release\MonoCross.Utilities.MA.csprojResolveAssemblyReference.cache

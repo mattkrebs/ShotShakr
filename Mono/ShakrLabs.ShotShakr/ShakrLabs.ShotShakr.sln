@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakrLabs.ShotShakr", "ShakrLabs.ShotShakr\ShakrLabs.ShotShakr.csproj", "{32731469-2A5C-4067-A280-0761794FD299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoCross.Utilities.MA", "MonoCross.Utilities\MonoCross.Utilities.MA.csproj", "{1657B775-3827-40DA-98AF-F8D9CAB44FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Device Deploy|Any CPU = Device Deploy|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Device Deploy|Any CPU.ActiveCfg = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Device Deploy|Any CPU.Build.0 = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Device Deploy|Any CPU.Deploy.0 = Debug|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Device Deploy|Any CPU.ActiveCfg = Device Deploy|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Device Deploy|Any CPU.Build.0 = Device Deploy|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
