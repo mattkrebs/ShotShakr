@@ -13,6 +13,7 @@ public class ShotPicker
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"n_onResume:()V:GetOnResumeHandler\n" +
 			"n_onPause:()V:GetOnPauseHandler\n" +
+			"n_onKeyDown:(ILandroid/view/KeyEvent;)Z:GetOnKeyDown_ILandroid_view_KeyEvent_Handler\n" +
 			"n_onAccuracyChanged:(Landroid/hardware/Sensor;I)V:GetOnAccuracyChanged_Landroid_hardware_Sensor_IHandler:Android.Hardware.ISensorEventListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onSensorChanged:(Landroid/hardware/SensorEvent;)V:GetOnSensorChanged_Landroid_hardware_SensorEvent_Handler:Android.Hardware.ISensorEventListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
@@ -50,6 +51,14 @@ public class ShotPicker
 	}
 
 	private native void n_onPause ();
+
+
+	public boolean onKeyDown (int p0, android.view.KeyEvent p1)
+	{
+		return n_onKeyDown (p0, p1);
+	}
+
+	private native boolean n_onKeyDown (int p0, android.view.KeyEvent p1);
 
 
 	public void onAccuracyChanged (android.hardware.Sensor p0, int p1)

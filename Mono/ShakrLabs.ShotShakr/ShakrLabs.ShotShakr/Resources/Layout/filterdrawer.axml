@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="250dip"
+    android:gravity="bottom">
+    <SlidingDrawer
+        android:id="@+id/filterSlidingDrawer"
+        android:handle="@+id/filterHandle"
+        android:content="@+id/filtercontent"
+        android:layout_width="fill_parent"
+        android:layout_height="185dp">
+        <ImageView
+            android:id="@id/filterHandle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/drawerpull" />
+        <LinearLayout
+            android:id="@id/filtercontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/flterdrawerbackground"
+            android:minWidth="25px"
+            android:minHeight="25px">
+            <CheckBox
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/vodkabutton"
+                android:id="@+id/chkVodka" />
+            <CheckBox
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/tequilabutton"
+                android:id="@+id/chkTequila" />
+            <CheckBox
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/whiskeybutton"
+                android:id="@+id/chkWhiskey" />
+            <CheckBox
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/rumbutton"
+                android:id="@+id/chkRum" />
+            <CheckBox
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/schnappsbutton"
+                android:id="@+id/chkSchnapps" />
+        </LinearLayout>
+    </SlidingDrawer>
+</LinearLayout>

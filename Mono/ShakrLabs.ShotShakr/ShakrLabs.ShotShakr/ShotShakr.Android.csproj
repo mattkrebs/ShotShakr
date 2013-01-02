@@ -67,6 +67,9 @@
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\rumbutton.xml" />
+    <AndroidResource Include="Resources\Drawable\tequilabutton.xml" />
+    <AndroidResource Include="Resources\Drawable\whiskeybutton.xml" />
     <AndroidResource Include="Resources\Values\Strings.xml" />
   </ItemGroup>
   <ItemGroup>
@@ -181,16 +184,10 @@
     <AndroidResource Include="Resources\Drawable\tequila.png" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\tequila_off.png" />
+  </ItemGroup>
+  <ItemGroup>
     <AndroidResource Include="Resources\Drawable\tequila_on.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\Drawable\tequilabutton.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\Drawable\tequilla_off.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\Drawable\tequilla_on.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Drawable\twitter_background.jpg" />
@@ -217,7 +214,7 @@
     <AndroidResource Include="Resources\Drawable\whiskey_on.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\Layout\filterdrawer.xml" />
+    <AndroidResource Include="Resources\Layout\filterdrawer.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Layout\main.xml">
@@ -250,6 +247,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
+    <AndroidResource Include="Resources\Drawable\schnappsbutton.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -11,7 +11,7 @@ using System.IO;
 
 namespace ShakrLabs.ShotShakr
 {
-    [Activity(Label = "ShakrLabs.ShotShakr", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "ShotShakr", MainLauncher = true, Icon = "@drawable/icon")]
     public class Main : Activity
     {
         int count = 1;

@@ -50,8 +50,6 @@ C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequila.png
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequila_on.png
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequilabutton.xml
-C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequilla_off.png
-C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequilla_on.png
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\twitter_background.jpg
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\twitter_bg.png
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\twitter_icon.png
@@ -71,3 +69,7 @@ C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\anim\push_right_out.xml
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\R.cs.flag
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\uploadflags.txt
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\rumbutton.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\whiskeybutton.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\tequila_off.png
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\schnappsbutton.xml

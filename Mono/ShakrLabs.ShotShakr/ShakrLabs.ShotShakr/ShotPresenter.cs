@@ -42,8 +42,12 @@ namespace ShakrLabs.ShotShakr
         {
             get { return _presenter ?? (_presenter = new ShotPresenter()); }
         }
-
-
+        private List<Shot> _myShakenShots;
+        public List<Shot> MyShakenShots 
+        {
+            get { return _myShakenShots ?? (_myShakenShots = new List<Shot>()); } 
+            
+        }
        
 
 
