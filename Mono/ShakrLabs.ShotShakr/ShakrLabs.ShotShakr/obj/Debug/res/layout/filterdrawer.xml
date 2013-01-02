@@ -17,12 +17,13 @@
             android:background="@drawable/drawerpull" />
         <LinearLayout
             android:id="@id/filtercontent"
+            android:orientation="horizontal"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:background="@drawable/flterdrawerbackground"
             android:minWidth="25px"
             android:minHeight="25px">
-            <ChekBox
+            <CheckBox
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/vodkabutton"
