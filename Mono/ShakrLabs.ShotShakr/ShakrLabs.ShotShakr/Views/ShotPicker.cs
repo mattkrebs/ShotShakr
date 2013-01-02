@@ -13,10 +13,11 @@ using Android.Graphics;
 using Android.Views.Animations;
 using Android.Hardware;
 using System.Xml;
+using Android.Graphics.Drawables;
 
 namespace ShakrLabs.ShotShakr
 {
-    [Activity(Label = "ShotShakr", Icon="@drawable/icon")]
+    [Activity(Label = "ShotShakr", Icon="@drawable/icon", Theme="@style/ShotShakrTheme")]
     public class ShotPicker : Activity, ISensorEventListener
     {
         private const int SHAKE_THRESHOLD = 500;
@@ -62,15 +63,35 @@ namespace ShakrLabs.ShotShakr
         List<String> filters = new List<String>();
         private GestureDetector gestureScanner;
 
-
+        private List<Drawable> coasters = new List<Drawable>();
 
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.shot_picker);
-            // Create your application here
+
+           // RequestWindowFeature(WindowFeatures.ActionBar);
+
+            this.ActionBar.NavigationMode = ActionBarNavigationMode.Standard;
+            
+
+
             _shakeListener = (SensorManager)GetSystemService(Context.SensorService);
 
+            //Load Coasters
+
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster1));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster2));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster3));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster4));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster5));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster6));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster7));
+            coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster8));
+
+            coaster = this.FindViewById<ImageView>(Resource.Id.coaster);
+            coaster2 = this.FindViewById<ImageView>(Resource.Id.coaster2);
 
 
             // /set Global Animations
@@ -104,13 +125,6 @@ namespace ShakrLabs.ShotShakr
 
             shotName.Text = "Shake to get this party started!";
 
-
-            
-            
-           
-
-
-
             View inflatedDrawerLayout = LayoutInflater.Inflate(Resource.Layout.filterdrawer, null);
 
             int width = Window.Attributes.Width;
@@ -136,8 +150,36 @@ namespace ShakrLabs.ShotShakr
         protected override void OnPause()
         {
             base.OnPause();
+        }
+
+        public override bool OnOptionsItemSelected(IMenuItem item)
+        {
+            if (isnew)
+                return false;
+
+            switch (item.ItemId)
+            {
+                case Resource.Id.menu_share:
+                    Intent shareIntent = new Android.Content.Intent(Android.Content.Intent.ActionSend);
+
+                    
+                    shareIntent.PutExtra(Android.Content.Intent.ExtraText, String.Format("{0}{1}", _shakenShot.shot_name + System.Environment.NewLine, _shakenShot.ingredients));
+                    shareIntent.SetType("text/plain");
+                    StartActivity(Intent.CreateChooser(shareIntent, "Share Shot"));                   
+                    break;
+                default:
+                    break;
+            }
+            return true;
+        }
 
 
+
+        public override bool OnCreateOptionsMenu(IMenu menu)
+        {
+            Drawable d = Resources.GetDrawable(Android.Resource.Drawable.IcMenuShare);
+            MenuInflater.Inflate(Resource.Menu.ContextMenu, menu);
+            return true;
         }
 
         void mFlipper_Touch(object sender, View.TouchEventArgs e)
@@ -210,19 +252,26 @@ namespace ShakrLabs.ShotShakr
             {
                 isnew = false;
                 vibe.Vibrate(100);
-                var shakenShot = presenter.GetRandomShot();
+                _shakenShot = presenter.GetRandomShot();
+
+                //get random coaster
+                Random random = new Random();
+                int i = random.Next(1, 9);
+
                 //Added Here to conserve a History of shots
-                presenter.MyShakenShots.Add(shakenShot);
+                presenter.MyShakenShots.Add(_shakenShot);
                 if (isfirst)
                 {
+                    coaster.SetImageDrawable(coasters[i]);
                     shotName.SetTypeface(fontFace, TypefaceStyle.Normal);
-                    shotName.Text = shakenShot.shot_name;
+                    shotName.Text = _shakenShot.shot_name;
                     isfirst = false;
                 }
                 else
                 {
+                    coaster2.SetImageDrawable(coasters[i]);
                     shotName2.SetTypeface(fontFace, TypefaceStyle.Normal);
-                    shotName2.Text = shakenShot.shot_name;
+                    shotName2.Text = _shakenShot.shot_name;
                     isfirst = true;
                 }
 
@@ -317,6 +366,7 @@ namespace ShakrLabs.ShotShakr
 
 
         private static readonly DateTime Jan1st1970 = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+        private Shot _shakenShot;
 
         public long CurrentTimeMillis()
         {

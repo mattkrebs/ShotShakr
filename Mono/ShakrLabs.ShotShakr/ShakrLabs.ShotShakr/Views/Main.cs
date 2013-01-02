@@ -8,6 +8,7 @@ using Android.Widget;
 using Android.OS;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
 
 namespace ShakrLabs.ShotShakr
 {
@@ -15,7 +16,7 @@ namespace ShakrLabs.ShotShakr
     public class Main : Activity
     {
         int count = 1;
-
+        bool _taskRunning;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
@@ -25,7 +26,31 @@ namespace ShakrLabs.ShotShakr
 
 
             //Load Shots Into Memory
+            Task.Factory.StartNew(() =>
+            {
+               
+                }).ContinueWith((t) => 
+                { 
+                    FinishedLoad(); 
+                }, TaskScheduler.FromCurrentSynchronizationContext());
 
+
+
+
+            _taskRunning = false;
+
+            // Show the loading overlay on the UI thread
+            Task.Factory.StartNew(() => {LoadShots(); }).ContinueWith(t =>
+            {
+                FinishedLoad();
+            }, TaskScheduler.FromCurrentSynchronizationContext());
+
+            _taskRunning = true;
+
+           
+        }
+        void LoadShots()
+        {
             string content;
             //Reads the HTML file from the asset folder and puts it into a string.
             using (var sr = new StreamReader(Assets.Open("alldata.txt")))
@@ -33,13 +58,12 @@ namespace ShakrLabs.ShotShakr
 
             List<Shot> shots = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Shot>>(content);
 
-            ShotPresenter.Current.Shots =  shots;
+            ShotPresenter.Current.Shots = shots;
+        }
 
+        private void FinishedLoad()
+        {
             StartActivity(typeof(ShotPicker));
-
-
-
-           
         }
     }
 }

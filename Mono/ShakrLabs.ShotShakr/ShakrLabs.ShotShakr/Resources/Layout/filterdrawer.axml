@@ -27,26 +27,31 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/vodkabutton"
+                android:layout_weight="2"
                 android:id="@+id/chkVodka" />
             <CheckBox
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/tequilabutton"
+                android:layout_weight="2"
                 android:id="@+id/chkTequila" />
             <CheckBox
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/whiskeybutton"
+                android:layout_weight="2"
                 android:id="@+id/chkWhiskey" />
             <CheckBox
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/rumbutton"
+                android:layout_weight="2"
                 android:id="@+id/chkRum" />
             <CheckBox
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:button="@drawable/schnappsbutton"
+                android:layout_weight="2"
                 android:id="@+id/chkSchnapps" />
         </LinearLayout>
     </SlidingDrawer>
