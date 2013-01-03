@@ -61,7 +61,6 @@
     <Compile Include="Views\Main.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShakeListener.cs" />
     <Compile Include="Shot.cs" />
     <Compile Include="Views\ShotPicker.cs" />
     <Compile Include="ShotPresenter.cs" />
