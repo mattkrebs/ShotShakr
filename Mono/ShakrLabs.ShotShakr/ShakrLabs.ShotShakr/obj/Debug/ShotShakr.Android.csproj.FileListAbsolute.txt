@@ -3,9 +3,6 @@ C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\Sha
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShakrLabs.ShotShakr.dll.mdb
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\com.shakrlabs.shotshakr.apk
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\com.shakrlabs.shotshakr-Signed.apk
-C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\MonoCross.Utilities.MA.dll
-C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\MonoCross.Utilities.MA.pdb
-C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\MonoCross.Utilities.MA.dll.mdb
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\ShotShakr.Android.csprojResolveAssemblyReference.cache
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\ShakrLabs.ShotShakr.dll
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\ShakrLabs.ShotShakr.pdb
@@ -152,3 +149,8 @@ D:\MyProjects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\r
 D:\MyProjects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\ic_menu_share.png
 D:\MyProjects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\values\styles.xml
 D:\MyProjects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\actionbar_background.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\menu\contextmenu.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\ic_menu_share.png
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\values\styles.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\actionbar_background.xml

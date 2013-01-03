@@ -58,7 +58,11 @@ namespace ShakrLabs.ShotShakr
 
             List<Shot> shots = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Shot>>(content);
 
-            ShotPresenter.Current.Shots = shots;
+            ShotPresenter.Current.InsertShots(shots);
+            //preloads shots
+            var preload = ShotPresenter.Current.Shots;
+
+
         }
 
         private void FinishedLoad()

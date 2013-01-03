@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoCross.Utilities.MA", "MonoCross.Utilities\MonoCross.Utilities.MA.csproj", "{1657B775-3827-40DA-98AF-F8D9CAB44FDA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotShakr.Android", "ShakrLabs.ShotShakr\ShotShakr.Android.csproj", "{32731469-2A5C-4067-A280-0761794FD299}"
 EndProject
 Global
@@ -12,12 +10,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Device Deploy|Any CPU.ActiveCfg = Device Deploy|Any CPU
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Device Deploy|Any CPU.Build.0 = Device Deploy|Any CPU
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1657B775-3827-40DA-98AF-F8D9CAB44FDA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Deploy.0 = Debug|Any CPU

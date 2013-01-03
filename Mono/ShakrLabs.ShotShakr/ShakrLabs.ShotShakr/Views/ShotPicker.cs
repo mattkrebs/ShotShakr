@@ -17,7 +17,7 @@ using Android.Graphics.Drawables;
 
 namespace ShakrLabs.ShotShakr
 {
-    [Activity(Label = "ShotShakr", Icon="@drawable/icon", Theme="@style/ShotShakrTheme")]
+    [Activity(Label = "ShotShakr", Icon="@drawable/icon",ScreenOrientation= Android.Content.PM.ScreenOrientation.Portrait, Theme="@style/ShotShakrTheme")]
     public class ShotPicker : Activity, ISensorEventListener
     {
         private const int SHAKE_THRESHOLD = 500;
@@ -59,6 +59,9 @@ namespace ShakrLabs.ShotShakr
 
         public CheckBox chkVodka;
         public CheckBox chkTequila;
+        public CheckBox chkRum;
+        public CheckBox chkSchnapps;
+        public CheckBox chkWhiskey;
 
         List<String> filters = new List<String>();
         private GestureDetector gestureScanner;
@@ -69,8 +72,6 @@ namespace ShakrLabs.ShotShakr
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.shot_picker);
-
-           // RequestWindowFeature(WindowFeatures.ActionBar);
 
             this.ActionBar.NavigationMode = ActionBarNavigationMode.Standard;
             
@@ -91,9 +92,9 @@ namespace ShakrLabs.ShotShakr
             coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster8));
 
             coaster = this.FindViewById<ImageView>(Resource.Id.coaster);
-            coaster2 = this.FindViewById<ImageView>(Resource.Id.coaster2);
+            coaster2 = this.FindViewById<ImageView>(Resource.Id.coaster2);           
 
-
+            
             // /set Global Animations
             left_out = AnimationUtils.LoadAnimation(this, Resource.Animation.push_left_out);
             left_in = AnimationUtils.LoadAnimation(this, Resource.Animation.push_left_in);
@@ -127,14 +128,84 @@ namespace ShakrLabs.ShotShakr
 
             View inflatedDrawerLayout = LayoutInflater.Inflate(Resource.Layout.filterdrawer, null);
 
+          
+
             int width = Window.Attributes.Width;
             int height = Window.Attributes.Height;
 
             Android.Widget.LinearLayout.LayoutParams param = new Android.Widget.LinearLayout.LayoutParams(width, height);
             Window.AddContentView(inflatedDrawerLayout, param);
 
+            //Filter Checkboxes
+            chkVodka = FindViewById<CheckBox>(Resource.Id.chkVodka);
+            chkVodka.CheckedChange += chkVodka_CheckedChange;
+            chkTequila = FindViewById<CheckBox>(Resource.Id.chkTequila);
+            chkTequila.CheckedChange += chkTequila_CheckedChange;
+            chkSchnapps = FindViewById<CheckBox>(Resource.Id.chkSchnapps);
+            chkSchnapps.CheckedChange += chkSchnapps_CheckedChange;
+            chkRum = FindViewById<CheckBox>(Resource.Id.chkRum);
+            chkRum.CheckedChange += chkRum_CheckedChange;
+            chkWhiskey = FindViewById<CheckBox>(Resource.Id.chkWhiskey);
+            chkWhiskey.CheckedChange += chkWhiskey_CheckedChange;
 
 
+
+
+        }
+
+        void chkWhiskey_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
+        {
+            if (e.IsChecked)
+                ShotPresenter.Current.Filters.Add("whisky");
+            else
+                ShotPresenter.Current.Filters.Remove("whisky");
+
+            ShotPresenter.Current.Invalidate();
+        }
+
+        void chkRum_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
+        {
+            if (e.IsChecked)
+                ShotPresenter.Current.Filters.Add("rum");
+            else
+                ShotPresenter.Current.Filters.Remove("rum");
+            ShotPresenter.Current.Invalidate();
+
+
+        }
+
+        void chkSchnapps_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
+        {
+            if (e.IsChecked)
+                ShotPresenter.Current.Filters.Add("schnapps");
+            else
+                ShotPresenter.Current.Filters.Remove("schnapps");
+
+            ShotPresenter.Current.Invalidate();
+
+
+        }
+
+        void chkTequila_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
+        {
+            if (e.IsChecked)
+                ShotPresenter.Current.Filters.Add("tequila");
+            else
+                ShotPresenter.Current.Filters.Remove("tequila");
+
+            ShotPresenter.Current.Invalidate();
+
+
+        }
+
+        void chkVodka_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
+        {
+            if (e.IsChecked)
+                ShotPresenter.Current.Filters.Add("vodka");
+            else
+                ShotPresenter.Current.Filters.Remove("vodka");
+     
+            ShotPresenter.Current.Invalidate();
 
 
         }

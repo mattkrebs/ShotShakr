@@ -24,6 +24,10 @@ namespace ShakrLabs.ShotShakr
         public List<Shot> Shots {
             get
             {
+                if (_shots == null || _shots.Count == 0)
+                {
+                    _shots = Database.QueryAllStots(Filters).ToList();
+                }
                 return _shots;
             }
             set
@@ -31,6 +35,12 @@ namespace ShakrLabs.ShotShakr
                 _shots = value;
             }
         }
+        private List<String> _filters;
+        public List<String> Filters {
+            get { return _filters ?? (_filters = new List<String>()); } 
+            
+        }
+
         private static ShotPresenter _presenter;
         /// <summary>
         /// This property gets a reference to the singleton instance of the presenter.
@@ -48,8 +58,13 @@ namespace ShakrLabs.ShotShakr
             get { return _myShakenShots ?? (_myShakenShots = new List<Shot>()); } 
             
         }
-       
 
+        public void InsertShots(List<Shot> shots)
+        {
+            if (Shots == null || Shots.Count == 0)
+                Database.InsertShots(shots);
+        }
+        
 
         public Shot GetRandomShot()
         {
@@ -59,5 +74,10 @@ namespace ShakrLabs.ShotShakr
             return Shots[i];
         }
 
+
+        public void Invalidate()
+        {
+            _shots = new List<Shot>();
+        }
     }
 }
