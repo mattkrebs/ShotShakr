@@ -154,3 +154,6 @@ C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\ic_menu_share.png
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\values\styles.xml
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\obj\Debug\res\drawable\actionbar_background.xml
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShotShakr.Core.Android.dll
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShotShakr.Core.Android.pdb
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShotShakr.Core.Android.dll.mdb

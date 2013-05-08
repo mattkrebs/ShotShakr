@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace ShakrLabs.ShotShakr
+namespace ShotShakr.Core
 {
     public class Shot
     {   

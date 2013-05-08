@@ -1,2 +1,3 @@
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShakrLabs.ShotShakr.dll
+C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\ShotShakr.Core.Android.dll
 C:\Projects\ShotShakr\Mono\ShakrLabs.ShotShakr\ShakrLabs.ShotShakr\bin\Debug\Newtonsoft.Json.dll

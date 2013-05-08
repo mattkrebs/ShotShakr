@@ -9,14 +9,16 @@ using Android.OS;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
+using ShotShakr.Core;
+using System.Threading;
+using Newtonsoft.Json;
 
 namespace ShakrLabs.ShotShakr
 {
     [Activity(Label = "ShotShakr", MainLauncher = true, Icon = "@drawable/icon")]
     public class Main : Activity
     {
-        int count = 1;
-        bool _taskRunning;
+      
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
@@ -26,26 +28,31 @@ namespace ShakrLabs.ShotShakr
 
 
             //Load Shots Into Memory
-            Task.Factory.StartNew(() =>
-            {
-               
-                }).ContinueWith((t) => 
-                { 
-                    FinishedLoad(); 
-                }, TaskScheduler.FromCurrentSynchronizationContext());
-
-
-
-
-            _taskRunning = false;
-
+//            Task.Factory.StartNew(() =>
+//            {
+//               
+//                }).ContinueWith((t) => 
+//                { 
+//                    FinishedLoad(); 
+//                }, TaskScheduler.FromCurrentSynchronizationContext());
+//
+//
+//
+//
+//            _taskRunning = false;
             // Show the loading overlay on the UI thread
-            Task.Factory.StartNew(() => {LoadShots(); }).ContinueWith(t =>
+            Task.Factory.StartNew(() => {
+				if (ShotPresenter.Current.Shots.Count == 0)
+					LoadShots(); 
+				else
+					Thread.Sleep(3000);
+			
+			}).ContinueWith(t =>
             {
                 FinishedLoad();
             }, TaskScheduler.FromCurrentSynchronizationContext());
 
-            _taskRunning = true;
+           
 
            
         }
@@ -56,7 +63,7 @@ namespace ShakrLabs.ShotShakr
             using (var sr = new StreamReader(Assets.Open("alldata.txt")))
                 content = sr.ReadToEnd();
 
-            List<Shot> shots = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Shot>>(content);
+            List<Shot> shots = JsonConvert.DeserializeObject<List<Shot>>(content);
 
             ShotPresenter.Current.InsertShots(shots);
             //preloads shots

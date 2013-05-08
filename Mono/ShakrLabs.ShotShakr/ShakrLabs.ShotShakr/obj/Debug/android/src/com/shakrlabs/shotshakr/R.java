@@ -106,8 +106,9 @@ public final class R {
         public static final int contextmenu=0x7f070000;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f050001;
-        public static final int Hello=0x7f050000;
+        public static final int ApplicationName=0x7f050002;
+        public static final int Hello=0x7f050001;
+        public static final int library_name=0x7f050000;
     }
     public static final class style {
         public static final int MyActionBar=0x7f060001;

@@ -14,11 +14,12 @@ using Android.Views.Animations;
 using Android.Hardware;
 using System.Xml;
 using Android.Graphics.Drawables;
+using ShotShakr.Core;
 
 namespace ShakrLabs.ShotShakr
 {
     [Activity(Label = "ShotShakr", Icon="@drawable/icon",ScreenOrientation= Android.Content.PM.ScreenOrientation.Portrait, Theme="@style/ShotShakrTheme")]
-    public class ShotPicker : Activity, ISensorEventListener
+    public class ShotPicker : Activity, ISensorEventListener, GestureDetector.IOnGestureListener
     {
         private const int SHAKE_THRESHOLD = 500;
         private ViewFlipper mFlipper;
@@ -33,9 +34,9 @@ namespace ShakrLabs.ShotShakr
 
         private SensorManager _shakeListener;
 
-        private ImageButton btnTookThis;
+    //    private ImageButton btnTookThis;
 
-        private SlidingDrawer filterDrawer;
+    //    private SlidingDrawer filterDrawer;
 
         public ImageView coaster;
         public ImageView coaster2;
@@ -64,9 +65,10 @@ namespace ShakrLabs.ShotShakr
         public CheckBox chkWhiskey;
 
         List<String> filters = new List<String>();
-        private GestureDetector gestureScanner;
+       // private GestureDetector gestureScanner;
 
         private List<Drawable> coasters = new List<Drawable>();
+		private GestureDetector _gestureDetector;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -78,7 +80,7 @@ namespace ShakrLabs.ShotShakr
 
 
             _shakeListener = (SensorManager)GetSystemService(Context.SensorService);
-
+			_gestureDetector = new GestureDetector(this);
             //Load Coasters
 
             coasters.Add(Resources.GetDrawable(Resource.Drawable.coaster));
@@ -148,11 +150,12 @@ namespace ShakrLabs.ShotShakr
             chkWhiskey = FindViewById<CheckBox>(Resource.Id.chkWhiskey);
             chkWhiskey.CheckedChange += chkWhiskey_CheckedChange;
 
-
-
-
         }
-
+		public override bool OnTouchEvent (MotionEvent e)
+		{
+			_gestureDetector.OnTouchEvent(e);
+			return false;
+		}
         void chkWhiskey_CheckedChange(object sender, CompoundButton.CheckedChangeEventArgs e)
         {
             if (e.IsChecked)
@@ -302,9 +305,6 @@ namespace ShakrLabs.ShotShakr
         {
             Console.WriteLine("SelectedShot", "Shot Name = " + shotName);
 
-            //tracker.trackEvent("Touches", "Touch", shotName , 3);
-            //tracker.dispatch();
-
             var myShot = presenter.MyShakenShots[presenter.MyShakenShots.Count - 1];
 
             if (myShot != null)
@@ -371,6 +371,42 @@ namespace ShakrLabs.ShotShakr
             homescene = true;
         }
 
+		#region IOnGestureListener implementation
+		public bool OnDown (MotionEvent e)
+		{
+			return false;
+		}
+		public bool OnFling (MotionEvent e1, MotionEvent e2, float velocityX, float velocityY)
+		{
+			Console.WriteLine("Swipe,{0},{1},{2}",e1.GetY(),e2.GetY(),velocityX,velocityY);
+			if (Math.Abs(e1.GetY() - e2.GetY()) > SWIPE_MAX_OFF_PATH)
+				return false;
+
+			if (e2.GetX() - e1.GetX() > SWIPE_MIN_DISTANCE && Math.Abs(velocityX) > SWIPE_THRESHOLD_VELOCITY){
+				if(!homescene){
+					goBack();
+				}
+			
+			}
+			return false;
+		}
+		public void OnLongPress (MotionEvent e)
+		{
+
+		}
+		public bool OnScroll (MotionEvent e1, MotionEvent e2, float distanceX, float distanceY)
+		{
+			return false;
+		}
+		public void OnShowPress (MotionEvent e)
+		{
+			;
+		}
+		public bool OnSingleTapUp (MotionEvent e)
+		{
+			return false;
+		}
+		#endregion
 
         #region Shake Listener
 

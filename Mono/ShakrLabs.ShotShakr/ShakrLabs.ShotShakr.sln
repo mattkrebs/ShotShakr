@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotShakr.Android", "ShakrLabs.ShotShakr\ShotShakr.Android.csproj", "{32731469-2A5C-4067-A280-0761794FD299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotShakr.Core.Android", "ShotShakr.Core.Android\ShotShakr.Core.Android.csproj", "{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,11 +14,20 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Device Deploy|Any CPU.ActiveCfg = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Device Deploy|Any CPU.Build.0 = Debug|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32731469-2A5C-4067-A280-0761794FD299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Device Deploy|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Device Deploy|Any CPU.Build.0 = Debug|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFCF45D-8366-4C91-9013-AA0EFA07F7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32731469-2A5C-4067-A280-0761794FD299}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ShakrLabs.ShotShakr\ShotShakr.Android.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
